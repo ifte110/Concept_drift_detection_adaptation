@@ -1,0 +1,618 @@
+Global Epoch 1/20
+	Training Client 1/10
+Epoch 1/1, Loss: 102.59887062385678, Accuracy: 0.8318333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 104.12141359597445, Accuracy: 0.825
+	Training Client 3/10
+Epoch 1/1, Loss: 105.14207154512405, Accuracy: 0.825
+	Training Client 4/10
+Epoch 1/1, Loss: 105.81642675027251, Accuracy: 0.8298333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 105.03337533771992, Accuracy: 0.8238333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 101.9059755653143, Accuracy: 0.832
+	Training Client 7/10
+Epoch 1/1, Loss: 100.15726279839873, Accuracy: 0.8335
+	Training Client 8/10
+Epoch 1/1, Loss: 106.16156644746661, Accuracy: 0.8278333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 102.56894514523447, Accuracy: 0.8355
+	Training Client 10/10
+Epoch 1/1, Loss: 112.42720637097955, Accuracy: 0.8181666666666667
+	Aggregating client models
+Global Epoch 2/20
+	Training Client 1/10
+Epoch 1/1, Loss: 33.32931099459529, Accuracy: 0.9458333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 33.52803170681, Accuracy: 0.9508333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 31.41717474255711, Accuracy: 0.9506666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 33.3356780288741, Accuracy: 0.9481666666666667
+	Training Client 5/10
+Epoch 1/1, Loss: 31.123310812283307, Accuracy: 0.9475
+	Training Client 6/10
+Epoch 1/1, Loss: 31.34522099327296, Accuracy: 0.9506666666666667
+	Training Client 7/10
+Epoch 1/1, Loss: 32.126640271395445, Accuracy: 0.9508333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 32.37951217778027, Accuracy: 0.9475
+	Training Client 9/10
+Epoch 1/1, Loss: 36.058237513527274, Accuracy: 0.9425
+	Training Client 10/10
+Epoch 1/1, Loss: 34.07237305305898, Accuracy: 0.9438333333333333
+	Aggregating client models
+Global Epoch 3/20
+	Training Client 1/10
+Epoch 1/1, Loss: 22.974409219808877, Accuracy: 0.9605
+	Training Client 2/10
+Epoch 1/1, Loss: 22.217025498859584, Accuracy: 0.9635
+	Training Client 3/10
+Epoch 1/1, Loss: 21.00303331995383, Accuracy: 0.9665
+	Training Client 4/10
+Epoch 1/1, Loss: 22.42840020172298, Accuracy: 0.9633333333333334
+	Training Client 5/10
+Epoch 1/1, Loss: 20.933437003055587, Accuracy: 0.9663333333333334
+	Training Client 6/10
+Epoch 1/1, Loss: 21.851999967824668, Accuracy: 0.9646666666666667
+	Training Client 7/10
+Epoch 1/1, Loss: 18.87036931188777, Accuracy: 0.9685
+	Training Client 8/10
+Epoch 1/1, Loss: 21.540845758281648, Accuracy: 0.9641666666666666
+	Training Client 9/10
+Epoch 1/1, Loss: 23.34149177116342, Accuracy: 0.9621666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 20.935337795875967, Accuracy: 0.9661666666666666
+	Aggregating client models
+Global Epoch 4/20
+	Training Client 1/10
+Epoch 1/1, Loss: 17.1424629134126, Accuracy: 0.9701666666666666
+	Training Client 2/10
+Epoch 1/1, Loss: 18.23143939767033, Accuracy: 0.971
+	Training Client 3/10
+Epoch 1/1, Loss: 15.39022310974542, Accuracy: 0.9735
+	Training Client 4/10
+Epoch 1/1, Loss: 17.394049101509154, Accuracy: 0.972
+	Training Client 5/10
+Epoch 1/1, Loss: 16.978211186127737, Accuracy: 0.9705
+	Training Client 6/10
+Epoch 1/1, Loss: 15.492462647147477, Accuracy: 0.9721666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 14.863585739163682, Accuracy: 0.9758333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 17.284076877171174, Accuracy: 0.9718333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 19.257549299043603, Accuracy: 0.9691666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 15.862102488521487, Accuracy: 0.9755
+	Aggregating client models
+Global Epoch 5/20
+	Training Client 1/10
+Epoch 1/1, Loss: 14.067566337180324, Accuracy: 0.9765
+	Training Client 2/10
+Epoch 1/1, Loss: 15.000303839915432, Accuracy: 0.9761666666666666
+	Training Client 3/10
+Epoch 1/1, Loss: 13.521566004259512, Accuracy: 0.9773333333333334
+	Training Client 4/10
+Epoch 1/1, Loss: 14.921528080594726, Accuracy: 0.9765
+	Training Client 5/10
+Epoch 1/1, Loss: 13.7554879586678, Accuracy: 0.978
+	Training Client 6/10
+Epoch 1/1, Loss: 14.537496965727769, Accuracy: 0.9775
+	Training Client 7/10
+Epoch 1/1, Loss: 12.313363979337737, Accuracy: 0.9783333333333334
+	Training Client 8/10
+Epoch 1/1, Loss: 13.132417013752274, Accuracy: 0.9775
+	Training Client 9/10
+Epoch 1/1, Loss: 16.251334632514045, Accuracy: 0.9701666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 13.338707449438516, Accuracy: 0.9768333333333333
+	Aggregating client models
+Global Epoch 6/20
+	Training Client 1/10
+Epoch 1/1, Loss: 11.847756124159787, Accuracy: 0.9808333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 12.563786260492634, Accuracy: 0.981
+	Training Client 3/10
+Epoch 1/1, Loss: 10.824594740231987, Accuracy: 0.9815
+	Training Client 4/10
+Epoch 1/1, Loss: 12.671151601476595, Accuracy: 0.98
+	Training Client 5/10
+Epoch 1/1, Loss: 11.456379717332311, Accuracy: 0.9801666666666666
+	Training Client 6/10
+Epoch 1/1, Loss: 12.309091631905176, Accuracy: 0.9776666666666667
+	Training Client 7/10
+Epoch 1/1, Loss: 11.253568116604583, Accuracy: 0.9808333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 12.66138021601364, Accuracy: 0.9793333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 13.645389677258208, Accuracy: 0.977
+	Training Client 10/10
+Epoch 1/1, Loss: 11.288261060894001, Accuracy: 0.9825
+Global Epoch 6, Client 1: Drift detection is accurate.
+Global Epoch 6, Client 2: Drift detection is accurate.
+Global Epoch 6, Client 3: Drift detection is accurate.
+Global Epoch 6, Client 4: Drift detection is accurate.
+Global Epoch 6, Client 5: Drift detection is accurate.
+Global Epoch 6, Client 6: Drift detection is accurate.
+Global Epoch 6, Client 7: Drift detection is accurate.
+Global Epoch 6, Client 8: Drift detection is accurate.
+Global Epoch 6, Client 9: Drift detection is accurate.
+Global Epoch 6, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 7/20
+	Training Client 1/10
+Epoch 1/1, Loss: 10.833871296024881, Accuracy: 0.9815
+	Training Client 2/10
+Epoch 1/1, Loss: 13.041261752776336, Accuracy: 0.98
+	Training Client 3/10
+Epoch 1/1, Loss: 9.626071678925655, Accuracy: 0.9826666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 11.939084395067766, Accuracy: 0.9803333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 10.916053930093767, Accuracy: 0.9813333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 10.685296113078948, Accuracy: 0.9823333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 9.239916269478272, Accuracy: 0.9835
+	Training Client 8/10
+Epoch 1/1, Loss: 10.569147091475315, Accuracy: 0.9825
+	Training Client 9/10
+Epoch 1/1, Loss: 11.890861407038756, Accuracy: 0.9788333333333333
+	Training Client 10/10
+Epoch 1/1, Loss: 10.525875977706164, Accuracy: 0.9828333333333333
+Global Epoch 7, Client 1: Drift detection is accurate.
+Global Epoch 7, Client 2: Drift detection is accurate.
+Global Epoch 7, Client 3: Drift detection is accurate.
+Global Epoch 7, Client 4: Drift detection is accurate.
+Global Epoch 7, Client 5: Drift detection is accurate.
+Global Epoch 7, Client 6: Drift detection is accurate.
+Global Epoch 7, Client 7: Drift detection is accurate.
+Global Epoch 7, Client 8: Drift detection is accurate.
+Global Epoch 7, Client 9: Drift detection is accurate.
+Global Epoch 7, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 8/20
+	Training Client 1/10
+Epoch 1/1, Loss: 9.918703144416213, Accuracy: 0.983
+	Training Client 2/10
+Epoch 1/1, Loss: 10.489902413457457, Accuracy: 0.9831666666666666
+	Training Client 3/10
+Epoch 1/1, Loss: 8.674504664493725, Accuracy: 0.985
+	Training Client 4/10
+Epoch 1/1, Loss: 10.615064588258974, Accuracy: 0.9818333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 9.949446585771511, Accuracy: 0.9828333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 10.879709817440016, Accuracy: 0.9825
+	Training Client 7/10
+Epoch 1/1, Loss: 9.028603973740246, Accuracy: 0.9843333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 9.268323287193198, Accuracy: 0.9858333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 11.520161398861092, Accuracy: 0.9795
+	Training Client 10/10
+Epoch 1/1, Loss: 9.939122185722226, Accuracy: 0.9853333333333333
+Global Epoch 8, Client 1: Drift detection is accurate.
+Global Epoch 8, Client 2: Drift detection is accurate.
+Global Epoch 8, Client 3: Drift detection is accurate.
+Global Epoch 8, Client 4: Drift detection is accurate.
+Global Epoch 8, Client 5: Drift detection is accurate.
+Global Epoch 8, Client 6: Drift detection is accurate.
+Global Epoch 8, Client 7: Drift detection is accurate.
+Global Epoch 8, Client 8: Drift detection is accurate.
+Global Epoch 8, Client 9: Drift detection is accurate.
+Global Epoch 8, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 9/20
+	Training Client 1/10
+Epoch 1/1, Loss: 8.659079876670148, Accuracy: 0.986
+	Training Client 2/10
+Epoch 1/1, Loss: 10.870239665266126, Accuracy: 0.9831666666666666
+	Training Client 3/10
+Epoch 1/1, Loss: 8.023201939620776, Accuracy: 0.9866666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 9.751126604387537, Accuracy: 0.9838333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 8.779481138684787, Accuracy: 0.9845
+	Training Client 6/10
+Epoch 1/1, Loss: 9.646597247337922, Accuracy: 0.985
+	Training Client 7/10
+Epoch 1/1, Loss: 7.994836855941685, Accuracy: 0.9866666666666667
+	Training Client 8/10
+Epoch 1/1, Loss: 8.1860427352658, Accuracy: 0.9863333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 10.738050421059597, Accuracy: 0.9826666666666667
+	Training Client 10/10
+Epoch 1/1, Loss: 8.583286862703972, Accuracy: 0.9868333333333333
+Global Epoch 9, Client 1: Drift detection is accurate.
+Global Epoch 9, Client 2: Drift detection is accurate.
+Global Epoch 9, Client 3: Drift detection is accurate.
+Global Epoch 9, Client 4: Drift detection is accurate.
+Global Epoch 9, Client 5: Drift detection is accurate.
+Global Epoch 9, Client 6: Drift detection is accurate.
+Global Epoch 9, Client 7: Drift detection is accurate.
+Global Epoch 9, Client 8: Drift detection is accurate.
+Global Epoch 9, Client 9: Drift detection is accurate.
+Global Epoch 9, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 10/20
+	Training Client 1/10
+Epoch 1/1, Loss: 8.848376205685781, Accuracy: 0.985
+	Training Client 2/10
+Epoch 1/1, Loss: 10.13950952963205, Accuracy: 0.9851666666666666
+	Training Client 3/10
+Epoch 1/1, Loss: 6.384694574400783, Accuracy: 0.988
+	Training Client 4/10
+Epoch 1/1, Loss: 8.556376593041932, Accuracy: 0.9871666666666666
+	Training Client 5/10
+Epoch 1/1, Loss: 7.704354345871252, Accuracy: 0.9856666666666667
+	Training Client 6/10
+Epoch 1/1, Loss: 9.13505665208504, Accuracy: 0.9843333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 7.25122585013014, Accuracy: 0.9895
+	Training Client 8/10
+Epoch 1/1, Loss: 8.01014822300931, Accuracy: 0.9865
+	Training Client 9/10
+Epoch 1/1, Loss: 8.992787055976805, Accuracy: 0.985
+	Training Client 10/10
+Epoch 1/1, Loss: 8.045996779765119, Accuracy: 0.9876666666666667
+Global Epoch 10, Client 1: Drift detection is accurate.
+Global Epoch 10, Client 2: Drift detection is accurate.
+Global Epoch 10, Client 3: Drift detection is accurate.
+Global Epoch 10, Client 4: Drift detection is accurate.
+Global Epoch 10, Client 5: Drift detection is accurate.
+Global Epoch 10, Client 6: Drift detection is accurate.
+Global Epoch 10, Client 7: Drift detection is accurate.
+Global Epoch 10, Client 8: Drift detection is accurate.
+Global Epoch 10, Client 9: Drift detection is accurate.
+Global Epoch 10, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 11/20
+Swapping 100 features between classes 3 and 8, 5 and 6 in the train dataset for each client
+	Training Client 1/10
+Epoch 1/1, Loss: 8.040278215310536, Accuracy: 0.986
+	Training Client 2/10
+Epoch 1/1, Loss: 9.829911529363017, Accuracy: 0.9856666666666667
+	Training Client 3/10
+Epoch 1/1, Loss: 40.80709667690098, Accuracy: 0.9243333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 7.756871639947349, Accuracy: 0.9875
+	Training Client 5/10
+Epoch 1/1, Loss: 7.164081231079763, Accuracy: 0.9866666666666667
+	Training Client 6/10
+Epoch 1/1, Loss: 8.150048999479623, Accuracy: 0.9875
+	Training Client 7/10
+Epoch 1/1, Loss: 39.01231675874442, Accuracy: 0.9303333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 6.86583959771815, Accuracy: 0.9888333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 9.178187094112218, Accuracy: 0.9826666666666667
+	Training Client 10/10
+Epoch 1/1, Loss: 41.7779118809849, Accuracy: 0.9228333333333333
+Global Epoch 11, Client 1: Drift detection is accurate.
+Global Epoch 11, Client 2: Drift detection is accurate.
+Global Epoch 11, Client 3: Drift detection is inaccurate.
+Global Epoch 11, Client 4: Drift detection is accurate.
+Global Epoch 11, Client 5: Drift detection is accurate.
+Global Epoch 11, Client 6: Drift detection is accurate.
+Global Epoch 11, Client 7: Drift detection is inaccurate.
+Global Epoch 11, Client 8: Drift detection is accurate.
+Global Epoch 11, Client 9: Drift detection is accurate.
+Global Epoch 11, Client 10: Drift detection is inaccurate.
+	Aggregating client models
+Global Epoch 12/20
+	Training Client 1/10
+Epoch 1/1, Loss: 7.498934994560841, Accuracy: 0.9873333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 8.30590336993555, Accuracy: 0.9881666666666666
+	Training Client 3/10
+Epoch 1/1, Loss: 35.755064508877695, Accuracy: 0.9328333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 7.911496620028629, Accuracy: 0.988
+	Training Client 5/10
+Epoch 1/1, Loss: 6.814075293914357, Accuracy: 0.9885
+	Training Client 6/10
+Epoch 1/1, Loss: 7.0113208446746285, Accuracy: 0.988
+	Training Client 7/10
+Epoch 1/1, Loss: 34.95076426491141, Accuracy: 0.9358333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 6.406367028292152, Accuracy: 0.9871666666666666
+	Training Client 9/10
+Epoch 1/1, Loss: 7.970177115996194, Accuracy: 0.9875
+	Training Client 10/10
+Epoch 1/1, Loss: 36.57983424561098, Accuracy: 0.9288333333333333
+Global Epoch 12, Client 1: Drift detection is accurate.
+Global Epoch 12, Client 2: Drift detection is accurate.
+Global Epoch 12, Client 3: Drift detection is accurate.
+Global Epoch 12, Client 4: Drift detection is accurate.
+Global Epoch 12, Client 5: Drift detection is accurate.
+Global Epoch 12, Client 6: Drift detection is accurate.
+Global Epoch 12, Client 7: Drift detection is accurate.
+Global Epoch 12, Client 8: Drift detection is accurate.
+Global Epoch 12, Client 9: Drift detection is accurate.
+Global Epoch 12, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 13/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.692150532660889, Accuracy: 0.9903333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 7.409568805098388, Accuracy: 0.9893333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 33.20098263490945, Accuracy: 0.9346666666666666
+	Training Client 4/10
+Epoch 1/1, Loss: 7.851088766583416, Accuracy: 0.9863333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 6.789887240258395, Accuracy: 0.987
+	Training Client 6/10
+Epoch 1/1, Loss: 7.366114682867192, Accuracy: 0.9881666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 33.53008546680212, Accuracy: 0.938
+	Training Client 8/10
+Epoch 1/1, Loss: 6.4093236069711566, Accuracy: 0.9875
+	Training Client 9/10
+Epoch 1/1, Loss: 8.495006419936544, Accuracy: 0.9865
+	Training Client 10/10
+Epoch 1/1, Loss: 34.28108490165323, Accuracy: 0.9381666666666667
+Global Epoch 13, Client 1: Drift detection is accurate.
+Global Epoch 13, Client 2: Drift detection is accurate.
+Global Epoch 13, Client 3: Drift detection is accurate.
+Global Epoch 13, Client 4: Drift detection is accurate.
+Global Epoch 13, Client 5: Drift detection is accurate.
+Global Epoch 13, Client 6: Drift detection is accurate.
+Global Epoch 13, Client 7: Drift detection is accurate.
+Global Epoch 13, Client 8: Drift detection is accurate.
+Global Epoch 13, Client 9: Drift detection is accurate.
+Global Epoch 13, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 14/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.31452424996678, Accuracy: 0.9891666666666666
+	Training Client 2/10
+Epoch 1/1, Loss: 8.339711340806389, Accuracy: 0.9888333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 31.99427457805723, Accuracy: 0.9386666666666666
+	Training Client 4/10
+Epoch 1/1, Loss: 7.333820766922145, Accuracy: 0.9875
+	Training Client 5/10
+Epoch 1/1, Loss: 6.496763933086186, Accuracy: 0.9878333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 6.319139736457146, Accuracy: 0.9898333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 31.400873091071844, Accuracy: 0.9411666666666667
+	Training Client 8/10
+Epoch 1/1, Loss: 6.04084570420855, Accuracy: 0.9898333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 7.282245830567263, Accuracy: 0.9865
+	Training Client 10/10
+Epoch 1/1, Loss: 31.572774725966156, Accuracy: 0.9403333333333334
+Global Epoch 14, Client 1: Drift detection is accurate.
+Global Epoch 14, Client 2: Drift detection is accurate.
+Global Epoch 14, Client 3: Drift detection is accurate.
+Global Epoch 14, Client 4: Drift detection is accurate.
+Global Epoch 14, Client 5: Drift detection is accurate.
+Global Epoch 14, Client 6: Drift detection is accurate.
+Global Epoch 14, Client 7: Drift detection is accurate.
+Global Epoch 14, Client 8: Drift detection is accurate.
+Global Epoch 14, Client 9: Drift detection is accurate.
+Global Epoch 14, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 15/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.45938276695415, Accuracy: 0.9886666666666667
+	Training Client 2/10
+Epoch 1/1, Loss: 7.914366112250718, Accuracy: 0.9881666666666666
+	Training Client 3/10
+Epoch 1/1, Loss: 30.680884029716253, Accuracy: 0.9421666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 6.506194338806381, Accuracy: 0.9898333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 6.432733085061045, Accuracy: 0.989
+	Training Client 6/10
+Epoch 1/1, Loss: 6.376875650769534, Accuracy: 0.9891666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 31.153272171039134, Accuracy: 0.9425
+	Training Client 8/10
+Epoch 1/1, Loss: 5.749429481647894, Accuracy: 0.9906666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 5.987484998986474, Accuracy: 0.9891666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 31.508368856622837, Accuracy: 0.942
+Global Epoch 15, Client 1: Drift detection is accurate.
+Global Epoch 15, Client 2: Drift detection is accurate.
+Global Epoch 15, Client 3: Drift detection is accurate.
+Global Epoch 15, Client 4: Drift detection is accurate.
+Global Epoch 15, Client 5: Drift detection is accurate.
+Global Epoch 15, Client 6: Drift detection is accurate.
+Global Epoch 15, Client 7: Drift detection is accurate.
+Global Epoch 15, Client 8: Drift detection is accurate.
+Global Epoch 15, Client 9: Drift detection is accurate.
+Global Epoch 15, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 16/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.109849766420666, Accuracy: 0.9895
+	Training Client 2/10
+Epoch 1/1, Loss: 8.308489218150498, Accuracy: 0.9876666666666667
+	Training Client 3/10
+Epoch 1/1, Loss: 29.44763720734045, Accuracy: 0.9436666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 5.683754674098964, Accuracy: 0.991
+	Training Client 5/10
+Epoch 1/1, Loss: 5.416244027132507, Accuracy: 0.99
+	Training Client 6/10
+Epoch 1/1, Loss: 6.0497396245955315, Accuracy: 0.9913333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 29.323422661982477, Accuracy: 0.9483333333333334
+	Training Client 8/10
+Epoch 1/1, Loss: 5.120076844471441, Accuracy: 0.9905
+	Training Client 9/10
+Epoch 1/1, Loss: 6.3556251666923345, Accuracy: 0.9875
+	Training Client 10/10
+Epoch 1/1, Loss: 28.927890497725457, Accuracy: 0.9483333333333334
+Global Epoch 16, Client 1: Drift detection is accurate.
+Global Epoch 16, Client 2: Drift detection is accurate.
+Global Epoch 16, Client 3: Drift detection is accurate.
+Global Epoch 16, Client 4: Drift detection is accurate.
+Global Epoch 16, Client 5: Drift detection is accurate.
+Global Epoch 16, Client 6: Drift detection is accurate.
+Global Epoch 16, Client 7: Drift detection is accurate.
+Global Epoch 16, Client 8: Drift detection is accurate.
+Global Epoch 16, Client 9: Drift detection is accurate.
+Global Epoch 16, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 17/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.49642100013898, Accuracy: 0.9913333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 6.036962344773201, Accuracy: 0.9893333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 27.6856734091416, Accuracy: 0.9483333333333334
+	Training Client 4/10
+Epoch 1/1, Loss: 5.50099788192756, Accuracy: 0.9908333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 5.857993946272018, Accuracy: 0.9915
+	Training Client 6/10
+Epoch 1/1, Loss: 6.3121954510279465, Accuracy: 0.9891666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 28.59214770561084, Accuracy: 0.9476666666666667
+	Training Client 8/10
+Epoch 1/1, Loss: 5.379165545408341, Accuracy: 0.9906666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 5.537458625432919, Accuracy: 0.9913333333333333
+	Training Client 10/10
+Epoch 1/1, Loss: 28.46397969382815, Accuracy: 0.9483333333333334
+Global Epoch 17, Client 1: Drift detection is accurate.
+Global Epoch 17, Client 2: Drift detection is accurate.
+Global Epoch 17, Client 3: Drift detection is accurate.
+Global Epoch 17, Client 4: Drift detection is accurate.
+Global Epoch 17, Client 5: Drift detection is accurate.
+Global Epoch 17, Client 6: Drift detection is accurate.
+Global Epoch 17, Client 7: Drift detection is accurate.
+Global Epoch 17, Client 8: Drift detection is accurate.
+Global Epoch 17, Client 9: Drift detection is accurate.
+Global Epoch 17, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 18/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.446508610561523, Accuracy: 0.992
+	Training Client 2/10
+Epoch 1/1, Loss: 6.474049355725583, Accuracy: 0.9915
+	Training Client 3/10
+Epoch 1/1, Loss: 27.023939929902554, Accuracy: 0.9496666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 5.828588753437771, Accuracy: 0.9903333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 5.3157482361193615, Accuracy: 0.9895
+	Training Client 6/10
+Epoch 1/1, Loss: 5.63518428066709, Accuracy: 0.9905
+	Training Client 7/10
+Epoch 1/1, Loss: 26.59037681319751, Accuracy: 0.9493333333333334
+	Training Client 8/10
+Epoch 1/1, Loss: 4.807646888950558, Accuracy: 0.992
+	Training Client 9/10
+Epoch 1/1, Loss: 6.021658770536305, Accuracy: 0.9906666666666667
+	Training Client 10/10
+Epoch 1/1, Loss: 26.44088880927302, Accuracy: 0.952
+Global Epoch 18, Client 1: Drift detection is accurate.
+Global Epoch 18, Client 2: Drift detection is accurate.
+Global Epoch 18, Client 3: Drift detection is accurate.
+Global Epoch 18, Client 4: Drift detection is accurate.
+Global Epoch 18, Client 5: Drift detection is accurate.
+Global Epoch 18, Client 6: Drift detection is accurate.
+Global Epoch 18, Client 7: Drift detection is accurate.
+Global Epoch 18, Client 8: Drift detection is accurate.
+Global Epoch 18, Client 9: Drift detection is accurate.
+Global Epoch 18, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 19/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.181841725068807, Accuracy: 0.9931666666666666
+	Training Client 2/10
+Epoch 1/1, Loss: 6.888719168640819, Accuracy: 0.9883333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 25.276786794885993, Accuracy: 0.9506666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 5.677834313964922, Accuracy: 0.9906666666666667
+	Training Client 5/10
+Epoch 1/1, Loss: 5.188687992344285, Accuracy: 0.9905
+	Training Client 6/10
+Epoch 1/1, Loss: 5.4308085076909265, Accuracy: 0.9901666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 26.07539387512952, Accuracy: 0.9518333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 4.301468617668519, Accuracy: 0.9926666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 5.4568824989764835, Accuracy: 0.99
+	Training Client 10/10
+Epoch 1/1, Loss: 25.36697441386059, Accuracy: 0.954
+Global Epoch 19, Client 1: Drift detection is accurate.
+Global Epoch 19, Client 2: Drift detection is accurate.
+Global Epoch 19, Client 3: Drift detection is accurate.
+Global Epoch 19, Client 4: Drift detection is accurate.
+Global Epoch 19, Client 5: Drift detection is accurate.
+Global Epoch 19, Client 6: Drift detection is accurate.
+Global Epoch 19, Client 7: Drift detection is accurate.
+Global Epoch 19, Client 8: Drift detection is accurate.
+Global Epoch 19, Client 9: Drift detection is accurate.
+Global Epoch 19, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 20/20
+	Training Client 1/10
+Epoch 1/1, Loss: 4.594474460247511, Accuracy: 0.9916666666666667
+	Training Client 2/10
+Epoch 1/1, Loss: 6.240746989607487, Accuracy: 0.9908333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 25.235671089729294, Accuracy: 0.9506666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 5.6615980447127185, Accuracy: 0.9891666666666666
+	Training Client 5/10
+Epoch 1/1, Loss: 4.932225841453146, Accuracy: 0.9906666666666667
+	Training Client 6/10
+Epoch 1/1, Loss: 6.199778616961339, Accuracy: 0.9901666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 25.650806495919824, Accuracy: 0.9501666666666667
+	Training Client 8/10
+Epoch 1/1, Loss: 3.6922289110158317, Accuracy: 0.994
+	Training Client 9/10
+Epoch 1/1, Loss: 5.399340823948023, Accuracy: 0.9901666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 24.33081239229068, Accuracy: 0.9545
+Global Epoch 20, Client 1: Drift detection is accurate.
+Global Epoch 20, Client 2: Drift detection is accurate.
+Global Epoch 20, Client 3: Drift detection is accurate.
+Global Epoch 20, Client 4: Drift detection is accurate.
+Global Epoch 20, Client 5: Drift detection is accurate.
+Global Epoch 20, Client 6: Drift detection is accurate.
+Global Epoch 20, Client 7: Drift detection is accurate.
+Global Epoch 20, Client 8: Drift detection is accurate.
+Global Epoch 20, Client 9: Drift detection is accurate.
+Global Epoch 20, Client 10: Drift detection is accurate.
+	Aggregating client models
+Testing Client 1/10
+	Accuracy for Client 1/10: 0.9919
+Testing Client 2/10
+	Accuracy for Client 2/10: 0.9919
+Testing Client 3/10
+	Accuracy for Client 3/10: 0.9919
+Testing Client 4/10
+	Accuracy for Client 4/10: 0.9919
+Testing Client 5/10
+	Accuracy for Client 5/10: 0.9919
+Testing Client 6/10
+	Accuracy for Client 6/10: 0.9919
+Testing Client 7/10
+	Accuracy for Client 7/10: 0.9919
+Testing Client 8/10
+	Accuracy for Client 8/10: 0.9919
+Testing Client 9/10
+	Accuracy for Client 9/10: 0.9919
+Testing Client 10/10
+	Accuracy for Client 10/10: 0.9919
+Drift Detection metircs::: true_positives:27,true_negatives:120,false_positives:0,false_negatives:3
+Drift Detection Performance:
+Accuracy: 0.98
+Precision: 1.0
+Recall: 0.9
+F1 Score: 0.9473684210526316
+Client Accuracies: [0.9919, 0.9919, 0.9919, 0.9919, 0.9919, 0.9919, 0.9919, 0.9919, 0.9919, 0.9919]

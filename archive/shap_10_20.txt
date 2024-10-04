@@ -1,0 +1,1028 @@
+Global Epoch 1/20
+	Training Client 1/10
+Epoch 1/1, Loss: 65.48713751137257, Accuracy: 0.7883333333333333
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 62.46544275432825, Accuracy: 0.8085
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 59.99452094733715, Accuracy: 0.8083333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 62.905396960675716, Accuracy: 0.8025
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 65.257758051157, Accuracy: 0.7918333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 64.85760444402695, Accuracy: 0.7968333333333333
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 65.98017621040344, Accuracy: 0.7893333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 61.10503551363945, Accuracy: 0.8015
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 62.91773496568203, Accuracy: 0.808
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 63.64534451067448, Accuracy: 0.7983333333333333
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+	Aggregating client models
+Global Epoch 2/20
+	Training Client 1/10
+Epoch 1/1, Loss: 20.24230494350195, Accuracy: 0.9315
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 17.630254350602627, Accuracy: 0.9465
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 17.018977109342813, Accuracy: 0.944
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 17.455743722617626, Accuracy: 0.947
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 19.58274384215474, Accuracy: 0.9358333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 19.653235737234354, Accuracy: 0.9396666666666667
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 18.643816586583853, Accuracy: 0.9411666666666667
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 19.426815569400787, Accuracy: 0.9358333333333333
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 19.793560288846493, Accuracy: 0.9355
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 18.756640788167715, Accuracy: 0.9413333333333334
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 2, Client 1: Kolmogorov–Smirnov test statistic: 0.1626984126984127, p-value: 0.002494074433101255
+Global Epoch 2, Client 2: Kolmogorov–Smirnov test statistic: 0.20141342756183744, p-value: 1.9489262432185313e-05
+Global Epoch 2, Client 3: Kolmogorov–Smirnov test statistic: 0.10557184750733138, p-value: 0.04464814289064687
+Global Epoch 2, Client 4: Kolmogorov–Smirnov test statistic: 0.13134328358208955, p-value: 0.0061334558307402426
+Global Epoch 2, Client 5: Kolmogorov–Smirnov test statistic: 0.09333333333333334, p-value: 0.14660689047075634
+Global Epoch 2, Client 6: Kolmogorov–Smirnov test statistic: 0.05572755417956656, p-value: 0.6983719219040418
+Global Epoch 2, Client 7: Kolmogorov–Smirnov test statistic: 0.12544802867383512, p-value: 0.024693799035051995
+Global Epoch 2, Client 8: Kolmogorov–Smirnov test statistic: 0.15841584158415842, p-value: 0.0009777589694458884
+Global Epoch 2, Client 9: Kolmogorov–Smirnov test statistic: 0.059748427672955975, p-value: 0.6222371514184046
+Global Epoch 2, Client 10: Kolmogorov–Smirnov test statistic: 0.11746031746031746, p-value: 0.025835737002756404
+	Aggregating client models
+Global Epoch 3/20
+	Training Client 1/10
+Epoch 1/1, Loss: 12.962900962680578, Accuracy: 0.958
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 11.149399033747613, Accuracy: 0.9648333333333333
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 10.889127545058727, Accuracy: 0.9635
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 12.369224118068814, Accuracy: 0.9628333333333333
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 11.889876160770655, Accuracy: 0.9626666666666667
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 11.886778375133872, Accuracy: 0.962
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 12.27365849353373, Accuracy: 0.9578333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 12.882922040298581, Accuracy: 0.9555
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 12.566178319975734, Accuracy: 0.9606666666666667
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 12.346036883071065, Accuracy: 0.9603333333333334
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 3, Client 1: Kolmogorov–Smirnov test statistic: 0.22357723577235772, p-value: 8.43983714042307e-06
+Global Epoch 3, Client 2: Kolmogorov–Smirnov test statistic: 0.06451612903225806, p-value: 0.607890615053149
+Global Epoch 3, Client 3: Kolmogorov–Smirnov test statistic: 0.14285714285714285, p-value: 0.00319179446124742
+Global Epoch 3, Client 4: Kolmogorov–Smirnov test statistic: 0.17313432835820897, p-value: 8.403967271769405e-05
+Global Epoch 3, Client 5: Kolmogorov–Smirnov test statistic: 0.0912280701754386, p-value: 0.18661778613606247
+Global Epoch 3, Client 6: Kolmogorov–Smirnov test statistic: 0.1592356687898089, p-value: 0.0006824638306663335
+Global Epoch 3, Client 7: Kolmogorov–Smirnov test statistic: 0.15867158671586715, p-value: 0.0021422057627744117
+Global Epoch 3, Client 8: Kolmogorov–Smirnov test statistic: 0.0859106529209622, p-value: 0.233373231415268
+Global Epoch 3, Client 9: Kolmogorov–Smirnov test statistic: 0.109375, p-value: 0.04342824371944896
+Global Epoch 3, Client 10: Kolmogorov–Smirnov test statistic: 0.07384615384615385, p-value: 0.33861751626974035
+	Aggregating client models
+Global Epoch 4/20
+	Training Client 1/10
+Epoch 1/1, Loss: 10.08537716511637, Accuracy: 0.9676666666666667
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 8.515980155207217, Accuracy: 0.9726666666666667
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 8.488567132502794, Accuracy: 0.9736666666666667
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 9.620519746094942, Accuracy: 0.9721666666666666
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 9.585876885801554, Accuracy: 0.966
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 9.821577339433134, Accuracy: 0.9696666666666667
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 9.160526556894183, Accuracy: 0.9698333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 8.997199147939682, Accuracy: 0.972
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 9.551162007730454, Accuracy: 0.9686666666666667
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 10.02257776260376, Accuracy: 0.9701666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 4, Client 1: Kolmogorov–Smirnov test statistic: 0.1602787456445993, p-value: 0.0012326685388595465
+Global Epoch 4, Client 2: Kolmogorov–Smirnov test statistic: 0.05228758169934641, p-value: 0.7978895331586956
+Global Epoch 4, Client 3: Kolmogorov–Smirnov test statistic: 0.2689873417721519, p-value: 1.8377925011324615e-10
+Global Epoch 4, Client 4: Kolmogorov–Smirnov test statistic: 0.09508196721311475, p-value: 0.12693158160515006
+Global Epoch 4, Client 5: Kolmogorov–Smirnov test statistic: 0.13523131672597866, p-value: 0.011652855877242362
+Global Epoch 4, Client 6: Kolmogorov–Smirnov test statistic: 0.10377358490566038, p-value: 0.0650773853547194
+Global Epoch 4, Client 7: Kolmogorov–Smirnov test statistic: 0.1254125412541254, p-value: 0.016955144533887717
+Global Epoch 4, Client 8: Kolmogorov–Smirnov test statistic: 0.10191082802547771, p-value: 0.07664998206209324
+Global Epoch 4, Client 9: Kolmogorov–Smirnov test statistic: 0.10248447204968944, p-value: 0.0679116127440656
+Global Epoch 4, Client 10: Kolmogorov–Smirnov test statistic: 0.04716981132075472, p-value: 0.8718779442174253
+	Aggregating client models
+Global Epoch 5/20
+	Training Client 1/10
+Epoch 1/1, Loss: 8.739888524636626, Accuracy: 0.9701666666666666
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 7.590738185681403, Accuracy: 0.9771666666666666
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 7.146077893208712, Accuracy: 0.9778333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 7.916551315691322, Accuracy: 0.9733333333333334
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 7.579099977388978, Accuracy: 0.9726666666666667
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 8.424757837317884, Accuracy: 0.9705
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 7.427029084414244, Accuracy: 0.9743333333333334
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 7.273399486206472, Accuracy: 0.9756666666666667
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 8.400517743080854, Accuracy: 0.9738333333333333
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 8.015422225929797, Accuracy: 0.9741666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 5, Client 1: Kolmogorov–Smirnov test statistic: 0.10921501706484642, p-value: 0.060643236576524484
+Global Epoch 5, Client 2: Kolmogorov–Smirnov test statistic: 0.10437710437710437, p-value: 0.078627825611065
+Global Epoch 5, Client 3: Kolmogorov–Smirnov test statistic: 0.15835777126099707, p-value: 0.0003776319718660155
+Global Epoch 5, Client 4: Kolmogorov–Smirnov test statistic: 0.134375, p-value: 0.006137165191685189
+Global Epoch 5, Client 5: Kolmogorov–Smirnov test statistic: 0.07692307692307693, p-value: 0.31482613288791556
+Global Epoch 5, Client 6: Kolmogorov–Smirnov test statistic: 0.09119496855345911, p-value: 0.1420811438985764
+Global Epoch 5, Client 7: Kolmogorov–Smirnov test statistic: 0.06382978723404255, p-value: 0.5147445272069584
+Global Epoch 5, Client 8: Kolmogorov–Smirnov test statistic: 0.08868501529051988, p-value: 0.15280618066448634
+Global Epoch 5, Client 9: Kolmogorov–Smirnov test statistic: 0.15181518151815182, p-value: 0.0018257187703752526
+Global Epoch 5, Client 10: Kolmogorov–Smirnov test statistic: 0.08116883116883117, p-value: 0.2625730416872148
+	Aggregating client models
+Global Epoch 6/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.9595553483814, Accuracy: 0.9771666666666666
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 6.70607449952513, Accuracy: 0.9796666666666667
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 6.15369282476604, Accuracy: 0.9795
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 7.057205051649362, Accuracy: 0.9776666666666667
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 7.1242910688742995, Accuracy: 0.9753333333333334
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 7.525037888903171, Accuracy: 0.9748333333333333
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 6.299852940719575, Accuracy: 0.9808333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 6.3748893821612, Accuracy: 0.9773333333333334
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 7.67179961130023, Accuracy: 0.9751666666666666
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 6.833091328851879, Accuracy: 0.9791666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 6, Client 1: Kolmogorov–Smirnov test statistic: 0.08108108108108109, p-value: 0.28521926396751346
+Global Epoch 6, Client 2: Kolmogorov–Smirnov test statistic: 0.12459016393442623, p-value: 0.017495855973467974
+Global Epoch 6, Client 3: Kolmogorov–Smirnov test statistic: 0.12615384615384614, p-value: 0.01127739481150359
+Global Epoch 6, Client 4: Kolmogorov–Smirnov test statistic: 0.10059171597633136, p-value: 0.0653684887130066
+Global Epoch 6, Client 5: Kolmogorov–Smirnov test statistic: 0.06896551724137931, p-value: 0.43456853799831713
+Global Epoch 6, Client 6: Kolmogorov–Smirnov test statistic: 0.054878048780487805, p-value: 0.7074183225900579
+Global Epoch 6, Client 7: Kolmogorov–Smirnov test statistic: 0.06784660766961652, p-value: 0.41668626655998925
+Global Epoch 6, Client 8: Kolmogorov–Smirnov test statistic: 0.10828025477707007, p-value: 0.0503008431176243
+Global Epoch 6, Client 9: Kolmogorov–Smirnov test statistic: 0.07028753993610223, p-value: 0.4224951468621199
+Global Epoch 6, Client 10: Kolmogorov–Smirnov test statistic: 0.14984709480122324, p-value: 0.0012738069824660208
+Global Epoch 6, Client 1: Drift detection is accurate.
+Global Epoch 6, Client 2: Drift detection is accurate.
+Global Epoch 6, Client 3: Drift detection is accurate.
+Global Epoch 6, Client 4: Drift detection is accurate.
+Global Epoch 6, Client 5: Drift detection is accurate.
+Global Epoch 6, Client 6: Drift detection is accurate.
+Global Epoch 6, Client 7: Drift detection is accurate.
+Global Epoch 6, Client 8: Drift detection is accurate.
+Global Epoch 6, Client 9: Drift detection is accurate.
+Global Epoch 6, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 7/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.752841375302523, Accuracy: 0.9771666666666666
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 5.455288662109524, Accuracy: 0.9808333333333333
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 5.3941715830005705, Accuracy: 0.9821666666666666
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 6.236324152210727, Accuracy: 0.9791666666666666
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 6.305569538380951, Accuracy: 0.9768333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 6.140583694214001, Accuracy: 0.9786666666666667
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 5.861613963381387, Accuracy: 0.9808333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 5.89452028600499, Accuracy: 0.9803333333333333
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 6.573046916164458, Accuracy: 0.9788333333333333
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 5.973867769120261, Accuracy: 0.9808333333333333
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 7, Client 1: Kolmogorov–Smirnov test statistic: 0.19543973941368079, p-value: 1.5270280206076333e-05
+Global Epoch 7, Client 2: Kolmogorov–Smirnov test statistic: 0.13109756097560976, p-value: 0.007071743257916794
+Global Epoch 7, Client 3: Kolmogorov–Smirnov test statistic: 0.1597444089456869, p-value: 0.0006651592789955488
+Global Epoch 7, Client 4: Kolmogorov–Smirnov test statistic: 0.13245033112582782, p-value: 0.00993564041500646
+Global Epoch 7, Client 5: Kolmogorov–Smirnov test statistic: 0.05246913580246913, p-value: 0.7647508589420227
+Global Epoch 7, Client 6: Kolmogorov–Smirnov test statistic: 0.1262135922330097, p-value: 0.01448972378792629
+Global Epoch 7, Client 7: Kolmogorov–Smirnov test statistic: 0.05642633228840126, p-value: 0.6909603901591627
+Global Epoch 7, Client 8: Kolmogorov–Smirnov test statistic: 0.08359133126934984, p-value: 0.20928330690600822
+Global Epoch 7, Client 9: Kolmogorov–Smirnov test statistic: 0.057750759878419454, p-value: 0.6436238138317607
+Global Epoch 7, Client 10: Kolmogorov–Smirnov test statistic: 0.06451612903225806, p-value: 0.47748259911259766
+Global Epoch 7, Client 1: Drift detection is not accurate.
+Global Epoch 7, Client 2: Drift detection is accurate.
+Global Epoch 7, Client 3: Drift detection is not accurate.
+Global Epoch 7, Client 4: Drift detection is accurate.
+Global Epoch 7, Client 5: Drift detection is accurate.
+Global Epoch 7, Client 6: Drift detection is accurate.
+Global Epoch 7, Client 7: Drift detection is accurate.
+Global Epoch 7, Client 8: Drift detection is accurate.
+Global Epoch 7, Client 9: Drift detection is accurate.
+Global Epoch 7, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 8/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.856483137700707, Accuracy: 0.9803333333333333
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 5.010797784663737, Accuracy: 0.9836666666666667
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 4.589085949584842, Accuracy: 0.9845
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 5.597615667851642, Accuracy: 0.9816666666666667
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 5.40316944103688, Accuracy: 0.9805
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 5.9278477896004915, Accuracy: 0.9796666666666667
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 5.382928523235023, Accuracy: 0.9821666666666666
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 4.994913537753746, Accuracy: 0.9833333333333333
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 5.7643494959920645, Accuracy: 0.9806666666666667
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 5.7466827617026865, Accuracy: 0.9826666666666667
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 8, Client 1: Kolmogorov–Smirnov test statistic: 0.08459214501510574, p-value: 0.18721949392265166
+Global Epoch 8, Client 2: Kolmogorov–Smirnov test statistic: 0.1437308868501529, p-value: 0.0022991139830571233
+Global Epoch 8, Client 3: Kolmogorov–Smirnov test statistic: 0.09342560553633218, p-value: 0.1605509524607073
+Global Epoch 8, Client 4: Kolmogorov–Smirnov test statistic: 0.09120521172638436, p-value: 0.15560556410514864
+Global Epoch 8, Client 5: Kolmogorov–Smirnov test statistic: 0.08282208588957055, p-value: 0.21366163690573378
+Global Epoch 8, Client 6: Kolmogorov–Smirnov test statistic: 0.10135135135135136, p-value: 0.09560156410124612
+Global Epoch 8, Client 7: Kolmogorov–Smirnov test statistic: 0.08463949843260188, p-value: 0.20345980067917444
+Global Epoch 8, Client 8: Kolmogorov–Smirnov test statistic: 0.12195121951219512, p-value: 0.015152626566991515
+Global Epoch 8, Client 9: Kolmogorov–Smirnov test statistic: 0.041666666666666664, p-value: 0.9499065344511678
+Global Epoch 8, Client 10: Kolmogorov–Smirnov test statistic: 0.06172839506172839, p-value: 0.5683393336679352
+Global Epoch 8, Client 1: Drift detection is accurate.
+Global Epoch 8, Client 2: Drift detection is not accurate.
+Global Epoch 8, Client 3: Drift detection is accurate.
+Global Epoch 8, Client 4: Drift detection is accurate.
+Global Epoch 8, Client 5: Drift detection is accurate.
+Global Epoch 8, Client 6: Drift detection is accurate.
+Global Epoch 8, Client 7: Drift detection is accurate.
+Global Epoch 8, Client 8: Drift detection is accurate.
+Global Epoch 8, Client 9: Drift detection is accurate.
+Global Epoch 8, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 9/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.341284683439881, Accuracy: 0.9833333333333333
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 4.448660509311594, Accuracy: 0.9841666666666666
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 4.188508998369798, Accuracy: 0.9883333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 5.042466315208003, Accuracy: 0.9831666666666666
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 4.831666559679434, Accuracy: 0.9841666666666666
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 5.089972738060169, Accuracy: 0.9823333333333333
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 4.747346467105672, Accuracy: 0.983
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 4.3544372176984325, Accuracy: 0.9873333333333333
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 5.319486162974499, Accuracy: 0.9851666666666666
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 5.2050822312012315, Accuracy: 0.9843333333333333
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 9, Client 1: Kolmogorov–Smirnov test statistic: 0.11143695014662756, p-value: 0.028896754517681623
+Global Epoch 9, Client 2: Kolmogorov–Smirnov test statistic: 0.12091503267973856, p-value: 0.02272430798874378
+Global Epoch 9, Client 3: Kolmogorov–Smirnov test statistic: 0.19230769230769232, p-value: 1.8482499141142196e-05
+Global Epoch 9, Client 4: Kolmogorov–Smirnov test statistic: 0.13134328358208955, p-value: 0.0061334558307402426
+Global Epoch 9, Client 5: Kolmogorov–Smirnov test statistic: 0.07096774193548387, p-value: 0.4164019815017497
+Global Epoch 9, Client 6: Kolmogorov–Smirnov test statistic: 0.07096774193548387, p-value: 0.4164019815017497
+Global Epoch 9, Client 7: Kolmogorov–Smirnov test statistic: 0.1111111111111111, p-value: 0.03655545420704698
+Global Epoch 9, Client 8: Kolmogorov–Smirnov test statistic: 0.08620689655172414, p-value: 0.15062560637276484
+Global Epoch 9, Client 9: Kolmogorov–Smirnov test statistic: 0.14556962025316456, p-value: 0.002438896162276947
+Global Epoch 9, Client 10: Kolmogorov–Smirnov test statistic: 0.13664596273291926, p-value: 0.004850310004704759
+Global Epoch 9, Client 1: Drift detection is accurate.
+Global Epoch 9, Client 2: Drift detection is accurate.
+Global Epoch 9, Client 3: Drift detection is not accurate.
+Global Epoch 9, Client 4: Drift detection is accurate.
+Global Epoch 9, Client 5: Drift detection is accurate.
+Global Epoch 9, Client 6: Drift detection is accurate.
+Global Epoch 9, Client 7: Drift detection is accurate.
+Global Epoch 9, Client 8: Drift detection is accurate.
+Global Epoch 9, Client 9: Drift detection is not accurate.
+Global Epoch 9, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 10/20
+	Training Client 1/10
+Epoch 1/1, Loss: 4.444224281935021, Accuracy: 0.9861666666666666
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 4.00785103184171, Accuracy: 0.987
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 4.358627468231134, Accuracy: 0.9871666666666666
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 4.525578518863767, Accuracy: 0.9843333333333333
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 4.494016501586884, Accuracy: 0.984
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 4.876524303806946, Accuracy: 0.9848333333333333
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 4.400647237198427, Accuracy: 0.9848333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 4.286984244827181, Accuracy: 0.9855
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 4.785046623786911, Accuracy: 0.9851666666666666
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 4.921754849143326, Accuracy: 0.9851666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 10, Client 1: Kolmogorov–Smirnov test statistic: 0.09009009009009009, p-value: 0.13406356465048935
+Global Epoch 10, Client 2: Kolmogorov–Smirnov test statistic: 0.132013201320132, p-value: 0.010111864732704997
+Global Epoch 10, Client 3: Kolmogorov–Smirnov test statistic: 0.16772151898734178, p-value: 0.0002681418740018362
+Global Epoch 10, Client 4: Kolmogorov–Smirnov test statistic: 0.04437869822485207, p-value: 0.8939690758736496
+Global Epoch 10, Client 5: Kolmogorov–Smirnov test statistic: 0.16307692307692306, p-value: 0.00034388982054090866
+Global Epoch 10, Client 6: Kolmogorov–Smirnov test statistic: 0.08282208588957055, p-value: 0.21366163690573378
+Global Epoch 10, Client 7: Kolmogorov–Smirnov test statistic: 0.1723076923076923, p-value: 0.00012473073953316204
+Global Epoch 10, Client 8: Kolmogorov–Smirnov test statistic: 0.10299003322259136, p-value: 0.0820890417809096
+Global Epoch 10, Client 9: Kolmogorov–Smirnov test statistic: 0.115625, p-value: 0.02765796869345434
+Global Epoch 10, Client 10: Kolmogorov–Smirnov test statistic: 0.11858974358974358, p-value: 0.024774411565286425
+Global Epoch 10, Client 1: Drift detection is accurate.
+Global Epoch 10, Client 2: Drift detection is accurate.
+Global Epoch 10, Client 3: Drift detection is not accurate.
+Global Epoch 10, Client 4: Drift detection is accurate.
+Global Epoch 10, Client 5: Drift detection is not accurate.
+Global Epoch 10, Client 6: Drift detection is accurate.
+Global Epoch 10, Client 7: Drift detection is not accurate.
+Global Epoch 10, Client 8: Drift detection is accurate.
+Global Epoch 10, Client 9: Drift detection is accurate.
+Global Epoch 10, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 11/20
+Swapping classes 0 and 1 in the train dataset for each client
+	Training Client 1/10
+Epoch 1/1, Loss: 4.336268967716023, Accuracy: 0.9868333333333333
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 4.246198814129457, Accuracy: 0.9861666666666666
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 21.261699332855642, Accuracy: 0.941
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 3.960563661530614, Accuracy: 0.9876666666666667
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 3.7932679002406076, Accuracy: 0.9863333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 4.591956371674314, Accuracy: 0.9855
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 24.272676914930344, Accuracy: 0.936
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 3.737548975739628, Accuracy: 0.9881666666666666
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 4.239964603213593, Accuracy: 0.986
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 26.343760136980563, Accuracy: 0.9346666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 11, Client 1: Kolmogorov–Smirnov test statistic: 0.09787234042553192, p-value: 0.2105903536159867
+Global Epoch 11, Client 2: Kolmogorov–Smirnov test statistic: 0.0888030888030888, p-value: 0.2591920772914232
+Global Epoch 11, Client 3: Kolmogorov–Smirnov test statistic: 0.11196911196911197, p-value: 0.07772873821549174
+Global Epoch 11, Client 4: Kolmogorov–Smirnov test statistic: 0.0661764705882353, p-value: 0.5916096809976454
+Global Epoch 11, Client 5: Kolmogorov–Smirnov test statistic: 0.07086614173228346, p-value: 0.5472797745177684
+Global Epoch 11, Client 6: Kolmogorov–Smirnov test statistic: 0.11610486891385768, p-value: 0.054613446387306
+Global Epoch 11, Client 7: Kolmogorov–Smirnov test statistic: 0.15354330708661418, p-value: 0.004957356870246288
+Global Epoch 11, Client 8: Kolmogorov–Smirnov test statistic: 0.061068702290076333, p-value: 0.7139889977509203
+Global Epoch 11, Client 9: Kolmogorov–Smirnov test statistic: 0.08270676691729323, p-value: 0.3232811030812853
+Global Epoch 11, Client 10: Kolmogorov–Smirnov test statistic: 0.1033210332103321, p-value: 0.1108240707877323
+Global Epoch 11, Client 1: Drift detection is accurate.
+Global Epoch 11, Client 2: Drift detection is accurate.
+Global Epoch 11, Client 3: Drift detection is not accurate.
+Global Epoch 11, Client 4: Drift detection is accurate.
+Global Epoch 11, Client 5: Drift detection is accurate.
+Global Epoch 11, Client 6: Drift detection is accurate.
+Global Epoch 11, Client 7: Drift detection is accurate.
+Global Epoch 11, Client 8: Drift detection is accurate.
+Global Epoch 11, Client 9: Drift detection is accurate.
+Global Epoch 11, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 12/20
+	Training Client 1/10
+Epoch 1/1, Loss: 3.9319604666379746, Accuracy: 0.9856666666666667
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 3.7225834854179993, Accuracy: 0.9866666666666667
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 11.060033498797566, Accuracy: 0.9618333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 4.043589575216174, Accuracy: 0.9871666666666666
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 3.877752000815235, Accuracy: 0.9848333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 4.190571062499657, Accuracy: 0.987
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 11.501106497831643, Accuracy: 0.9636666666666667
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 3.4768860804615542, Accuracy: 0.989
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 4.28800917242188, Accuracy: 0.9863333333333333
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 11.97389930486679, Accuracy: 0.9591666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 12, Client 1: Kolmogorov–Smirnov test statistic: 0.07835820895522388, p-value: 0.3836306787263156
+Global Epoch 12, Client 2: Kolmogorov–Smirnov test statistic: 0.08487084870848709, p-value: 0.28353517445966364
+Global Epoch 12, Client 3: Kolmogorov–Smirnov test statistic: 0.03676470588235294, p-value: 0.9930764426942778
+Global Epoch 12, Client 4: Kolmogorov–Smirnov test statistic: 0.06506849315068493, p-value: 0.5675082453159094
+Global Epoch 12, Client 5: Kolmogorov–Smirnov test statistic: 0.1371841155234657, p-value: 0.01081483158346256
+Global Epoch 12, Client 6: Kolmogorov–Smirnov test statistic: 0.0695970695970696, p-value: 0.5237401296732529
+Global Epoch 12, Client 7: Kolmogorov–Smirnov test statistic: 0.07473309608540925, p-value: 0.41318885223535573
+Global Epoch 12, Client 8: Kolmogorov–Smirnov test statistic: 0.10638297872340426, p-value: 0.08218604345207352
+Global Epoch 12, Client 9: Kolmogorov–Smirnov test statistic: 0.14982578397212543, p-value: 0.0031437293928255378
+Global Epoch 12, Client 10: Kolmogorov–Smirnov test statistic: 0.059027777777777776, p-value: 0.6982502252503169
+Global Epoch 12, Client 1: Drift detection is accurate.
+Global Epoch 12, Client 2: Drift detection is accurate.
+Global Epoch 12, Client 3: Drift detection is not accurate.
+Global Epoch 12, Client 4: Drift detection is accurate.
+Global Epoch 12, Client 5: Drift detection is accurate.
+Global Epoch 12, Client 6: Drift detection is accurate.
+Global Epoch 12, Client 7: Drift detection is not accurate.
+Global Epoch 12, Client 8: Drift detection is accurate.
+Global Epoch 12, Client 9: Drift detection is not accurate.
+Global Epoch 12, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 13/20
+	Training Client 1/10
+Epoch 1/1, Loss: 4.254017047118396, Accuracy: 0.9856666666666667
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 3.469999804161489, Accuracy: 0.9863333333333333
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 8.266502428334206, Accuracy: 0.9696666666666667
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 3.786825841933023, Accuracy: 0.9871666666666666
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 3.6200206613284536, Accuracy: 0.9861666666666666
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 3.78015922268969, Accuracy: 0.9875
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 8.573644827120006, Accuracy: 0.971
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 3.7404458520468324, Accuracy: 0.9881666666666666
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 4.358330759918317, Accuracy: 0.989
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 8.165958074387163, Accuracy: 0.9736666666666667
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 13, Client 1: Kolmogorov–Smirnov test statistic: 0.05454545454545454, p-value: 0.8088961808747294
+Global Epoch 13, Client 2: Kolmogorov–Smirnov test statistic: 0.07692307692307693, p-value: 0.36640150891971257
+Global Epoch 13, Client 3: Kolmogorov–Smirnov test statistic: 0.14982578397212543, p-value: 0.0031437293928255378
+Global Epoch 13, Client 4: Kolmogorov–Smirnov test statistic: 0.04983388704318937, p-value: 0.8497496949050161
+Global Epoch 13, Client 5: Kolmogorov–Smirnov test statistic: 0.06462585034013606, p-value: 0.5719294966155059
+Global Epoch 13, Client 6: Kolmogorov–Smirnov test statistic: 0.09252669039145907, p-value: 0.1804316406272541
+Global Epoch 13, Client 7: Kolmogorov–Smirnov test statistic: 0.1206896551724138, p-value: 0.029188501273473298
+Global Epoch 13, Client 8: Kolmogorov–Smirnov test statistic: 0.05647840531561462, p-value: 0.7239710908185683
+Global Epoch 13, Client 9: Kolmogorov–Smirnov test statistic: 0.11072664359861592, p-value: 0.05777248997878283
+Global Epoch 13, Client 10: Kolmogorov–Smirnov test statistic: 0.0728476821192053, p-value: 0.3999759245037743
+Global Epoch 13, Client 1: Drift detection is accurate.
+Global Epoch 13, Client 2: Drift detection is accurate.
+Global Epoch 13, Client 3: Drift detection is accurate.
+Global Epoch 13, Client 4: Drift detection is accurate.
+Global Epoch 13, Client 5: Drift detection is accurate.
+Global Epoch 13, Client 6: Drift detection is accurate.
+Global Epoch 13, Client 7: Drift detection is not accurate.
+Global Epoch 13, Client 8: Drift detection is accurate.
+Global Epoch 13, Client 9: Drift detection is accurate.
+Global Epoch 13, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 14/20
+	Training Client 1/10
+Epoch 1/1, Loss: 4.042415653006174, Accuracy: 0.9873333333333333
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 3.097347703849664, Accuracy: 0.99
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 6.595254515996203, Accuracy: 0.9768333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 3.666829895635601, Accuracy: 0.9878333333333333
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 3.348523562308401, Accuracy: 0.9895
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 3.394880749285221, Accuracy: 0.9898333333333333
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 7.56677214615047, Accuracy: 0.975
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 3.269645700114779, Accuracy: 0.9896666666666667
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 3.6538914809934795, Accuracy: 0.988
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 8.40426450734958, Accuracy: 0.9698333333333333
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 14, Client 1: Kolmogorov–Smirnov test statistic: 0.08362369337979095, p-value: 0.2684654373608505
+Global Epoch 14, Client 2: Kolmogorov–Smirnov test statistic: 0.1174496644295302, p-value: 0.03270716930215127
+Global Epoch 14, Client 3: Kolmogorov–Smirnov test statistic: 0.12828947368421054, p-value: 0.013357603716880473
+Global Epoch 14, Client 4: Kolmogorov–Smirnov test statistic: 0.04777070063694268, p-value: 0.8669660318664806
+Global Epoch 14, Client 5: Kolmogorov–Smirnov test statistic: 0.12956810631229235, p-value: 0.01270464151081168
+Global Epoch 14, Client 6: Kolmogorov–Smirnov test statistic: 0.09836065573770492, p-value: 0.1045877858137979
+Global Epoch 14, Client 7: Kolmogorov–Smirnov test statistic: 0.1414141414141414, p-value: 0.005215533261106602
+Global Epoch 14, Client 8: Kolmogorov–Smirnov test statistic: 0.10855263157894737, p-value: 0.05556189036659956
+Global Epoch 14, Client 9: Kolmogorov–Smirnov test statistic: 0.15593220338983052, p-value: 0.0015082655018135705
+Global Epoch 14, Client 10: Kolmogorov–Smirnov test statistic: 0.06930693069306931, p-value: 0.46130334158798
+Global Epoch 14, Client 1: Drift detection is accurate.
+Global Epoch 14, Client 2: Drift detection is accurate.
+Global Epoch 14, Client 3: Drift detection is not accurate.
+Global Epoch 14, Client 4: Drift detection is accurate.
+Global Epoch 14, Client 5: Drift detection is accurate.
+Global Epoch 14, Client 6: Drift detection is accurate.
+Global Epoch 14, Client 7: Drift detection is not accurate.
+Global Epoch 14, Client 8: Drift detection is accurate.
+Global Epoch 14, Client 9: Drift detection is not accurate.
+Global Epoch 14, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 15/20
+	Training Client 1/10
+Epoch 1/1, Loss: 3.902487735147588, Accuracy: 0.9876666666666667
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 2.954512085299939, Accuracy: 0.9896666666666667
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 6.594652097672224, Accuracy: 0.9785
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 3.3680765035678633, Accuracy: 0.9895
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 3.144519375578966, Accuracy: 0.9875
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 3.678527407872025, Accuracy: 0.9883333333333333
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 7.213609231170267, Accuracy: 0.9748333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 3.0367118761932943, Accuracy: 0.9905
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 3.426158175105229, Accuracy: 0.9896666666666667
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 7.316039812751114, Accuracy: 0.9756666666666667
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 15, Client 1: Kolmogorov–Smirnov test statistic: 0.08970099667774087, p-value: 0.17751910279086303
+Global Epoch 15, Client 2: Kolmogorov–Smirnov test statistic: 0.11, p-value: 0.05296383973125253
+Global Epoch 15, Client 3: Kolmogorov–Smirnov test statistic: 0.04113924050632911, p-value: 0.9524533029295251
+Global Epoch 15, Client 4: Kolmogorov–Smirnov test statistic: 0.10828025477707007, p-value: 0.0503008431176243
+Global Epoch 15, Client 5: Kolmogorov–Smirnov test statistic: 0.12580645161290321, p-value: 0.01472274430026255
+Global Epoch 15, Client 6: Kolmogorov–Smirnov test statistic: 0.1282051282051282, p-value: 0.011785067659731956
+Global Epoch 15, Client 7: Kolmogorov–Smirnov test statistic: 0.04713804713804714, p-value: 0.8969970162409451
+Global Epoch 15, Client 8: Kolmogorov–Smirnov test statistic: 0.09333333333333334, p-value: 0.14660689047075634
+Global Epoch 15, Client 9: Kolmogorov–Smirnov test statistic: 0.06109324758842444, p-value: 0.6080849209630534
+Global Epoch 15, Client 10: Kolmogorov–Smirnov test statistic: 0.16883116883116883, p-value: 0.00029937294675105375
+Global Epoch 15, Client 1: Drift detection is accurate.
+Global Epoch 15, Client 2: Drift detection is accurate.
+Global Epoch 15, Client 3: Drift detection is not accurate.
+Global Epoch 15, Client 4: Drift detection is accurate.
+Global Epoch 15, Client 5: Drift detection is accurate.
+Global Epoch 15, Client 6: Drift detection is accurate.
+Global Epoch 15, Client 7: Drift detection is not accurate.
+Global Epoch 15, Client 8: Drift detection is accurate.
+Global Epoch 15, Client 9: Drift detection is accurate.
+Global Epoch 15, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 16/20
+	Training Client 1/10
+Epoch 1/1, Loss: 3.212822527770186, Accuracy: 0.9895
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 2.805038856342435, Accuracy: 0.9895
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 5.918353128479794, Accuracy: 0.9785
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 3.6599724570987746, Accuracy: 0.9885
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 2.5775119613972493, Accuracy: 0.9908333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 3.2857537525414955, Accuracy: 0.99
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 6.829339263495058, Accuracy: 0.9776666666666667
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 2.8725437062530546, Accuracy: 0.9908333333333333
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 3.3466744864126667, Accuracy: 0.9903333333333333
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 6.680956045398489, Accuracy: 0.9778333333333333
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 16, Client 1: Kolmogorov–Smirnov test statistic: 0.06514657980456026, p-value: 0.5333003388107709
+Global Epoch 16, Client 2: Kolmogorov–Smirnov test statistic: 0.12171052631578948, p-value: 0.02206253866690607
+Global Epoch 16, Client 3: Kolmogorov–Smirnov test statistic: 0.07165109034267912, p-value: 0.3826158379908142
+Global Epoch 16, Client 4: Kolmogorov–Smirnov test statistic: 0.08766233766233766, p-value: 0.1875479343741911
+Global Epoch 16, Client 5: Kolmogorov–Smirnov test statistic: 0.17684887459807075, p-value: 0.00011517970072608209
+Global Epoch 16, Client 6: Kolmogorov–Smirnov test statistic: 0.12264150943396226, p-value: 0.01666631776648416
+Global Epoch 16, Client 7: Kolmogorov–Smirnov test statistic: 0.16025641025641027, p-value: 0.0006481855608054158
+Global Epoch 16, Client 8: Kolmogorov–Smirnov test statistic: 0.12091503267973856, p-value: 0.02272430798874378
+Global Epoch 16, Client 9: Kolmogorov–Smirnov test statistic: 0.055384615384615386, p-value: 0.7020193549919176
+Global Epoch 16, Client 10: Kolmogorov–Smirnov test statistic: 0.1027190332326284, p-value: 0.06079818101544473
+Global Epoch 16, Client 1: Drift detection is accurate.
+Global Epoch 16, Client 2: Drift detection is accurate.
+Global Epoch 16, Client 3: Drift detection is not accurate.
+Global Epoch 16, Client 4: Drift detection is accurate.
+Global Epoch 16, Client 5: Drift detection is not accurate.
+Global Epoch 16, Client 6: Drift detection is accurate.
+Global Epoch 16, Client 7: Drift detection is accurate.
+Global Epoch 16, Client 8: Drift detection is accurate.
+Global Epoch 16, Client 9: Drift detection is accurate.
+Global Epoch 16, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 17/20
+	Training Client 1/10
+Epoch 1/1, Loss: 2.8502809538622387, Accuracy: 0.9911666666666666
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 3.1806601083953865, Accuracy: 0.9885
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 5.787488945759833, Accuracy: 0.9785
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 2.856930468871724, Accuracy: 0.991
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 2.2556552980677225, Accuracy: 0.9911666666666666
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 3.3568356977193616, Accuracy: 0.9875
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 6.099054428981617, Accuracy: 0.98
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 2.8076490250532515, Accuracy: 0.991
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 3.2468896472419146, Accuracy: 0.9905
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 6.821215542848222, Accuracy: 0.9771666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 17, Client 1: Kolmogorov–Smirnov test statistic: 0.07166123778501629, p-value: 0.41027207415512124
+Global Epoch 17, Client 2: Kolmogorov–Smirnov test statistic: 0.125, p-value: 0.015195395509199468
+Global Epoch 17, Client 3: Kolmogorov–Smirnov test statistic: 0.09627329192546584, p-value: 0.10112240670659108
+Global Epoch 17, Client 4: Kolmogorov–Smirnov test statistic: 0.06430868167202572, p-value: 0.5417321621372218
+Global Epoch 17, Client 5: Kolmogorov–Smirnov test statistic: 0.07213114754098361, p-value: 0.4061654171461794
+Global Epoch 17, Client 6: Kolmogorov–Smirnov test statistic: 0.10289389067524116, p-value: 0.07427182511948836
+Global Epoch 17, Client 7: Kolmogorov–Smirnov test statistic: 0.09615384615384616, p-value: 0.11175394106208987
+Global Epoch 17, Client 8: Kolmogorov–Smirnov test statistic: 0.10625, p-value: 0.053905218452707196
+Global Epoch 17, Client 9: Kolmogorov–Smirnov test statistic: 0.048484848484848485, p-value: 0.8335246777568744
+Global Epoch 17, Client 10: Kolmogorov–Smirnov test statistic: 0.18867924528301888, p-value: 2.3054557640383647e-05
+Global Epoch 17, Client 1: Drift detection is accurate.
+Global Epoch 17, Client 2: Drift detection is accurate.
+Global Epoch 17, Client 3: Drift detection is not accurate.
+Global Epoch 17, Client 4: Drift detection is accurate.
+Global Epoch 17, Client 5: Drift detection is accurate.
+Global Epoch 17, Client 6: Drift detection is accurate.
+Global Epoch 17, Client 7: Drift detection is not accurate.
+Global Epoch 17, Client 8: Drift detection is accurate.
+Global Epoch 17, Client 9: Drift detection is accurate.
+Global Epoch 17, Client 10: Drift detection is accurate.
+	Aggregating client models
+Global Epoch 18/20
+	Training Client 1/10
+Epoch 1/1, Loss: 3.292704877370852, Accuracy: 0.9886666666666667
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 2.7604650972934905, Accuracy: 0.9906666666666667
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 5.638834883691743, Accuracy: 0.9798333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 2.7822659084631596, Accuracy: 0.9915
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 2.466403338185046, Accuracy: 0.9896666666666667
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 2.960861347906757, Accuracy: 0.9895
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 5.644327379995957, Accuracy: 0.9808333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 2.5801517937288736, Accuracy: 0.99
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 3.33855228786706, Accuracy: 0.99
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 6.5652469022898, Accuracy: 0.9778333333333333
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 18, Client 1: Kolmogorov–Smirnov test statistic: 0.06109324758842444, p-value: 0.6080849209630534
+Global Epoch 18, Client 2: Kolmogorov–Smirnov test statistic: 0.11746031746031746, p-value: 0.025835737002756404
+Global Epoch 18, Client 3: Kolmogorov–Smirnov test statistic: 0.0914826498422713, p-value: 0.14090074014390885
+Global Epoch 18, Client 4: Kolmogorov–Smirnov test statistic: 0.06349206349206349, p-value: 0.5500488063084865
+Global Epoch 18, Client 5: Kolmogorov–Smirnov test statistic: 0.07961783439490445, p-value: 0.27287854129877176
+Global Epoch 18, Client 6: Kolmogorov–Smirnov test statistic: 0.08517350157728706, p-value: 0.20055482880676698
+Global Epoch 18, Client 7: Kolmogorov–Smirnov test statistic: 0.096875, p-value: 0.09925145738964246
+Global Epoch 18, Client 8: Kolmogorov–Smirnov test statistic: 0.10967741935483871, p-value: 0.04796107415574512
+Global Epoch 18, Client 9: Kolmogorov–Smirnov test statistic: 0.06289308176100629, p-value: 0.5562105842878962
+Global Epoch 18, Client 10: Kolmogorov–Smirnov test statistic: 0.11290322580645161, p-value: 0.03836909777674115
+Global Epoch 18, Client 1: Drift detection is accurate.
+Global Epoch 18, Client 2: Drift detection is accurate.
+Global Epoch 18, Client 3: Drift detection is not accurate.
+Global Epoch 18, Client 4: Drift detection is accurate.
+Global Epoch 18, Client 5: Drift detection is accurate.
+Global Epoch 18, Client 6: Drift detection is accurate.
+Global Epoch 18, Client 7: Drift detection is not accurate.
+Global Epoch 18, Client 8: Drift detection is accurate.
+Global Epoch 18, Client 9: Drift detection is accurate.
+Global Epoch 18, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 19/20
+	Training Client 1/10
+Epoch 1/1, Loss: 2.9463722111540847, Accuracy: 0.9896666666666667
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 2.8724309403041843, Accuracy: 0.9916666666666667
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 5.9520650036865845, Accuracy: 0.9803333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 2.9234512964030728, Accuracy: 0.9903333333333333
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 2.3361241122693173, Accuracy: 0.9923333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 2.819153521209955, Accuracy: 0.99
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 5.197772926301695, Accuracy: 0.9835
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 2.6876045112730935, Accuracy: 0.9913333333333333
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 3.0069214319228195, Accuracy: 0.9905
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 5.848161691566929, Accuracy: 0.9811666666666666
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 19, Client 1: Kolmogorov–Smirnov test statistic: 0.10303030303030303, p-value: 0.06015673742474274
+Global Epoch 19, Client 2: Kolmogorov–Smirnov test statistic: 0.06875, p-value: 0.4365658560118955
+Global Epoch 19, Client 3: Kolmogorov–Smirnov test statistic: 0.07987220447284345, p-value: 0.27116174130485327
+Global Epoch 19, Client 4: Kolmogorov–Smirnov test statistic: 0.0736196319018405, p-value: 0.34043532351551814
+Global Epoch 19, Client 5: Kolmogorov–Smirnov test statistic: 0.10869565217391304, p-value: 0.04447619469609167
+Global Epoch 19, Client 6: Kolmogorov–Smirnov test statistic: 0.08868501529051988, p-value: 0.15280618066448634
+Global Epoch 19, Client 7: Kolmogorov–Smirnov test statistic: 0.05732484076433121, p-value: 0.6814745928888001
+Global Epoch 19, Client 8: Kolmogorov–Smirnov test statistic: 0.08064516129032258, p-value: 0.2660093020303111
+Global Epoch 19, Client 9: Kolmogorov–Smirnov test statistic: 0.056782334384858045, p-value: 0.6871957780138788
+Global Epoch 19, Client 10: Kolmogorov–Smirnov test statistic: 0.12037037037037036, p-value: 0.01821680949989901
+Global Epoch 19, Client 1: Drift detection is accurate.
+Global Epoch 19, Client 2: Drift detection is accurate.
+Global Epoch 19, Client 3: Drift detection is not accurate.
+Global Epoch 19, Client 4: Drift detection is accurate.
+Global Epoch 19, Client 5: Drift detection is accurate.
+Global Epoch 19, Client 6: Drift detection is accurate.
+Global Epoch 19, Client 7: Drift detection is not accurate.
+Global Epoch 19, Client 8: Drift detection is accurate.
+Global Epoch 19, Client 9: Drift detection is accurate.
+Global Epoch 19, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Global Epoch 20/20
+	Training Client 1/10
+Epoch 1/1, Loss: 2.7553095194889465, Accuracy: 0.9911666666666666
+		Computed SHAP values for Client 1/10
+	Training Client 2/10
+Epoch 1/1, Loss: 2.2840028477148735, Accuracy: 0.992
+		Computed SHAP values for Client 2/10
+	Training Client 3/10
+Epoch 1/1, Loss: 5.407167719793506, Accuracy: 0.9818333333333333
+		Computed SHAP values for Client 3/10
+	Training Client 4/10
+Epoch 1/1, Loss: 3.0613005067571066, Accuracy: 0.9895
+		Computed SHAP values for Client 4/10
+	Training Client 5/10
+Epoch 1/1, Loss: 2.4114355861747754, Accuracy: 0.9908333333333333
+		Computed SHAP values for Client 5/10
+	Training Client 6/10
+Epoch 1/1, Loss: 2.4712584948865697, Accuracy: 0.9925
+		Computed SHAP values for Client 6/10
+	Training Client 7/10
+Epoch 1/1, Loss: 5.4017675134819, Accuracy: 0.9823333333333333
+		Computed SHAP values for Client 7/10
+	Training Client 8/10
+Epoch 1/1, Loss: 2.1153956862690393, Accuracy: 0.9931666666666666
+		Computed SHAP values for Client 8/10
+	Training Client 9/10
+Epoch 1/1, Loss: 2.9834300078146043, Accuracy: 0.9911666666666666
+		Computed SHAP values for Client 9/10
+	Training Client 10/10
+Epoch 1/1, Loss: 6.396962886210531, Accuracy: 0.9783333333333334
+		Computed SHAP values for Client 10/10
+	Performing Kolmogorov–Smirnov test for SHAP values
+Global Epoch 20, Client 1: Kolmogorov–Smirnov test statistic: 0.11526479750778816, p-value: 0.02803037679886682
+Global Epoch 20, Client 2: Kolmogorov–Smirnov test statistic: 0.05864197530864197, p-value: 0.6340308072917792
+Global Epoch 20, Client 3: Kolmogorov–Smirnov test statistic: 0.11280487804878049, p-value: 0.030710918884751245
+Global Epoch 20, Client 4: Kolmogorov–Smirnov test statistic: 0.11419753086419752, p-value: 0.029163434264026816
+Global Epoch 20, Client 5: Kolmogorov–Smirnov test statistic: 0.14696485623003194, p-value: 0.0022861664803285812
+Global Epoch 20, Client 6: Kolmogorov–Smirnov test statistic: 0.0926517571884984, p-value: 0.136203265456144
+Global Epoch 20, Client 7: Kolmogorov–Smirnov test statistic: 0.08598726114649681, p-value: 0.19620670303660234
+Global Epoch 20, Client 8: Kolmogorov–Smirnov test statistic: 0.13707165109034267, p-value: 0.00475974444154599
+Global Epoch 20, Client 9: Kolmogorov–Smirnov test statistic: 0.13622291021671826, p-value: 0.004942017443934129
+Global Epoch 20, Client 10: Kolmogorov–Smirnov test statistic: 0.1345565749235474, p-value: 0.00532037209420132
+Global Epoch 20, Client 1: Drift detection is accurate.
+Global Epoch 20, Client 2: Drift detection is accurate.
+Global Epoch 20, Client 3: Drift detection is not accurate.
+Global Epoch 20, Client 4: Drift detection is accurate.
+Global Epoch 20, Client 5: Drift detection is not accurate.
+Global Epoch 20, Client 6: Drift detection is accurate.
+Global Epoch 20, Client 7: Drift detection is not accurate.
+Global Epoch 20, Client 8: Drift detection is not accurate.
+Global Epoch 20, Client 9: Drift detection is not accurate.
+Global Epoch 20, Client 10: Drift detection is not accurate.
+	Aggregating client models
+Testing Client 1/10
+	Accuracy for Client 1/10: 0.9889
+Testing Client 2/10
+	Accuracy for Client 2/10: 0.9889
+Testing Client 3/10
+	Accuracy for Client 3/10: 0.9889
+Testing Client 4/10
+	Accuracy for Client 4/10: 0.9889
+Testing Client 5/10
+	Accuracy for Client 5/10: 0.9889
+Testing Client 6/10
+	Accuracy for Client 6/10: 0.9889
+Testing Client 7/10
+	Accuracy for Client 7/10: 0.9889
+Testing Client 8/10
+	Accuracy for Client 8/10: 0.9889
+Testing Client 9/10
+	Accuracy for Client 9/10: 0.9889
+Testing Client 10/10
+	Accuracy for Client 10/10: 0.9889
+Drift Detection metircs::: true_positives:5,true_negatives:104,false_positives:16,false_negatives:25
+Drift Detection Performance:
+Accuracy: 0.7266666666666667
+Precision: 0.23809523809523808
+Recall: 0.16666666666666666
+F1 Score: 0.19607843137254902
+Client Accuracies: None

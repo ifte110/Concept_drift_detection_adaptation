@@ -1,0 +1,461 @@
+Global Epoch 1/20
+	Training Client 1/10
+Epoch 1/1, Loss: 100.98717919550836, Accuracy: 0.8416666666666667
+	Training Client 2/10
+Epoch 1/1, Loss: 98.88754564896226, Accuracy: 0.8346666666666667
+	Training Client 3/10
+Epoch 1/1, Loss: 101.91801228001714, Accuracy: 0.8345
+	Training Client 4/10
+Epoch 1/1, Loss: 103.37328062951565, Accuracy: 0.8308333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 100.03057245537639, Accuracy: 0.8383333333333334
+	Training Client 6/10
+Epoch 1/1, Loss: 99.4302186369896, Accuracy: 0.8376666666666667
+	Training Client 7/10
+Epoch 1/1, Loss: 99.37930626049638, Accuracy: 0.8363333333333334
+	Training Client 8/10
+Epoch 1/1, Loss: 97.55634738504887, Accuracy: 0.8438333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 106.30948877334595, Accuracy: 0.8283333333333334
+	Training Client 10/10
+Epoch 1/1, Loss: 101.7156261280179, Accuracy: 0.8331666666666667
+	Aggregating client models
+Global Epoch 2/20
+	Training Client 1/10
+Epoch 1/1, Loss: 33.24355543311685, Accuracy: 0.9475
+	Training Client 2/10
+Epoch 1/1, Loss: 30.40610602684319, Accuracy: 0.9485
+	Training Client 3/10
+Epoch 1/1, Loss: 29.935537172481418, Accuracy: 0.9501666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 29.798820601776242, Accuracy: 0.9523333333333334
+	Training Client 5/10
+Epoch 1/1, Loss: 32.08889603614807, Accuracy: 0.9498333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 33.27839021291584, Accuracy: 0.9485
+	Training Client 7/10
+Epoch 1/1, Loss: 32.53770703077316, Accuracy: 0.9508333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 31.422985829412937, Accuracy: 0.9476666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 33.531434873119, Accuracy: 0.9463333333333334
+	Training Client 10/10
+Epoch 1/1, Loss: 30.158607818186283, Accuracy: 0.9501666666666667
+	Aggregating client models
+Global Epoch 3/20
+	Training Client 1/10
+Epoch 1/1, Loss: 20.799682500306517, Accuracy: 0.9668333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 18.775254528969526, Accuracy: 0.9703333333333334
+	Training Client 3/10
+Epoch 1/1, Loss: 20.375480003654957, Accuracy: 0.9656666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 19.837588468566537, Accuracy: 0.9683333333333334
+	Training Client 5/10
+Epoch 1/1, Loss: 22.953667428344488, Accuracy: 0.9618333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 20.80625693127513, Accuracy: 0.9666666666666667
+	Training Client 7/10
+Epoch 1/1, Loss: 21.62012405367568, Accuracy: 0.9675
+	Training Client 8/10
+Epoch 1/1, Loss: 21.0811312594451, Accuracy: 0.9661666666666666
+	Training Client 9/10
+Epoch 1/1, Loss: 21.28818566678092, Accuracy: 0.9661666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 18.781603017821908, Accuracy: 0.9686666666666667
+	Aggregating client models
+Global Epoch 4/20
+	Training Client 1/10
+Epoch 1/1, Loss: 16.935264001833275, Accuracy: 0.9731666666666666
+	Training Client 2/10
+Epoch 1/1, Loss: 15.776669892016798, Accuracy: 0.971
+	Training Client 3/10
+Epoch 1/1, Loss: 15.272062278469093, Accuracy: 0.9743333333333334
+	Training Client 4/10
+Epoch 1/1, Loss: 16.051289031282067, Accuracy: 0.9731666666666666
+	Training Client 5/10
+Epoch 1/1, Loss: 17.58059024787508, Accuracy: 0.9721666666666666
+	Training Client 6/10
+Epoch 1/1, Loss: 16.488081305637024, Accuracy: 0.972
+	Training Client 7/10
+Epoch 1/1, Loss: 16.90984986908734, Accuracy: 0.9725
+	Training Client 8/10
+Epoch 1/1, Loss: 16.67210229160264, Accuracy: 0.9748333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 15.950155895669013, Accuracy: 0.9738333333333333
+	Training Client 10/10
+Epoch 1/1, Loss: 14.249213721370324, Accuracy: 0.9736666666666667
+	Aggregating client models
+Global Epoch 5/20
+	Training Client 1/10
+Epoch 1/1, Loss: 13.71775713423267, Accuracy: 0.98
+	Training Client 2/10
+Epoch 1/1, Loss: 12.157581801526248, Accuracy: 0.9783333333333334
+	Training Client 3/10
+Epoch 1/1, Loss: 12.926998612238094, Accuracy: 0.9768333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 14.711272214073688, Accuracy: 0.9761666666666666
+	Training Client 5/10
+Epoch 1/1, Loss: 15.167617555824108, Accuracy: 0.976
+	Training Client 6/10
+Epoch 1/1, Loss: 13.909562213812023, Accuracy: 0.9781666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 14.434406003449112, Accuracy: 0.975
+	Training Client 8/10
+Epoch 1/1, Loss: 13.660042998963036, Accuracy: 0.9761666666666666
+	Training Client 9/10
+Epoch 1/1, Loss: 12.096544682513922, Accuracy: 0.9801666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 11.859278585296124, Accuracy: 0.9806666666666667
+	Aggregating client models
+Global Epoch 6/20
+	Training Client 1/10
+Epoch 1/1, Loss: 11.955800793482922, Accuracy: 0.9811666666666666
+	Training Client 2/10
+Epoch 1/1, Loss: 10.537880328600295, Accuracy: 0.982
+	Training Client 3/10
+Epoch 1/1, Loss: 10.05055574933067, Accuracy: 0.9831666666666666
+	Training Client 4/10
+Epoch 1/1, Loss: 11.569739881553687, Accuracy: 0.9826666666666667
+	Training Client 5/10
+Epoch 1/1, Loss: 13.323650658712722, Accuracy: 0.9795
+	Training Client 6/10
+Epoch 1/1, Loss: 11.85737451701425, Accuracy: 0.9808333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 13.388624409562908, Accuracy: 0.978
+	Training Client 8/10
+Epoch 1/1, Loss: 11.542128650704399, Accuracy: 0.981
+	Training Client 9/10
+Epoch 1/1, Loss: 11.921242704498582, Accuracy: 0.981
+	Training Client 10/10
+Epoch 1/1, Loss: 10.154926258663181, Accuracy: 0.981
+	Aggregating client models
+Global Epoch 7/20
+	Training Client 1/10
+Epoch 1/1, Loss: 11.393680369132198, Accuracy: 0.9816666666666667
+	Training Client 2/10
+Epoch 1/1, Loss: 10.342101284622913, Accuracy: 0.9843333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 8.265881156337855, Accuracy: 0.9866666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 10.471024232101627, Accuracy: 0.9833333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 12.156275813118555, Accuracy: 0.9816666666666667
+	Training Client 6/10
+Epoch 1/1, Loss: 10.730062088172417, Accuracy: 0.9815
+	Training Client 7/10
+Epoch 1/1, Loss: 11.360492386345868, Accuracy: 0.981
+	Training Client 8/10
+Epoch 1/1, Loss: 10.174623001366854, Accuracy: 0.9851666666666666
+	Training Client 9/10
+Epoch 1/1, Loss: 10.742426836688537, Accuracy: 0.983
+	Training Client 10/10
+Epoch 1/1, Loss: 8.60752806707751, Accuracy: 0.9856666666666667
+	Aggregating client models
+Global Epoch 8/20
+	Training Client 1/10
+Epoch 1/1, Loss: 9.445976488495944, Accuracy: 0.9833333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 7.637322149821557, Accuracy: 0.9876666666666667
+	Training Client 3/10
+Epoch 1/1, Loss: 8.107064933050424, Accuracy: 0.9863333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 9.284721319752862, Accuracy: 0.9843333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 11.418774020683486, Accuracy: 0.9825
+	Training Client 6/10
+Epoch 1/1, Loss: 8.706376040863688, Accuracy: 0.9861666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 9.600420501636108, Accuracy: 0.985
+	Training Client 8/10
+Epoch 1/1, Loss: 10.311238508438691, Accuracy: 0.9826666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 9.149771175085334, Accuracy: 0.9845
+	Training Client 10/10
+Epoch 1/1, Loss: 8.384327844163636, Accuracy: 0.9863333333333333
+	Aggregating client models
+Global Epoch 9/20
+	Training Client 1/10
+Epoch 1/1, Loss: 9.771301246364601, Accuracy: 0.9836666666666667
+	Training Client 2/10
+Epoch 1/1, Loss: 7.843326718371827, Accuracy: 0.988
+	Training Client 3/10
+Epoch 1/1, Loss: 7.889692272001412, Accuracy: 0.9863333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 9.02320633058116, Accuracy: 0.985
+	Training Client 5/10
+Epoch 1/1, Loss: 10.317096262931955, Accuracy: 0.9826666666666667
+	Training Client 6/10
+Epoch 1/1, Loss: 7.733403554491815, Accuracy: 0.9888333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 9.162833160022274, Accuracy: 0.986
+	Training Client 8/10
+Epoch 1/1, Loss: 9.39242731203558, Accuracy: 0.9856666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 8.07568263077701, Accuracy: 0.9871666666666666
+	Training Client 10/10
+Epoch 1/1, Loss: 7.638288295827806, Accuracy: 0.9873333333333333
+	Aggregating client models
+Global Epoch 10/20
+	Training Client 1/10
+Epoch 1/1, Loss: 9.336836860980839, Accuracy: 0.9848333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 7.399940907453129, Accuracy: 0.9858333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 6.698889519742806, Accuracy: 0.9886666666666667
+	Training Client 4/10
+Epoch 1/1, Loss: 8.083369164378382, Accuracy: 0.9873333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 9.06211480179627, Accuracy: 0.9845
+	Training Client 6/10
+Epoch 1/1, Loss: 7.48826875720988, Accuracy: 0.9868333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 8.398563267037389, Accuracy: 0.986
+	Training Client 8/10
+Epoch 1/1, Loss: 8.697596253929078, Accuracy: 0.9866666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 7.873227340558515, Accuracy: 0.9885
+	Training Client 10/10
+Epoch 1/1, Loss: 7.9769644407278975, Accuracy: 0.9858333333333333
+	Aggregating client models
+Global Epoch 11/20
+	Training Client 1/10
+Epoch 1/1, Loss: 7.452702542053885, Accuracy: 0.9883333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 6.353835213827551, Accuracy: 0.9885
+	Training Client 3/10
+Epoch 1/1, Loss: 6.829990038045253, Accuracy: 0.9878333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 7.361861454570317, Accuracy: 0.9881666666666666
+	Training Client 5/10
+Epoch 1/1, Loss: 8.841985315848433, Accuracy: 0.9845
+	Training Client 6/10
+Epoch 1/1, Loss: 7.061405392072629, Accuracy: 0.9891666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 7.06018851819681, Accuracy: 0.989
+	Training Client 8/10
+Epoch 1/1, Loss: 7.946229874622077, Accuracy: 0.9878333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 7.280788026549999, Accuracy: 0.9885
+	Training Client 10/10
+Epoch 1/1, Loss: 7.428231653939292, Accuracy: 0.9886666666666667
+	Aggregating client models
+Global Epoch 12/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.688731390349858, Accuracy: 0.9898333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 6.0268296271096915, Accuracy: 0.9895
+	Training Client 3/10
+Epoch 1/1, Loss: 6.318214454135159, Accuracy: 0.9893333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 6.67549144608347, Accuracy: 0.9908333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 8.19305693685601, Accuracy: 0.9868333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 6.176974265938043, Accuracy: 0.9893333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 7.10218887845258, Accuracy: 0.9891666666666666
+	Training Client 8/10
+Epoch 1/1, Loss: 6.875842862256832, Accuracy: 0.9886666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 7.254778671693202, Accuracy: 0.9886666666666667
+	Training Client 10/10
+Epoch 1/1, Loss: 5.396560549424976, Accuracy: 0.9896666666666667
+	Aggregating client models
+Global Epoch 13/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.215025982066436, Accuracy: 0.9895
+	Training Client 2/10
+Epoch 1/1, Loss: 6.167828163201193, Accuracy: 0.9883333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 5.314216826474876, Accuracy: 0.9903333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 6.253034251669305, Accuracy: 0.9895
+	Training Client 5/10
+Epoch 1/1, Loss: 7.594402764192637, Accuracy: 0.9883333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 6.731914129755751, Accuracy: 0.989
+	Training Client 7/10
+Epoch 1/1, Loss: 7.080934636673192, Accuracy: 0.9896666666666667
+	Training Client 8/10
+Epoch 1/1, Loss: 6.635241622134345, Accuracy: 0.9886666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 6.8351798292223975, Accuracy: 0.9896666666666667
+	Training Client 10/10
+Epoch 1/1, Loss: 5.5527511548643815, Accuracy: 0.9908333333333333
+	Aggregating client models
+Global Epoch 14/20
+	Training Client 1/10
+Epoch 1/1, Loss: 6.002349874688662, Accuracy: 0.9908333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 5.9488059976138175, Accuracy: 0.9908333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 5.178931022591769, Accuracy: 0.9911666666666666
+	Training Client 4/10
+Epoch 1/1, Loss: 6.730875278371968, Accuracy: 0.9905
+	Training Client 5/10
+Epoch 1/1, Loss: 6.492092201620835, Accuracy: 0.9888333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 5.985179791901828, Accuracy: 0.99
+	Training Client 7/10
+Epoch 1/1, Loss: 6.113901669930783, Accuracy: 0.9908333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 6.619482511410752, Accuracy: 0.988
+	Training Client 9/10
+Epoch 1/1, Loss: 5.367791129283432, Accuracy: 0.9905
+	Training Client 10/10
+Epoch 1/1, Loss: 5.610577245237437, Accuracy: 0.9896666666666667
+	Aggregating client models
+Global Epoch 15/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.99752818660636, Accuracy: 0.9918333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 5.324233018165614, Accuracy: 0.9921666666666666
+	Training Client 3/10
+Epoch 1/1, Loss: 5.04707186169253, Accuracy: 0.9925
+	Training Client 4/10
+Epoch 1/1, Loss: 5.491007563970925, Accuracy: 0.9903333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 6.67367135942186, Accuracy: 0.9893333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 5.761434473286499, Accuracy: 0.9901666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 5.313214417616109, Accuracy: 0.9918333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 6.419454817947553, Accuracy: 0.9906666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 5.918655567671067, Accuracy: 0.9918333333333333
+	Training Client 10/10
+Epoch 1/1, Loss: 5.252337794458072, Accuracy: 0.9926666666666667
+	Aggregating client models
+Global Epoch 16/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.5226830875035375, Accuracy: 0.993
+	Training Client 2/10
+Epoch 1/1, Loss: 4.902554733831494, Accuracy: 0.9915
+	Training Client 3/10
+Epoch 1/1, Loss: 4.488180715677117, Accuracy: 0.992
+	Training Client 4/10
+Epoch 1/1, Loss: 5.280695837216626, Accuracy: 0.9908333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 5.993110598028579, Accuracy: 0.9896666666666667
+	Training Client 6/10
+Epoch 1/1, Loss: 4.827680154947302, Accuracy: 0.9931666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 5.1077596312898095, Accuracy: 0.9918333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 6.1307783384199865, Accuracy: 0.99
+	Training Client 9/10
+Epoch 1/1, Loss: 5.7730451592142344, Accuracy: 0.9928333333333333
+	Training Client 10/10
+Epoch 1/1, Loss: 4.446445484249125, Accuracy: 0.993
+	Aggregating client models
+Global Epoch 17/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.0514990514498095, Accuracy: 0.9911666666666666
+	Training Client 2/10
+Epoch 1/1, Loss: 4.595681048611368, Accuracy: 0.9925
+	Training Client 3/10
+Epoch 1/1, Loss: 4.602817173939911, Accuracy: 0.9938333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 5.545242572763527, Accuracy: 0.9908333333333333
+	Training Client 5/10
+Epoch 1/1, Loss: 4.795845682445361, Accuracy: 0.9916666666666667
+	Training Client 6/10
+Epoch 1/1, Loss: 4.434376455484198, Accuracy: 0.9925
+	Training Client 7/10
+Epoch 1/1, Loss: 4.601804799685851, Accuracy: 0.9928333333333333
+	Training Client 8/10
+Epoch 1/1, Loss: 5.065629218658614, Accuracy: 0.9908333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 4.660791127885204, Accuracy: 0.9936666666666667
+	Training Client 10/10
+Epoch 1/1, Loss: 4.42755653895847, Accuracy: 0.9921666666666666
+	Aggregating client models
+Global Epoch 18/20
+	Training Client 1/10
+Epoch 1/1, Loss: 5.052800359011599, Accuracy: 0.9913333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 4.540762393906334, Accuracy: 0.9923333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 4.6656439380167285, Accuracy: 0.9923333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 4.47146351903848, Accuracy: 0.9925
+	Training Client 5/10
+Epoch 1/1, Loss: 5.445902669375755, Accuracy: 0.992
+	Training Client 6/10
+Epoch 1/1, Loss: 5.299247366894178, Accuracy: 0.9921666666666666
+	Training Client 7/10
+Epoch 1/1, Loss: 4.822381871578727, Accuracy: 0.9921666666666666
+	Training Client 8/10
+Epoch 1/1, Loss: 5.086190517871728, Accuracy: 0.9916666666666667
+	Training Client 9/10
+Epoch 1/1, Loss: 5.016073688339702, Accuracy: 0.9928333333333333
+	Training Client 10/10
+Epoch 1/1, Loss: 4.620740380253665, Accuracy: 0.9916666666666667
+	Aggregating client models
+Global Epoch 19/20
+	Training Client 1/10
+Epoch 1/1, Loss: 4.935743494972485, Accuracy: 0.9913333333333333
+	Training Client 2/10
+Epoch 1/1, Loss: 4.416868663063724, Accuracy: 0.9938333333333333
+	Training Client 3/10
+Epoch 1/1, Loss: 4.116506736131441, Accuracy: 0.9938333333333333
+	Training Client 4/10
+Epoch 1/1, Loss: 4.707860635217003, Accuracy: 0.9921666666666666
+	Training Client 5/10
+Epoch 1/1, Loss: 5.265258483363141, Accuracy: 0.992
+	Training Client 6/10
+Epoch 1/1, Loss: 4.577839720191832, Accuracy: 0.9918333333333333
+	Training Client 7/10
+Epoch 1/1, Loss: 5.269144529454934, Accuracy: 0.9916666666666667
+	Training Client 8/10
+Epoch 1/1, Loss: 4.678465252907017, Accuracy: 0.9913333333333333
+	Training Client 9/10
+Epoch 1/1, Loss: 4.860968045863956, Accuracy: 0.9923333333333333
+	Training Client 10/10
+Epoch 1/1, Loss: 4.001457463067709, Accuracy: 0.9933333333333333
+	Aggregating client models
+Global Epoch 20/20
+	Training Client 1/10
+Epoch 1/1, Loss: 4.043783177403384, Accuracy: 0.9935
+	Training Client 2/10
+Epoch 1/1, Loss: 4.017790834326661, Accuracy: 0.9935
+	Training Client 3/10
+Epoch 1/1, Loss: 4.2624034379495015, Accuracy: 0.9931666666666666
+	Training Client 4/10
+Epoch 1/1, Loss: 3.9568254506630183, Accuracy: 0.994
+	Training Client 5/10
+Epoch 1/1, Loss: 5.820595167380816, Accuracy: 0.9903333333333333
+	Training Client 6/10
+Epoch 1/1, Loss: 4.285157348650273, Accuracy: 0.9916666666666667
+	Training Client 7/10
+Epoch 1/1, Loss: 4.635952233706121, Accuracy: 0.9936666666666667
+	Training Client 8/10
+Epoch 1/1, Loss: 5.2070483721806795, Accuracy: 0.9911666666666666
+	Training Client 9/10
+Epoch 1/1, Loss: 3.9275023550852666, Accuracy: 0.995
+	Training Client 10/10
+Epoch 1/1, Loss: 4.076826403811538, Accuracy: 0.9941666666666666
+	Aggregating client models
+Testing Client 1/10
+	Accuracy for Client 1/10: 0.9925
+Testing Client 2/10
+	Accuracy for Client 2/10: 0.9925
+Testing Client 3/10
+	Accuracy for Client 3/10: 0.9925
+Testing Client 4/10
+	Accuracy for Client 4/10: 0.9925
+Testing Client 5/10
+	Accuracy for Client 5/10: 0.9925
+Testing Client 6/10
+	Accuracy for Client 6/10: 0.9925
+Testing Client 7/10
+	Accuracy for Client 7/10: 0.9925
+Testing Client 8/10
+	Accuracy for Client 8/10: 0.9925
+Testing Client 9/10
+	Accuracy for Client 9/10: 0.9925
+Testing Client 10/10
+	Accuracy for Client 10/10: 0.9925
+Client Accuracies: [0.9925, 0.9925, 0.9925, 0.9925, 0.9925, 0.9925, 0.9925, 0.9925, 0.9925, 0.9925]

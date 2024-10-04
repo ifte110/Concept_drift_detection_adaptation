@@ -1,0 +1,4290 @@
+Global Epoch 1/40
+	Training Client 1/60
+Epoch 1/1, Loss: 51.36039102077484, Accuracy: 0.521
+	Training Client 2/60
+Epoch 1/1, Loss: 49.94809705018997, Accuracy: 0.533
+	Training Client 3/60
+Epoch 1/1, Loss: 53.74010008573532, Accuracy: 0.456
+	Training Client 4/60
+Epoch 1/1, Loss: 49.32401132583618, Accuracy: 0.549
+	Training Client 5/60
+Epoch 1/1, Loss: 47.15098947286606, Accuracy: 0.568
+	Training Client 6/60
+Epoch 1/1, Loss: 50.755457639694214, Accuracy: 0.474
+	Training Client 7/60
+Epoch 1/1, Loss: 51.97681701183319, Accuracy: 0.523
+	Training Client 8/60
+Epoch 1/1, Loss: 55.80665564537048, Accuracy: 0.433
+	Training Client 9/60
+Epoch 1/1, Loss: 51.3252512216568, Accuracy: 0.49
+	Training Client 10/60
+Epoch 1/1, Loss: 51.79644647240639, Accuracy: 0.506
+	Training Client 11/60
+Epoch 1/1, Loss: 51.481332182884216, Accuracy: 0.492
+	Training Client 12/60
+Epoch 1/1, Loss: 49.15492835640907, Accuracy: 0.513
+	Training Client 13/60
+Epoch 1/1, Loss: 50.44202375411987, Accuracy: 0.527
+	Training Client 14/60
+Epoch 1/1, Loss: 53.941094636917114, Accuracy: 0.486
+	Training Client 15/60
+Epoch 1/1, Loss: 52.50782984495163, Accuracy: 0.513
+	Training Client 16/60
+Epoch 1/1, Loss: 53.59513199329376, Accuracy: 0.5
+	Training Client 17/60
+Epoch 1/1, Loss: 55.09876894950867, Accuracy: 0.48
+	Training Client 18/60
+Epoch 1/1, Loss: 51.267287731170654, Accuracy: 0.557
+	Training Client 19/60
+Epoch 1/1, Loss: 49.609523355960846, Accuracy: 0.52
+	Training Client 20/60
+Epoch 1/1, Loss: 52.6623318195343, Accuracy: 0.471
+	Training Client 21/60
+Epoch 1/1, Loss: 49.17084223031998, Accuracy: 0.504
+	Training Client 22/60
+Epoch 1/1, Loss: 51.938799142837524, Accuracy: 0.529
+	Training Client 23/60
+Epoch 1/1, Loss: 52.25744378566742, Accuracy: 0.504
+	Training Client 24/60
+Epoch 1/1, Loss: 53.95600867271423, Accuracy: 0.465
+	Training Client 25/60
+Epoch 1/1, Loss: 50.603015661239624, Accuracy: 0.547
+	Training Client 26/60
+Epoch 1/1, Loss: 53.0636922121048, Accuracy: 0.534
+	Training Client 27/60
+Epoch 1/1, Loss: 49.97231775522232, Accuracy: 0.532
+	Training Client 28/60
+Epoch 1/1, Loss: 54.642112016677856, Accuracy: 0.454
+	Training Client 29/60
+Epoch 1/1, Loss: 49.756814390420914, Accuracy: 0.529
+	Training Client 30/60
+Epoch 1/1, Loss: 53.19761264324188, Accuracy: 0.467
+	Training Client 31/60
+Epoch 1/1, Loss: 51.84292423725128, Accuracy: 0.512
+	Training Client 32/60
+Epoch 1/1, Loss: 50.17209392786026, Accuracy: 0.503
+	Training Client 33/60
+Epoch 1/1, Loss: 49.52633422613144, Accuracy: 0.529
+	Training Client 34/60
+Epoch 1/1, Loss: 50.83197766542435, Accuracy: 0.506
+	Training Client 35/60
+Epoch 1/1, Loss: 49.92158591747284, Accuracy: 0.486
+	Training Client 36/60
+Epoch 1/1, Loss: 49.325961112976074, Accuracy: 0.532
+	Training Client 37/60
+Epoch 1/1, Loss: 49.89633768796921, Accuracy: 0.521
+	Training Client 38/60
+Epoch 1/1, Loss: 53.05862408876419, Accuracy: 0.466
+	Training Client 39/60
+Epoch 1/1, Loss: 49.72896319627762, Accuracy: 0.523
+	Training Client 40/60
+Epoch 1/1, Loss: 49.67260789871216, Accuracy: 0.521
+	Training Client 41/60
+Epoch 1/1, Loss: 54.473086565732956, Accuracy: 0.459
+	Training Client 42/60
+Epoch 1/1, Loss: 48.381168484687805, Accuracy: 0.514
+	Training Client 43/60
+Epoch 1/1, Loss: 54.884045124053955, Accuracy: 0.454
+	Training Client 44/60
+Epoch 1/1, Loss: 49.00463956594467, Accuracy: 0.511
+	Training Client 45/60
+Epoch 1/1, Loss: 52.895848751068115, Accuracy: 0.437
+	Training Client 46/60
+Epoch 1/1, Loss: 49.51641094684601, Accuracy: 0.512
+	Training Client 47/60
+Epoch 1/1, Loss: 51.47939360141754, Accuracy: 0.512
+	Training Client 48/60
+Epoch 1/1, Loss: 49.40403217077255, Accuracy: 0.497
+	Training Client 49/60
+Epoch 1/1, Loss: 51.276516914367676, Accuracy: 0.527
+	Training Client 50/60
+Epoch 1/1, Loss: 51.93930518627167, Accuracy: 0.448
+	Training Client 51/60
+Epoch 1/1, Loss: 51.950846433639526, Accuracy: 0.522
+	Training Client 52/60
+Epoch 1/1, Loss: 51.31742858886719, Accuracy: 0.509
+	Training Client 53/60
+Epoch 1/1, Loss: 53.53229731321335, Accuracy: 0.475
+	Training Client 54/60
+Epoch 1/1, Loss: 51.519198417663574, Accuracy: 0.477
+	Training Client 55/60
+Epoch 1/1, Loss: 51.795175194740295, Accuracy: 0.482
+	Training Client 56/60
+Epoch 1/1, Loss: 51.86151999235153, Accuracy: 0.483
+	Training Client 57/60
+Epoch 1/1, Loss: 55.15350490808487, Accuracy: 0.456
+	Training Client 58/60
+Epoch 1/1, Loss: 51.02256315946579, Accuracy: 0.509
+	Training Client 59/60
+Epoch 1/1, Loss: 49.24675087630749, Accuracy: 0.522
+	Training Client 60/60
+Epoch 1/1, Loss: 53.28516000509262, Accuracy: 0.478
+	Aggregating client models
+Global Epoch 2/40
+	Training Client 1/60
+Epoch 1/1, Loss: 17.60386261343956, Accuracy: 0.816
+	Training Client 2/60
+Epoch 1/1, Loss: 19.327492505311966, Accuracy: 0.814
+	Training Client 3/60
+Epoch 1/1, Loss: 19.034317046403885, Accuracy: 0.817
+	Training Client 4/60
+Epoch 1/1, Loss: 20.539649859070778, Accuracy: 0.793
+	Training Client 5/60
+Epoch 1/1, Loss: 17.666079074144363, Accuracy: 0.825
+	Training Client 6/60
+Epoch 1/1, Loss: 20.416964441537857, Accuracy: 0.79
+	Training Client 7/60
+Epoch 1/1, Loss: 17.072973787784576, Accuracy: 0.841
+	Training Client 8/60
+Epoch 1/1, Loss: 21.267152458429337, Accuracy: 0.781
+	Training Client 9/60
+Epoch 1/1, Loss: 18.05427946150303, Accuracy: 0.821
+	Training Client 10/60
+Epoch 1/1, Loss: 18.899889141321182, Accuracy: 0.813
+	Training Client 11/60
+Epoch 1/1, Loss: 17.243244349956512, Accuracy: 0.837
+	Training Client 12/60
+Epoch 1/1, Loss: 18.190403535962105, Accuracy: 0.819
+	Training Client 13/60
+Epoch 1/1, Loss: 17.444788329303265, Accuracy: 0.82
+	Training Client 14/60
+Epoch 1/1, Loss: 18.415851071476936, Accuracy: 0.823
+	Training Client 15/60
+Epoch 1/1, Loss: 18.147369980812073, Accuracy: 0.823
+	Training Client 16/60
+Epoch 1/1, Loss: 19.710448123514652, Accuracy: 0.812
+	Training Client 17/60
+Epoch 1/1, Loss: 19.282614812254906, Accuracy: 0.811
+	Training Client 18/60
+Epoch 1/1, Loss: 16.791775297373533, Accuracy: 0.835
+	Training Client 19/60
+Epoch 1/1, Loss: 17.72154015302658, Accuracy: 0.813
+	Training Client 20/60
+Epoch 1/1, Loss: 17.833152443170547, Accuracy: 0.817
+	Training Client 21/60
+Epoch 1/1, Loss: 18.74725368618965, Accuracy: 0.818
+	Training Client 22/60
+Epoch 1/1, Loss: 17.847565673291683, Accuracy: 0.83
+	Training Client 23/60
+Epoch 1/1, Loss: 19.042621195316315, Accuracy: 0.826
+	Training Client 24/60
+Epoch 1/1, Loss: 18.1974815428257, Accuracy: 0.828
+	Training Client 25/60
+Epoch 1/1, Loss: 18.517963498830795, Accuracy: 0.81
+	Training Client 26/60
+Epoch 1/1, Loss: 17.729966029524803, Accuracy: 0.821
+	Training Client 27/60
+Epoch 1/1, Loss: 17.634010672569275, Accuracy: 0.817
+	Training Client 28/60
+Epoch 1/1, Loss: 16.994008854031563, Accuracy: 0.834
+	Training Client 29/60
+Epoch 1/1, Loss: 16.846351623535156, Accuracy: 0.836
+	Training Client 30/60
+Epoch 1/1, Loss: 18.351504236459732, Accuracy: 0.815
+	Training Client 31/60
+Epoch 1/1, Loss: 18.998471572995186, Accuracy: 0.813
+	Training Client 32/60
+Epoch 1/1, Loss: 18.18701110780239, Accuracy: 0.814
+	Training Client 33/60
+Epoch 1/1, Loss: 18.363988742232323, Accuracy: 0.813
+	Training Client 34/60
+Epoch 1/1, Loss: 17.732652217149734, Accuracy: 0.836
+	Training Client 35/60
+Epoch 1/1, Loss: 17.473804846405983, Accuracy: 0.84
+	Training Client 36/60
+Epoch 1/1, Loss: 19.054394990205765, Accuracy: 0.805
+	Training Client 37/60
+Epoch 1/1, Loss: 19.91954255104065, Accuracy: 0.804
+	Training Client 38/60
+Epoch 1/1, Loss: 19.796409457921982, Accuracy: 0.821
+	Training Client 39/60
+Epoch 1/1, Loss: 18.326611295342445, Accuracy: 0.812
+	Training Client 40/60
+Epoch 1/1, Loss: 18.64354233443737, Accuracy: 0.817
+	Training Client 41/60
+Epoch 1/1, Loss: 18.575007304549217, Accuracy: 0.816
+	Training Client 42/60
+Epoch 1/1, Loss: 16.921782985329628, Accuracy: 0.837
+	Training Client 43/60
+Epoch 1/1, Loss: 19.157793700695038, Accuracy: 0.801
+	Training Client 44/60
+Epoch 1/1, Loss: 18.029585987329483, Accuracy: 0.83
+	Training Client 45/60
+Epoch 1/1, Loss: 17.58583138883114, Accuracy: 0.819
+	Training Client 46/60
+Epoch 1/1, Loss: 17.68753483891487, Accuracy: 0.827
+	Training Client 47/60
+Epoch 1/1, Loss: 18.855108380317688, Accuracy: 0.824
+	Training Client 48/60
+Epoch 1/1, Loss: 18.01277233660221, Accuracy: 0.824
+	Training Client 49/60
+Epoch 1/1, Loss: 17.398230209946632, Accuracy: 0.832
+	Training Client 50/60
+Epoch 1/1, Loss: 18.408177852630615, Accuracy: 0.82
+	Training Client 51/60
+Epoch 1/1, Loss: 18.956840112805367, Accuracy: 0.797
+	Training Client 52/60
+Epoch 1/1, Loss: 19.59087409079075, Accuracy: 0.806
+	Training Client 53/60
+Epoch 1/1, Loss: 19.000069499015808, Accuracy: 0.812
+	Training Client 54/60
+Epoch 1/1, Loss: 17.811675913631916, Accuracy: 0.834
+	Training Client 55/60
+Epoch 1/1, Loss: 17.42279841005802, Accuracy: 0.831
+	Training Client 56/60
+Epoch 1/1, Loss: 17.03934182226658, Accuracy: 0.825
+	Training Client 57/60
+Epoch 1/1, Loss: 17.85988487303257, Accuracy: 0.825
+	Training Client 58/60
+Epoch 1/1, Loss: 17.89794947206974, Accuracy: 0.821
+	Training Client 59/60
+Epoch 1/1, Loss: 18.484063893556595, Accuracy: 0.814
+	Training Client 60/60
+Epoch 1/1, Loss: 18.588112324476242, Accuracy: 0.817
+	Aggregating client models
+Global Epoch 3/40
+	Training Client 1/60
+Epoch 1/1, Loss: 10.736386928707361, Accuracy: 0.892
+	Training Client 2/60
+Epoch 1/1, Loss: 12.332415342330933, Accuracy: 0.887
+	Training Client 3/60
+Epoch 1/1, Loss: 11.092101812362671, Accuracy: 0.891
+	Training Client 4/60
+Epoch 1/1, Loss: 11.283097445964813, Accuracy: 0.897
+	Training Client 5/60
+Epoch 1/1, Loss: 10.892921447753906, Accuracy: 0.896
+	Training Client 6/60
+Epoch 1/1, Loss: 10.619994476437569, Accuracy: 0.889
+	Training Client 7/60
+Epoch 1/1, Loss: 11.520774081349373, Accuracy: 0.889
+	Training Client 8/60
+Epoch 1/1, Loss: 10.897556446492672, Accuracy: 0.896
+	Training Client 9/60
+Epoch 1/1, Loss: 11.224860243499279, Accuracy: 0.895
+	Training Client 10/60
+Epoch 1/1, Loss: 10.335072696208954, Accuracy: 0.9
+	Training Client 11/60
+Epoch 1/1, Loss: 9.95651738345623, Accuracy: 0.898
+	Training Client 12/60
+Epoch 1/1, Loss: 11.047050833702087, Accuracy: 0.903
+	Training Client 13/60
+Epoch 1/1, Loss: 10.531543165445328, Accuracy: 0.888
+	Training Client 14/60
+Epoch 1/1, Loss: 11.255245320498943, Accuracy: 0.885
+	Training Client 15/60
+Epoch 1/1, Loss: 10.416911974549294, Accuracy: 0.891
+	Training Client 16/60
+Epoch 1/1, Loss: 12.401730999350548, Accuracy: 0.889
+	Training Client 17/60
+Epoch 1/1, Loss: 12.075335167348385, Accuracy: 0.896
+	Training Client 18/60
+Epoch 1/1, Loss: 9.632978565990925, Accuracy: 0.9
+	Training Client 19/60
+Epoch 1/1, Loss: 11.333339903503656, Accuracy: 0.892
+	Training Client 20/60
+Epoch 1/1, Loss: 12.23543032258749, Accuracy: 0.887
+	Training Client 21/60
+Epoch 1/1, Loss: 10.919400855898857, Accuracy: 0.905
+	Training Client 22/60
+Epoch 1/1, Loss: 11.775624826550484, Accuracy: 0.886
+	Training Client 23/60
+Epoch 1/1, Loss: 11.73560318350792, Accuracy: 0.898
+	Training Client 24/60
+Epoch 1/1, Loss: 11.939267784357071, Accuracy: 0.895
+	Training Client 25/60
+Epoch 1/1, Loss: 12.343792125582695, Accuracy: 0.87
+	Training Client 26/60
+Epoch 1/1, Loss: 10.909332659095526, Accuracy: 0.888
+	Training Client 27/60
+Epoch 1/1, Loss: 9.824577014893293, Accuracy: 0.912
+	Training Client 28/60
+Epoch 1/1, Loss: 11.063362812623382, Accuracy: 0.893
+	Training Client 29/60
+Epoch 1/1, Loss: 11.016129441559315, Accuracy: 0.889
+	Training Client 30/60
+Epoch 1/1, Loss: 10.819435939192772, Accuracy: 0.894
+	Training Client 31/60
+Epoch 1/1, Loss: 13.445123381912708, Accuracy: 0.866
+	Training Client 32/60
+Epoch 1/1, Loss: 11.04503409564495, Accuracy: 0.881
+	Training Client 33/60
+Epoch 1/1, Loss: 10.228241648525, Accuracy: 0.911
+	Training Client 34/60
+Epoch 1/1, Loss: 11.45333930850029, Accuracy: 0.895
+	Training Client 35/60
+Epoch 1/1, Loss: 10.390003472566605, Accuracy: 0.887
+	Training Client 36/60
+Epoch 1/1, Loss: 10.276882141828537, Accuracy: 0.9
+	Training Client 37/60
+Epoch 1/1, Loss: 11.22951290011406, Accuracy: 0.884
+	Training Client 38/60
+Epoch 1/1, Loss: 11.707843877375126, Accuracy: 0.894
+	Training Client 39/60
+Epoch 1/1, Loss: 11.244522251188755, Accuracy: 0.894
+	Training Client 40/60
+Epoch 1/1, Loss: 9.681599199771881, Accuracy: 0.897
+	Training Client 41/60
+Epoch 1/1, Loss: 10.302876725792885, Accuracy: 0.896
+	Training Client 42/60
+Epoch 1/1, Loss: 10.00101038068533, Accuracy: 0.905
+	Training Client 43/60
+Epoch 1/1, Loss: 11.082447208464146, Accuracy: 0.89
+	Training Client 44/60
+Epoch 1/1, Loss: 12.666562169790268, Accuracy: 0.892
+	Training Client 45/60
+Epoch 1/1, Loss: 11.09237852692604, Accuracy: 0.891
+	Training Client 46/60
+Epoch 1/1, Loss: 10.07568397372961, Accuracy: 0.904
+	Training Client 47/60
+Epoch 1/1, Loss: 11.432043179869652, Accuracy: 0.906
+	Training Client 48/60
+Epoch 1/1, Loss: 11.115538723766804, Accuracy: 0.912
+	Training Client 49/60
+Epoch 1/1, Loss: 10.707906730473042, Accuracy: 0.898
+	Training Client 50/60
+Epoch 1/1, Loss: 12.572088435292244, Accuracy: 0.876
+	Training Client 51/60
+Epoch 1/1, Loss: 11.759625881910324, Accuracy: 0.884
+	Training Client 52/60
+Epoch 1/1, Loss: 12.782951347529888, Accuracy: 0.888
+	Training Client 53/60
+Epoch 1/1, Loss: 11.722328998148441, Accuracy: 0.894
+	Training Client 54/60
+Epoch 1/1, Loss: 10.841323360800743, Accuracy: 0.9
+	Training Client 55/60
+Epoch 1/1, Loss: 10.194169901311398, Accuracy: 0.916
+	Training Client 56/60
+Epoch 1/1, Loss: 10.276957087218761, Accuracy: 0.893
+	Training Client 57/60
+Epoch 1/1, Loss: 10.374016858637333, Accuracy: 0.901
+	Training Client 58/60
+Epoch 1/1, Loss: 9.69807817041874, Accuracy: 0.906
+	Training Client 59/60
+Epoch 1/1, Loss: 10.406061738729477, Accuracy: 0.893
+	Training Client 60/60
+Epoch 1/1, Loss: 11.520682610571384, Accuracy: 0.892
+	Aggregating client models
+Global Epoch 4/40
+	Training Client 1/60
+Epoch 1/1, Loss: 6.839439362287521, Accuracy: 0.943
+	Training Client 2/60
+Epoch 1/1, Loss: 9.748302035033703, Accuracy: 0.898
+	Training Client 3/60
+Epoch 1/1, Loss: 8.460522405803204, Accuracy: 0.921
+	Training Client 4/60
+Epoch 1/1, Loss: 7.74424640275538, Accuracy: 0.929
+	Training Client 5/60
+Epoch 1/1, Loss: 8.630071364343166, Accuracy: 0.916
+	Training Client 6/60
+Epoch 1/1, Loss: 8.01551703363657, Accuracy: 0.933
+	Training Client 7/60
+Epoch 1/1, Loss: 7.775109671056271, Accuracy: 0.918
+	Training Client 8/60
+Epoch 1/1, Loss: 8.061316102743149, Accuracy: 0.924
+	Training Client 9/60
+Epoch 1/1, Loss: 9.43573971092701, Accuracy: 0.91
+	Training Client 10/60
+Epoch 1/1, Loss: 7.445699326694012, Accuracy: 0.929
+	Training Client 11/60
+Epoch 1/1, Loss: 6.695078037679195, Accuracy: 0.937
+	Training Client 12/60
+Epoch 1/1, Loss: 7.714195430278778, Accuracy: 0.934
+	Training Client 13/60
+Epoch 1/1, Loss: 7.152183658443391, Accuracy: 0.932
+	Training Client 14/60
+Epoch 1/1, Loss: 8.39954848587513, Accuracy: 0.916
+	Training Client 15/60
+Epoch 1/1, Loss: 7.006966754794121, Accuracy: 0.925
+	Training Client 16/60
+Epoch 1/1, Loss: 8.955672152340412, Accuracy: 0.918
+	Training Client 17/60
+Epoch 1/1, Loss: 8.256850823760033, Accuracy: 0.922
+	Training Client 18/60
+Epoch 1/1, Loss: 6.59960463643074, Accuracy: 0.938
+	Training Client 19/60
+Epoch 1/1, Loss: 9.048297792673111, Accuracy: 0.911
+	Training Client 20/60
+Epoch 1/1, Loss: 7.840921372175217, Accuracy: 0.918
+	Training Client 21/60
+Epoch 1/1, Loss: 9.468935742974281, Accuracy: 0.913
+	Training Client 22/60
+Epoch 1/1, Loss: 8.488192114979029, Accuracy: 0.935
+	Training Client 23/60
+Epoch 1/1, Loss: 9.641203626990318, Accuracy: 0.921
+	Training Client 24/60
+Epoch 1/1, Loss: 8.783624902367592, Accuracy: 0.921
+	Training Client 25/60
+Epoch 1/1, Loss: 9.19204629957676, Accuracy: 0.911
+	Training Client 26/60
+Epoch 1/1, Loss: 8.834030456840992, Accuracy: 0.918
+	Training Client 27/60
+Epoch 1/1, Loss: 6.669761098921299, Accuracy: 0.939
+	Training Client 28/60
+Epoch 1/1, Loss: 7.382523879408836, Accuracy: 0.923
+	Training Client 29/60
+Epoch 1/1, Loss: 7.455368667840958, Accuracy: 0.924
+	Training Client 30/60
+Epoch 1/1, Loss: 7.14590697735548, Accuracy: 0.928
+	Training Client 31/60
+Epoch 1/1, Loss: 9.312740087509155, Accuracy: 0.921
+	Training Client 32/60
+Epoch 1/1, Loss: 8.297506988048553, Accuracy: 0.925
+	Training Client 33/60
+Epoch 1/1, Loss: 8.26639125822112, Accuracy: 0.912
+	Training Client 34/60
+Epoch 1/1, Loss: 7.235193058848381, Accuracy: 0.946
+	Training Client 35/60
+Epoch 1/1, Loss: 6.961330637335777, Accuracy: 0.926
+	Training Client 36/60
+Epoch 1/1, Loss: 8.155742183327675, Accuracy: 0.91
+	Training Client 37/60
+Epoch 1/1, Loss: 9.403883837163448, Accuracy: 0.913
+	Training Client 38/60
+Epoch 1/1, Loss: 8.539752714335918, Accuracy: 0.926
+	Training Client 39/60
+Epoch 1/1, Loss: 8.774389699101448, Accuracy: 0.915
+	Training Client 40/60
+Epoch 1/1, Loss: 7.996330089867115, Accuracy: 0.917
+	Training Client 41/60
+Epoch 1/1, Loss: 8.223262093961239, Accuracy: 0.92
+	Training Client 42/60
+Epoch 1/1, Loss: 7.3920018300414085, Accuracy: 0.938
+	Training Client 43/60
+Epoch 1/1, Loss: 7.303211156278849, Accuracy: 0.925
+	Training Client 44/60
+Epoch 1/1, Loss: 9.316503629088402, Accuracy: 0.921
+	Training Client 45/60
+Epoch 1/1, Loss: 8.4478903375566, Accuracy: 0.923
+	Training Client 46/60
+Epoch 1/1, Loss: 7.771508447825909, Accuracy: 0.925
+	Training Client 47/60
+Epoch 1/1, Loss: 7.833065509796143, Accuracy: 0.934
+	Training Client 48/60
+Epoch 1/1, Loss: 7.774643093347549, Accuracy: 0.929
+	Training Client 49/60
+Epoch 1/1, Loss: 7.848351947963238, Accuracy: 0.934
+	Training Client 50/60
+Epoch 1/1, Loss: 8.389685552567244, Accuracy: 0.917
+	Training Client 51/60
+Epoch 1/1, Loss: 8.036487080156803, Accuracy: 0.924
+	Training Client 52/60
+Epoch 1/1, Loss: 9.274226695299149, Accuracy: 0.902
+	Training Client 53/60
+Epoch 1/1, Loss: 8.286846231669188, Accuracy: 0.906
+	Training Client 54/60
+Epoch 1/1, Loss: 8.31286570429802, Accuracy: 0.923
+	Training Client 55/60
+Epoch 1/1, Loss: 8.041349291801453, Accuracy: 0.92
+	Training Client 56/60
+Epoch 1/1, Loss: 7.048694372177124, Accuracy: 0.927
+	Training Client 57/60
+Epoch 1/1, Loss: 7.883818358182907, Accuracy: 0.92
+	Training Client 58/60
+Epoch 1/1, Loss: 6.6583120338618755, Accuracy: 0.936
+	Training Client 59/60
+Epoch 1/1, Loss: 8.163571573793888, Accuracy: 0.91
+	Training Client 60/60
+Epoch 1/1, Loss: 8.255128439515829, Accuracy: 0.93
+	Aggregating client models
+Global Epoch 5/40
+	Training Client 1/60
+Epoch 1/1, Loss: 5.501423003152013, Accuracy: 0.953
+	Training Client 2/60
+Epoch 1/1, Loss: 7.989287182688713, Accuracy: 0.927
+	Training Client 3/60
+Epoch 1/1, Loss: 6.724780973047018, Accuracy: 0.941
+	Training Client 4/60
+Epoch 1/1, Loss: 5.67629568092525, Accuracy: 0.952
+	Training Client 5/60
+Epoch 1/1, Loss: 6.557209800928831, Accuracy: 0.943
+	Training Client 6/60
+Epoch 1/1, Loss: 6.566275034099817, Accuracy: 0.93
+	Training Client 7/60
+Epoch 1/1, Loss: 6.209734916687012, Accuracy: 0.932
+	Training Client 8/60
+Epoch 1/1, Loss: 6.214644927531481, Accuracy: 0.945
+	Training Client 9/60
+Epoch 1/1, Loss: 6.423080507665873, Accuracy: 0.945
+	Training Client 10/60
+Epoch 1/1, Loss: 5.841418977826834, Accuracy: 0.95
+	Training Client 11/60
+Epoch 1/1, Loss: 5.52931565605104, Accuracy: 0.95
+	Training Client 12/60
+Epoch 1/1, Loss: 6.091092371381819, Accuracy: 0.943
+	Training Client 13/60
+Epoch 1/1, Loss: 5.706585966050625, Accuracy: 0.946
+	Training Client 14/60
+Epoch 1/1, Loss: 6.492179650813341, Accuracy: 0.938
+	Training Client 15/60
+Epoch 1/1, Loss: 5.414987653493881, Accuracy: 0.952
+	Training Client 16/60
+Epoch 1/1, Loss: 7.658813741058111, Accuracy: 0.943
+	Training Client 17/60
+Epoch 1/1, Loss: 6.147316662594676, Accuracy: 0.939
+	Training Client 18/60
+Epoch 1/1, Loss: 5.6052528358995914, Accuracy: 0.959
+	Training Client 19/60
+Epoch 1/1, Loss: 6.15796147659421, Accuracy: 0.94
+	Training Client 20/60
+Epoch 1/1, Loss: 6.112212661653757, Accuracy: 0.945
+	Training Client 21/60
+Epoch 1/1, Loss: 9.694250866770744, Accuracy: 0.919
+	Training Client 22/60
+Epoch 1/1, Loss: 6.989347316324711, Accuracy: 0.936
+	Training Client 23/60
+Epoch 1/1, Loss: 7.533979080617428, Accuracy: 0.941
+	Training Client 24/60
+Epoch 1/1, Loss: 6.81382997892797, Accuracy: 0.936
+	Training Client 25/60
+Epoch 1/1, Loss: 6.389566447585821, Accuracy: 0.93
+	Training Client 26/60
+Epoch 1/1, Loss: 6.208979859948158, Accuracy: 0.95
+	Training Client 27/60
+Epoch 1/1, Loss: 5.155713975429535, Accuracy: 0.947
+	Training Client 28/60
+Epoch 1/1, Loss: 6.708253961056471, Accuracy: 0.928
+	Training Client 29/60
+Epoch 1/1, Loss: 6.115265134721994, Accuracy: 0.951
+	Training Client 30/60
+Epoch 1/1, Loss: 6.073500894010067, Accuracy: 0.934
+	Training Client 31/60
+Epoch 1/1, Loss: 7.845387741923332, Accuracy: 0.93
+	Training Client 32/60
+Epoch 1/1, Loss: 6.074509538710117, Accuracy: 0.936
+	Training Client 33/60
+Epoch 1/1, Loss: 6.582550335675478, Accuracy: 0.935
+	Training Client 34/60
+Epoch 1/1, Loss: 6.439500138163567, Accuracy: 0.942
+	Training Client 35/60
+Epoch 1/1, Loss: 5.08414575830102, Accuracy: 0.953
+	Training Client 36/60
+Epoch 1/1, Loss: 5.623235262930393, Accuracy: 0.946
+	Training Client 37/60
+Epoch 1/1, Loss: 7.472582958638668, Accuracy: 0.934
+	Training Client 38/60
+Epoch 1/1, Loss: 7.340180668979883, Accuracy: 0.929
+	Training Client 39/60
+Epoch 1/1, Loss: 7.411033309996128, Accuracy: 0.927
+	Training Client 40/60
+Epoch 1/1, Loss: 6.880444843322039, Accuracy: 0.925
+	Training Client 41/60
+Epoch 1/1, Loss: 6.945750284940004, Accuracy: 0.936
+	Training Client 42/60
+Epoch 1/1, Loss: 5.802761732600629, Accuracy: 0.951
+	Training Client 43/60
+Epoch 1/1, Loss: 5.580071048811078, Accuracy: 0.943
+	Training Client 44/60
+Epoch 1/1, Loss: 7.391314443200827, Accuracy: 0.93
+	Training Client 45/60
+Epoch 1/1, Loss: 6.699191588908434, Accuracy: 0.93
+	Training Client 46/60
+Epoch 1/1, Loss: 6.319839481264353, Accuracy: 0.945
+	Training Client 47/60
+Epoch 1/1, Loss: 6.284694688394666, Accuracy: 0.942
+	Training Client 48/60
+Epoch 1/1, Loss: 6.499353025108576, Accuracy: 0.956
+	Training Client 49/60
+Epoch 1/1, Loss: 5.636722411960363, Accuracy: 0.948
+	Training Client 50/60
+Epoch 1/1, Loss: 7.174645680934191, Accuracy: 0.929
+	Training Client 51/60
+Epoch 1/1, Loss: 6.659255277365446, Accuracy: 0.935
+	Training Client 52/60
+Epoch 1/1, Loss: 7.080326858907938, Accuracy: 0.929
+	Training Client 53/60
+Epoch 1/1, Loss: 6.406367784366012, Accuracy: 0.932
+	Training Client 54/60
+Epoch 1/1, Loss: 6.420222587417811, Accuracy: 0.944
+	Training Client 55/60
+Epoch 1/1, Loss: 6.279932543635368, Accuracy: 0.945
+	Training Client 56/60
+Epoch 1/1, Loss: 5.730854529887438, Accuracy: 0.938
+	Training Client 57/60
+Epoch 1/1, Loss: 6.146958965808153, Accuracy: 0.942
+	Training Client 58/60
+Epoch 1/1, Loss: 4.695749171078205, Accuracy: 0.957
+	Training Client 59/60
+Epoch 1/1, Loss: 7.319987718015909, Accuracy: 0.923
+	Training Client 60/60
+Epoch 1/1, Loss: 6.696688944473863, Accuracy: 0.937
+	Aggregating client models
+Global Epoch 6/40
+	Training Client 1/60
+Epoch 1/1, Loss: 4.469027986750007, Accuracy: 0.959
+	Training Client 2/60
+Epoch 1/1, Loss: 6.346721092239022, Accuracy: 0.937
+	Training Client 3/60
+Epoch 1/1, Loss: 5.809364274144173, Accuracy: 0.943
+	Training Client 4/60
+Epoch 1/1, Loss: 4.951547164469957, Accuracy: 0.955
+	Training Client 5/60
+Epoch 1/1, Loss: 5.9030057387426496, Accuracy: 0.948
+	Training Client 6/60
+Epoch 1/1, Loss: 5.130724859423935, Accuracy: 0.957
+	Training Client 7/60
+Epoch 1/1, Loss: 6.000945912674069, Accuracy: 0.932
+	Training Client 8/60
+Epoch 1/1, Loss: 6.446708604693413, Accuracy: 0.949
+	Training Client 9/60
+Epoch 1/1, Loss: 5.637308910489082, Accuracy: 0.949
+	Training Client 10/60
+Epoch 1/1, Loss: 4.7047041691839695, Accuracy: 0.953
+	Training Client 11/60
+Epoch 1/1, Loss: 4.646836860105395, Accuracy: 0.956
+	Training Client 12/60
+Epoch 1/1, Loss: 6.240583611652255, Accuracy: 0.943
+	Training Client 13/60
+Epoch 1/1, Loss: 4.779004964977503, Accuracy: 0.959
+	Training Client 14/60
+Epoch 1/1, Loss: 4.750321479514241, Accuracy: 0.946
+	Training Client 15/60
+Epoch 1/1, Loss: 3.8799866382032633, Accuracy: 0.958
+	Training Client 16/60
+Epoch 1/1, Loss: 7.1405894458293915, Accuracy: 0.93
+	Training Client 17/60
+Epoch 1/1, Loss: 5.926218848675489, Accuracy: 0.941
+	Training Client 18/60
+Epoch 1/1, Loss: 3.918527329340577, Accuracy: 0.963
+	Training Client 19/60
+Epoch 1/1, Loss: 4.98964305780828, Accuracy: 0.948
+	Training Client 20/60
+Epoch 1/1, Loss: 5.0578839257359505, Accuracy: 0.953
+	Training Client 21/60
+Epoch 1/1, Loss: 7.206213872879744, Accuracy: 0.933
+	Training Client 22/60
+Epoch 1/1, Loss: 6.139706540852785, Accuracy: 0.941
+	Training Client 23/60
+Epoch 1/1, Loss: 6.0314622819423676, Accuracy: 0.944
+	Training Client 24/60
+Epoch 1/1, Loss: 6.298097237944603, Accuracy: 0.948
+	Training Client 25/60
+Epoch 1/1, Loss: 5.488017663359642, Accuracy: 0.945
+	Training Client 26/60
+Epoch 1/1, Loss: 6.041057303547859, Accuracy: 0.938
+	Training Client 27/60
+Epoch 1/1, Loss: 4.778707136400044, Accuracy: 0.95
+	Training Client 28/60
+Epoch 1/1, Loss: 4.723226792644709, Accuracy: 0.961
+	Training Client 29/60
+Epoch 1/1, Loss: 5.601994026452303, Accuracy: 0.95
+	Training Client 30/60
+Epoch 1/1, Loss: 4.880355833098292, Accuracy: 0.955
+	Training Client 31/60
+Epoch 1/1, Loss: 7.275913652032614, Accuracy: 0.926
+	Training Client 32/60
+Epoch 1/1, Loss: 4.546370537951589, Accuracy: 0.956
+	Training Client 33/60
+Epoch 1/1, Loss: 5.293930675834417, Accuracy: 0.951
+	Training Client 34/60
+Epoch 1/1, Loss: 5.3189009968191385, Accuracy: 0.955
+	Training Client 35/60
+Epoch 1/1, Loss: 4.7223122753202915, Accuracy: 0.952
+	Training Client 36/60
+Epoch 1/1, Loss: 5.334013435989618, Accuracy: 0.949
+	Training Client 37/60
+Epoch 1/1, Loss: 6.2120814435184, Accuracy: 0.943
+	Training Client 38/60
+Epoch 1/1, Loss: 6.507791165262461, Accuracy: 0.941
+	Training Client 39/60
+Epoch 1/1, Loss: 6.025516599416733, Accuracy: 0.937
+	Training Client 40/60
+Epoch 1/1, Loss: 5.566855318844318, Accuracy: 0.946
+	Training Client 41/60
+Epoch 1/1, Loss: 5.528858989477158, Accuracy: 0.942
+	Training Client 42/60
+Epoch 1/1, Loss: 5.030464384704828, Accuracy: 0.957
+	Training Client 43/60
+Epoch 1/1, Loss: 5.059206328354776, Accuracy: 0.958
+	Training Client 44/60
+Epoch 1/1, Loss: 5.982501585036516, Accuracy: 0.941
+	Training Client 45/60
+Epoch 1/1, Loss: 5.782529262825847, Accuracy: 0.938
+	Training Client 46/60
+Epoch 1/1, Loss: 5.031370518729091, Accuracy: 0.953
+	Training Client 47/60
+Epoch 1/1, Loss: 5.378298159688711, Accuracy: 0.95
+	Training Client 48/60
+Epoch 1/1, Loss: 5.049037616699934, Accuracy: 0.953
+	Training Client 49/60
+Epoch 1/1, Loss: 5.065642781555653, Accuracy: 0.947
+	Training Client 50/60
+Epoch 1/1, Loss: 6.744051266461611, Accuracy: 0.938
+	Training Client 51/60
+Epoch 1/1, Loss: 5.214028723537922, Accuracy: 0.952
+	Training Client 52/60
+Epoch 1/1, Loss: 6.078825686126947, Accuracy: 0.939
+	Training Client 53/60
+Epoch 1/1, Loss: 5.802494931034744, Accuracy: 0.942
+	Training Client 54/60
+Epoch 1/1, Loss: 6.068880122154951, Accuracy: 0.94
+	Training Client 55/60
+Epoch 1/1, Loss: 5.325974486768246, Accuracy: 0.949
+	Training Client 56/60
+Epoch 1/1, Loss: 5.078096438199282, Accuracy: 0.953
+	Training Client 57/60
+Epoch 1/1, Loss: 5.720878855325282, Accuracy: 0.952
+	Training Client 58/60
+Epoch 1/1, Loss: 4.454828762449324, Accuracy: 0.955
+	Training Client 59/60
+Epoch 1/1, Loss: 5.23546389490366, Accuracy: 0.939
+	Training Client 60/60
+Epoch 1/1, Loss: 6.70362425968051, Accuracy: 0.943
+	Aggregating client models
+Global Epoch 7/40
+	Training Client 1/60
+Epoch 1/1, Loss: 4.385893972590566, Accuracy: 0.958
+	Training Client 2/60
+Epoch 1/1, Loss: 6.4608872048556805, Accuracy: 0.935
+	Training Client 3/60
+Epoch 1/1, Loss: 4.941836943849921, Accuracy: 0.958
+	Training Client 4/60
+Epoch 1/1, Loss: 4.58814150467515, Accuracy: 0.957
+	Training Client 5/60
+Epoch 1/1, Loss: 5.4353533666580915, Accuracy: 0.95
+	Training Client 6/60
+Epoch 1/1, Loss: 4.415490560233593, Accuracy: 0.961
+	Training Client 7/60
+Epoch 1/1, Loss: 4.886959224008024, Accuracy: 0.954
+	Training Client 8/60
+Epoch 1/1, Loss: 4.088736852630973, Accuracy: 0.962
+	Training Client 9/60
+Epoch 1/1, Loss: 5.1085919458419085, Accuracy: 0.938
+	Training Client 10/60
+Epoch 1/1, Loss: 4.64135212264955, Accuracy: 0.961
+	Training Client 11/60
+Epoch 1/1, Loss: 3.8538766615092754, Accuracy: 0.958
+	Training Client 12/60
+Epoch 1/1, Loss: 5.475819813087583, Accuracy: 0.955
+	Training Client 13/60
+Epoch 1/1, Loss: 4.115195667371154, Accuracy: 0.959
+	Training Client 14/60
+Epoch 1/1, Loss: 4.441139015369117, Accuracy: 0.96
+	Training Client 15/60
+Epoch 1/1, Loss: 3.291476685088128, Accuracy: 0.969
+	Training Client 16/60
+Epoch 1/1, Loss: 5.751762757077813, Accuracy: 0.944
+	Training Client 17/60
+Epoch 1/1, Loss: 5.1654430367052555, Accuracy: 0.95
+	Training Client 18/60
+Epoch 1/1, Loss: 3.8499536076560616, Accuracy: 0.963
+	Training Client 19/60
+Epoch 1/1, Loss: 4.701520681381226, Accuracy: 0.954
+	Training Client 20/60
+Epoch 1/1, Loss: 4.286956261843443, Accuracy: 0.957
+	Training Client 21/60
+Epoch 1/1, Loss: 6.177172143012285, Accuracy: 0.948
+	Training Client 22/60
+Epoch 1/1, Loss: 5.431704878807068, Accuracy: 0.946
+	Training Client 23/60
+Epoch 1/1, Loss: 5.596299834549427, Accuracy: 0.948
+	Training Client 24/60
+Epoch 1/1, Loss: 4.79638609290123, Accuracy: 0.952
+	Training Client 25/60
+Epoch 1/1, Loss: 5.517681447789073, Accuracy: 0.953
+	Training Client 26/60
+Epoch 1/1, Loss: 5.116877134889364, Accuracy: 0.952
+	Training Client 27/60
+Epoch 1/1, Loss: 4.140381233766675, Accuracy: 0.959
+	Training Client 28/60
+Epoch 1/1, Loss: 4.223684479016811, Accuracy: 0.958
+	Training Client 29/60
+Epoch 1/1, Loss: 4.562693207524717, Accuracy: 0.953
+	Training Client 30/60
+Epoch 1/1, Loss: 4.705958142876625, Accuracy: 0.953
+	Training Client 31/60
+Epoch 1/1, Loss: 5.971316049341112, Accuracy: 0.939
+	Training Client 32/60
+Epoch 1/1, Loss: 4.349142629653215, Accuracy: 0.957
+	Training Client 33/60
+Epoch 1/1, Loss: 5.498967277817428, Accuracy: 0.943
+	Training Client 34/60
+Epoch 1/1, Loss: 4.610791256651282, Accuracy: 0.959
+	Training Client 35/60
+Epoch 1/1, Loss: 4.701445734128356, Accuracy: 0.945
+	Training Client 36/60
+Epoch 1/1, Loss: 4.002122384728864, Accuracy: 0.956
+	Training Client 37/60
+Epoch 1/1, Loss: 5.090430902317166, Accuracy: 0.945
+	Training Client 38/60
+Epoch 1/1, Loss: 5.663359833881259, Accuracy: 0.948
+	Training Client 39/60
+Epoch 1/1, Loss: 4.758022552356124, Accuracy: 0.95
+	Training Client 40/60
+Epoch 1/1, Loss: 4.368491303175688, Accuracy: 0.957
+	Training Client 41/60
+Epoch 1/1, Loss: 5.325867336243391, Accuracy: 0.95
+	Training Client 42/60
+Epoch 1/1, Loss: 4.605908985249698, Accuracy: 0.96
+	Training Client 43/60
+Epoch 1/1, Loss: 4.3446068074554205, Accuracy: 0.96
+	Training Client 44/60
+Epoch 1/1, Loss: 5.9274882934987545, Accuracy: 0.948
+	Training Client 45/60
+Epoch 1/1, Loss: 5.553406057413667, Accuracy: 0.949
+	Training Client 46/60
+Epoch 1/1, Loss: 4.51787113584578, Accuracy: 0.96
+	Training Client 47/60
+Epoch 1/1, Loss: 4.9966974295675755, Accuracy: 0.953
+	Training Client 48/60
+Epoch 1/1, Loss: 5.11028497107327, Accuracy: 0.954
+	Training Client 49/60
+Epoch 1/1, Loss: 4.715522684156895, Accuracy: 0.951
+	Training Client 50/60
+Epoch 1/1, Loss: 5.80175000615418, Accuracy: 0.943
+	Training Client 51/60
+Epoch 1/1, Loss: 6.346206868067384, Accuracy: 0.948
+	Training Client 52/60
+Epoch 1/1, Loss: 6.4333916790783405, Accuracy: 0.936
+	Training Client 53/60
+Epoch 1/1, Loss: 5.250947983935475, Accuracy: 0.95
+	Training Client 54/60
+Epoch 1/1, Loss: 4.502741070464253, Accuracy: 0.968
+	Training Client 55/60
+Epoch 1/1, Loss: 4.5301839634776115, Accuracy: 0.954
+	Training Client 56/60
+Epoch 1/1, Loss: 4.583981052041054, Accuracy: 0.953
+	Training Client 57/60
+Epoch 1/1, Loss: 5.4756333995610476, Accuracy: 0.946
+	Training Client 58/60
+Epoch 1/1, Loss: 3.7685489393770695, Accuracy: 0.965
+	Training Client 59/60
+Epoch 1/1, Loss: 5.52140618301928, Accuracy: 0.944
+	Training Client 60/60
+Epoch 1/1, Loss: 4.608603997156024, Accuracy: 0.954
+	Aggregating client models
+Global Epoch 8/40
+	Training Client 1/60
+Epoch 1/1, Loss: 4.055042637977749, Accuracy: 0.961
+	Training Client 2/60
+Epoch 1/1, Loss: 5.80070988740772, Accuracy: 0.945
+	Training Client 3/60
+Epoch 1/1, Loss: 4.410479947924614, Accuracy: 0.96
+	Training Client 4/60
+Epoch 1/1, Loss: 4.032329223584384, Accuracy: 0.964
+	Training Client 5/60
+Epoch 1/1, Loss: 4.13757349550724, Accuracy: 0.963
+	Training Client 6/60
+Epoch 1/1, Loss: 4.711319450289011, Accuracy: 0.952
+	Training Client 7/60
+Epoch 1/1, Loss: 4.460498161613941, Accuracy: 0.951
+	Training Client 8/60
+Epoch 1/1, Loss: 4.111114635132253, Accuracy: 0.964
+	Training Client 9/60
+Epoch 1/1, Loss: 4.554063989780843, Accuracy: 0.953
+	Training Client 10/60
+Epoch 1/1, Loss: 3.9676472172141075, Accuracy: 0.968
+	Training Client 11/60
+Epoch 1/1, Loss: 3.3015860514715314, Accuracy: 0.965
+	Training Client 12/60
+Epoch 1/1, Loss: 5.1520923636853695, Accuracy: 0.952
+	Training Client 13/60
+Epoch 1/1, Loss: 3.7885707952082157, Accuracy: 0.967
+	Training Client 14/60
+Epoch 1/1, Loss: 3.4050919134169817, Accuracy: 0.963
+	Training Client 15/60
+Epoch 1/1, Loss: 3.7602447774261236, Accuracy: 0.964
+	Training Client 16/60
+Epoch 1/1, Loss: 5.327737797051668, Accuracy: 0.961
+	Training Client 17/60
+Epoch 1/1, Loss: 4.358715093694627, Accuracy: 0.957
+	Training Client 18/60
+Epoch 1/1, Loss: 3.5680097257718444, Accuracy: 0.967
+	Training Client 19/60
+Epoch 1/1, Loss: 3.89761145086959, Accuracy: 0.962
+	Training Client 20/60
+Epoch 1/1, Loss: 3.9918146848212928, Accuracy: 0.947
+	Training Client 21/60
+Epoch 1/1, Loss: 5.777725605294108, Accuracy: 0.951
+	Training Client 22/60
+Epoch 1/1, Loss: 4.912776798009872, Accuracy: 0.955
+	Training Client 23/60
+Epoch 1/1, Loss: 5.406097918748856, Accuracy: 0.949
+	Training Client 24/60
+Epoch 1/1, Loss: 4.443409815430641, Accuracy: 0.961
+	Training Client 25/60
+Epoch 1/1, Loss: 4.975224711000919, Accuracy: 0.948
+	Training Client 26/60
+Epoch 1/1, Loss: 4.368331735953689, Accuracy: 0.949
+	Training Client 27/60
+Epoch 1/1, Loss: 3.1601213607937098, Accuracy: 0.966
+	Training Client 28/60
+Epoch 1/1, Loss: 4.163843777962029, Accuracy: 0.962
+	Training Client 29/60
+Epoch 1/1, Loss: 4.017581734806299, Accuracy: 0.959
+	Training Client 30/60
+Epoch 1/1, Loss: 4.054424897301942, Accuracy: 0.959
+	Training Client 31/60
+Epoch 1/1, Loss: 6.059961257502437, Accuracy: 0.946
+	Training Client 32/60
+Epoch 1/1, Loss: 4.28373140655458, Accuracy: 0.956
+	Training Client 33/60
+Epoch 1/1, Loss: 4.84897278342396, Accuracy: 0.95
+	Training Client 34/60
+Epoch 1/1, Loss: 4.528526701964438, Accuracy: 0.957
+	Training Client 35/60
+Epoch 1/1, Loss: 3.187450966797769, Accuracy: 0.967
+	Training Client 36/60
+Epoch 1/1, Loss: 4.682982524856925, Accuracy: 0.957
+	Training Client 37/60
+Epoch 1/1, Loss: 4.680246977135539, Accuracy: 0.954
+	Training Client 38/60
+Epoch 1/1, Loss: 5.444981315173209, Accuracy: 0.953
+	Training Client 39/60
+Epoch 1/1, Loss: 4.163233930245042, Accuracy: 0.963
+	Training Client 40/60
+Epoch 1/1, Loss: 4.141317308880389, Accuracy: 0.958
+	Training Client 41/60
+Epoch 1/1, Loss: 4.044787435326725, Accuracy: 0.957
+	Training Client 42/60
+Epoch 1/1, Loss: 4.66277741920203, Accuracy: 0.963
+	Training Client 43/60
+Epoch 1/1, Loss: 3.7689645886421204, Accuracy: 0.962
+	Training Client 44/60
+Epoch 1/1, Loss: 5.298504707403481, Accuracy: 0.958
+	Training Client 45/60
+Epoch 1/1, Loss: 4.848083047196269, Accuracy: 0.954
+	Training Client 46/60
+Epoch 1/1, Loss: 4.083005851600319, Accuracy: 0.959
+	Training Client 47/60
+Epoch 1/1, Loss: 4.660350788384676, Accuracy: 0.954
+	Training Client 48/60
+Epoch 1/1, Loss: 4.8871656665578485, Accuracy: 0.962
+	Training Client 49/60
+Epoch 1/1, Loss: 4.5642815651372075, Accuracy: 0.959
+	Training Client 50/60
+Epoch 1/1, Loss: 5.37676190584898, Accuracy: 0.95
+	Training Client 51/60
+Epoch 1/1, Loss: 4.917188067920506, Accuracy: 0.948
+	Training Client 52/60
+Epoch 1/1, Loss: 5.945529077202082, Accuracy: 0.945
+	Training Client 53/60
+Epoch 1/1, Loss: 4.341515764361247, Accuracy: 0.955
+	Training Client 54/60
+Epoch 1/1, Loss: 5.069522954523563, Accuracy: 0.951
+	Training Client 55/60
+Epoch 1/1, Loss: 4.551857375074178, Accuracy: 0.953
+	Training Client 56/60
+Epoch 1/1, Loss: 4.373985856771469, Accuracy: 0.956
+	Training Client 57/60
+Epoch 1/1, Loss: 4.366516383364797, Accuracy: 0.962
+	Training Client 58/60
+Epoch 1/1, Loss: 3.5957429204136133, Accuracy: 0.959
+	Training Client 59/60
+Epoch 1/1, Loss: 5.1834728717803955, Accuracy: 0.943
+	Training Client 60/60
+Epoch 1/1, Loss: 4.140574498102069, Accuracy: 0.959
+	Aggregating client models
+Global Epoch 9/40
+	Training Client 1/60
+Epoch 1/1, Loss: 3.9177176563534886, Accuracy: 0.962
+	Training Client 2/60
+Epoch 1/1, Loss: 4.8677846901118755, Accuracy: 0.951
+	Training Client 3/60
+Epoch 1/1, Loss: 4.5219751810655, Accuracy: 0.956
+	Training Client 4/60
+Epoch 1/1, Loss: 3.6009567584842443, Accuracy: 0.961
+	Training Client 5/60
+Epoch 1/1, Loss: 4.177457148209214, Accuracy: 0.957
+	Training Client 6/60
+Epoch 1/1, Loss: 3.9588101971894503, Accuracy: 0.964
+	Training Client 7/60
+Epoch 1/1, Loss: 4.325520569458604, Accuracy: 0.959
+	Training Client 8/60
+Epoch 1/1, Loss: 3.8374446015805006, Accuracy: 0.967
+	Training Client 9/60
+Epoch 1/1, Loss: 4.266296090558171, Accuracy: 0.956
+	Training Client 10/60
+Epoch 1/1, Loss: 3.32466128654778, Accuracy: 0.969
+	Training Client 11/60
+Epoch 1/1, Loss: 3.7053078915923834, Accuracy: 0.961
+	Training Client 12/60
+Epoch 1/1, Loss: 3.7487610392272472, Accuracy: 0.965
+	Training Client 13/60
+Epoch 1/1, Loss: 3.062980394810438, Accuracy: 0.971
+	Training Client 14/60
+Epoch 1/1, Loss: 3.744978794362396, Accuracy: 0.967
+	Training Client 15/60
+Epoch 1/1, Loss: 3.703392165713012, Accuracy: 0.975
+	Training Client 16/60
+Epoch 1/1, Loss: 4.896596792154014, Accuracy: 0.956
+	Training Client 17/60
+Epoch 1/1, Loss: 3.7439811788499355, Accuracy: 0.963
+	Training Client 18/60
+Epoch 1/1, Loss: 2.9691281779669225, Accuracy: 0.974
+	Training Client 19/60
+Epoch 1/1, Loss: 3.7314816620200872, Accuracy: 0.962
+	Training Client 20/60
+Epoch 1/1, Loss: 3.3362284023314714, Accuracy: 0.975
+	Training Client 21/60
+Epoch 1/1, Loss: 5.930919974111021, Accuracy: 0.951
+	Training Client 22/60
+Epoch 1/1, Loss: 4.669508496765047, Accuracy: 0.96
+	Training Client 23/60
+Epoch 1/1, Loss: 5.405868582427502, Accuracy: 0.955
+	Training Client 24/60
+Epoch 1/1, Loss: 3.946153405122459, Accuracy: 0.959
+	Training Client 25/60
+Epoch 1/1, Loss: 4.123196964268573, Accuracy: 0.959
+	Training Client 26/60
+Epoch 1/1, Loss: 4.330820296425372, Accuracy: 0.955
+	Training Client 27/60
+Epoch 1/1, Loss: 2.89376381970942, Accuracy: 0.973
+	Training Client 28/60
+Epoch 1/1, Loss: 3.7449737656861544, Accuracy: 0.968
+	Training Client 29/60
+Epoch 1/1, Loss: 4.526411182247102, Accuracy: 0.962
+	Training Client 30/60
+Epoch 1/1, Loss: 3.910127509618178, Accuracy: 0.962
+	Training Client 31/60
+Epoch 1/1, Loss: 5.509718310087919, Accuracy: 0.941
+	Training Client 32/60
+Epoch 1/1, Loss: 3.185795933008194, Accuracy: 0.972
+	Training Client 33/60
+Epoch 1/1, Loss: 4.299878686666489, Accuracy: 0.964
+	Training Client 34/60
+Epoch 1/1, Loss: 3.791292402893305, Accuracy: 0.965
+	Training Client 35/60
+Epoch 1/1, Loss: 3.4168989527970552, Accuracy: 0.966
+	Training Client 36/60
+Epoch 1/1, Loss: 4.043349207844585, Accuracy: 0.959
+	Training Client 37/60
+Epoch 1/1, Loss: 4.656273860484362, Accuracy: 0.955
+	Training Client 38/60
+Epoch 1/1, Loss: 5.243956197053194, Accuracy: 0.954
+	Training Client 39/60
+Epoch 1/1, Loss: 3.5007345313206315, Accuracy: 0.967
+	Training Client 40/60
+Epoch 1/1, Loss: 3.5700553748756647, Accuracy: 0.961
+	Training Client 41/60
+Epoch 1/1, Loss: 4.638668757863343, Accuracy: 0.951
+	Training Client 42/60
+Epoch 1/1, Loss: 4.018621131777763, Accuracy: 0.969
+	Training Client 43/60
+Epoch 1/1, Loss: 3.2942763194441795, Accuracy: 0.969
+	Training Client 44/60
+Epoch 1/1, Loss: 4.369760029017925, Accuracy: 0.949
+	Training Client 45/60
+Epoch 1/1, Loss: 3.8195708310231566, Accuracy: 0.963
+	Training Client 46/60
+Epoch 1/1, Loss: 3.959355378523469, Accuracy: 0.958
+	Training Client 47/60
+Epoch 1/1, Loss: 3.9816325148567557, Accuracy: 0.959
+	Training Client 48/60
+Epoch 1/1, Loss: 4.052300518378615, Accuracy: 0.965
+	Training Client 49/60
+Epoch 1/1, Loss: 3.563430467620492, Accuracy: 0.965
+	Training Client 50/60
+Epoch 1/1, Loss: 5.367395251989365, Accuracy: 0.954
+	Training Client 51/60
+Epoch 1/1, Loss: 4.068781828507781, Accuracy: 0.961
+	Training Client 52/60
+Epoch 1/1, Loss: 5.443598587065935, Accuracy: 0.943
+	Training Client 53/60
+Epoch 1/1, Loss: 4.116664293222129, Accuracy: 0.957
+	Training Client 54/60
+Epoch 1/1, Loss: 4.090883705765009, Accuracy: 0.967
+	Training Client 55/60
+Epoch 1/1, Loss: 4.117469965945929, Accuracy: 0.962
+	Training Client 56/60
+Epoch 1/1, Loss: 3.0361194889992476, Accuracy: 0.965
+	Training Client 57/60
+Epoch 1/1, Loss: 4.776487197726965, Accuracy: 0.955
+	Training Client 58/60
+Epoch 1/1, Loss: 2.9163808170706034, Accuracy: 0.971
+	Training Client 59/60
+Epoch 1/1, Loss: 4.2526514173951, Accuracy: 0.961
+	Training Client 60/60
+Epoch 1/1, Loss: 3.844626748934388, Accuracy: 0.956
+	Aggregating client models
+Global Epoch 10/40
+	Training Client 1/60
+Epoch 1/1, Loss: 3.354835573816672, Accuracy: 0.97
+	Training Client 2/60
+Epoch 1/1, Loss: 3.918105598539114, Accuracy: 0.964
+	Training Client 3/60
+Epoch 1/1, Loss: 4.019952394068241, Accuracy: 0.961
+	Training Client 4/60
+Epoch 1/1, Loss: 3.0765089611522853, Accuracy: 0.968
+	Training Client 5/60
+Epoch 1/1, Loss: 4.127716466784477, Accuracy: 0.957
+	Training Client 6/60
+Epoch 1/1, Loss: 3.8074790332466364, Accuracy: 0.964
+	Training Client 7/60
+Epoch 1/1, Loss: 3.839252630248666, Accuracy: 0.968
+	Training Client 8/60
+Epoch 1/1, Loss: 3.6627643262036145, Accuracy: 0.973
+	Training Client 9/60
+Epoch 1/1, Loss: 4.086952123790979, Accuracy: 0.959
+	Training Client 10/60
+Epoch 1/1, Loss: 2.672102630836889, Accuracy: 0.974
+	Training Client 11/60
+Epoch 1/1, Loss: 3.6984375016763806, Accuracy: 0.965
+	Training Client 12/60
+Epoch 1/1, Loss: 3.998384482227266, Accuracy: 0.965
+	Training Client 13/60
+Epoch 1/1, Loss: 3.1813152548857033, Accuracy: 0.967
+	Training Client 14/60
+Epoch 1/1, Loss: 2.764385567512363, Accuracy: 0.975
+	Training Client 15/60
+Epoch 1/1, Loss: 2.491834867047146, Accuracy: 0.977
+	Training Client 16/60
+Epoch 1/1, Loss: 4.437543353997171, Accuracy: 0.96
+	Training Client 17/60
+Epoch 1/1, Loss: 3.317031897138804, Accuracy: 0.965
+	Training Client 18/60
+Epoch 1/1, Loss: 3.1697305398993194, Accuracy: 0.967
+	Training Client 19/60
+Epoch 1/1, Loss: 3.4711956921964884, Accuracy: 0.969
+	Training Client 20/60
+Epoch 1/1, Loss: 2.734190776478499, Accuracy: 0.974
+	Training Client 21/60
+Epoch 1/1, Loss: 5.030567334033549, Accuracy: 0.956
+	Training Client 22/60
+Epoch 1/1, Loss: 4.040814654319547, Accuracy: 0.959
+	Training Client 23/60
+Epoch 1/1, Loss: 4.961314762942493, Accuracy: 0.956
+	Training Client 24/60
+Epoch 1/1, Loss: 4.165226066485047, Accuracy: 0.96
+	Training Client 25/60
+Epoch 1/1, Loss: 3.9028644738718867, Accuracy: 0.966
+	Training Client 26/60
+Epoch 1/1, Loss: 3.914611345389858, Accuracy: 0.963
+	Training Client 27/60
+Epoch 1/1, Loss: 2.5234588622115552, Accuracy: 0.975
+	Training Client 28/60
+Epoch 1/1, Loss: 3.3347753090783954, Accuracy: 0.966
+	Training Client 29/60
+Epoch 1/1, Loss: 3.068641364108771, Accuracy: 0.972
+	Training Client 30/60
+Epoch 1/1, Loss: 3.57126946747303, Accuracy: 0.966
+	Training Client 31/60
+Epoch 1/1, Loss: 4.920886184088886, Accuracy: 0.954
+	Training Client 32/60
+Epoch 1/1, Loss: 3.0769972698763013, Accuracy: 0.966
+	Training Client 33/60
+Epoch 1/1, Loss: 4.103314625099301, Accuracy: 0.964
+	Training Client 34/60
+Epoch 1/1, Loss: 3.922831199131906, Accuracy: 0.965
+	Training Client 35/60
+Epoch 1/1, Loss: 2.6539064990356565, Accuracy: 0.967
+	Training Client 36/60
+Epoch 1/1, Loss: 3.223738723434508, Accuracy: 0.964
+	Training Client 37/60
+Epoch 1/1, Loss: 3.915458010043949, Accuracy: 0.96
+	Training Client 38/60
+Epoch 1/1, Loss: 4.195392271038145, Accuracy: 0.961
+	Training Client 39/60
+Epoch 1/1, Loss: 3.2008689823560417, Accuracy: 0.964
+	Training Client 40/60
+Epoch 1/1, Loss: 3.6148982886224985, Accuracy: 0.963
+	Training Client 41/60
+Epoch 1/1, Loss: 4.042284523136914, Accuracy: 0.959
+	Training Client 42/60
+Epoch 1/1, Loss: 3.7224150053225458, Accuracy: 0.968
+	Training Client 43/60
+Epoch 1/1, Loss: 3.351606481242925, Accuracy: 0.969
+	Training Client 44/60
+Epoch 1/1, Loss: 4.680059805512428, Accuracy: 0.957
+	Training Client 45/60
+Epoch 1/1, Loss: 4.0268637938424945, Accuracy: 0.95
+	Training Client 46/60
+Epoch 1/1, Loss: 2.9853762928396463, Accuracy: 0.972
+	Training Client 47/60
+Epoch 1/1, Loss: 3.870655150152743, Accuracy: 0.963
+	Training Client 48/60
+Epoch 1/1, Loss: 3.859733053483069, Accuracy: 0.966
+	Training Client 49/60
+Epoch 1/1, Loss: 3.5021731490269303, Accuracy: 0.97
+	Training Client 50/60
+Epoch 1/1, Loss: 5.164469414390624, Accuracy: 0.951
+	Training Client 51/60
+Epoch 1/1, Loss: 4.004323475062847, Accuracy: 0.962
+	Training Client 52/60
+Epoch 1/1, Loss: 5.138756752945483, Accuracy: 0.949
+	Training Client 53/60
+Epoch 1/1, Loss: 3.1648019161075354, Accuracy: 0.972
+	Training Client 54/60
+Epoch 1/1, Loss: 4.148719070944935, Accuracy: 0.96
+	Training Client 55/60
+Epoch 1/1, Loss: 3.2822342328727245, Accuracy: 0.967
+	Training Client 56/60
+Epoch 1/1, Loss: 3.080186021514237, Accuracy: 0.962
+	Training Client 57/60
+Epoch 1/1, Loss: 4.004606257774867, Accuracy: 0.965
+	Training Client 58/60
+Epoch 1/1, Loss: 2.8821012361731846, Accuracy: 0.969
+	Training Client 59/60
+Epoch 1/1, Loss: 5.020772746298462, Accuracy: 0.95
+	Training Client 60/60
+Epoch 1/1, Loss: 2.718403846491128, Accuracy: 0.971
+	Aggregating client models
+Global Epoch 11/40
+Applying rotation drift to specific clients
+Swapping classes 3 and 8 in the train dataset for selected clients
+	Training Client 1/60
+Epoch 1/1, Loss: 3.317208018619567, Accuracy: 0.969
+	Training Client 2/60
+Epoch 1/1, Loss: 4.151469761505723, Accuracy: 0.961
+	Training Client 3/60
+Epoch 1/1, Loss: 4.1522515919059515, Accuracy: 0.96
+	Training Client 4/60
+Epoch 1/1, Loss: 16.678489457815886, Accuracy: 0.88
+	Training Client 5/60
+Epoch 1/1, Loss: 3.3863667608238757, Accuracy: 0.971
+	Training Client 6/60
+Epoch 1/1, Loss: 3.588756679557264, Accuracy: 0.966
+	Training Client 7/60
+Epoch 1/1, Loss: 3.448728121817112, Accuracy: 0.97
+	Training Client 8/60
+Epoch 1/1, Loss: 3.0677335909567773, Accuracy: 0.974
+	Training Client 9/60
+Epoch 1/1, Loss: 3.963760184124112, Accuracy: 0.963
+	Training Client 10/60
+Epoch 1/1, Loss: 2.6950021502561867, Accuracy: 0.976
+	Training Client 11/60
+Epoch 1/1, Loss: 16.822586726397276, Accuracy: 0.859
+	Training Client 12/60
+Epoch 1/1, Loss: 3.5504161696881056, Accuracy: 0.967
+	Training Client 13/60
+Epoch 1/1, Loss: 2.903858684003353, Accuracy: 0.968
+	Training Client 14/60
+Epoch 1/1, Loss: 2.9486913790751714, Accuracy: 0.97
+	Training Client 15/60
+Epoch 1/1, Loss: 2.743503315374255, Accuracy: 0.977
+	Training Client 16/60
+Epoch 1/1, Loss: 3.802657676162198, Accuracy: 0.964
+	Training Client 17/60
+Epoch 1/1, Loss: 3.776280993130058, Accuracy: 0.965
+	Training Client 18/60
+Epoch 1/1, Loss: 2.515553335659206, Accuracy: 0.976
+	Training Client 19/60
+Epoch 1/1, Loss: 18.59634544700384, Accuracy: 0.863
+	Training Client 20/60
+Epoch 1/1, Loss: 3.2260155570693314, Accuracy: 0.974
+	Training Client 21/60
+Epoch 1/1, Loss: 5.711953124962747, Accuracy: 0.95
+	Training Client 22/60
+Epoch 1/1, Loss: 4.393096361076459, Accuracy: 0.962
+	Training Client 23/60
+Epoch 1/1, Loss: 4.486205822322518, Accuracy: 0.956
+	Training Client 24/60
+Epoch 1/1, Loss: 3.2137240995652974, Accuracy: 0.972
+	Training Client 25/60
+Epoch 1/1, Loss: 4.506514818407595, Accuracy: 0.956
+	Training Client 26/60
+Epoch 1/1, Loss: 4.3084070649929345, Accuracy: 0.964
+	Training Client 27/60
+Epoch 1/1, Loss: 2.601456295698881, Accuracy: 0.975
+	Training Client 28/60
+Epoch 1/1, Loss: 2.9903613380156457, Accuracy: 0.975
+	Training Client 29/60
+Epoch 1/1, Loss: 3.7122256020084023, Accuracy: 0.968
+	Training Client 30/60
+Epoch 1/1, Loss: 3.2185080277267843, Accuracy: 0.968
+	Training Client 31/60
+Epoch 1/1, Loss: 4.378649563062936, Accuracy: 0.955
+	Training Client 32/60
+Epoch 1/1, Loss: 3.211769009940326, Accuracy: 0.969
+	Training Client 33/60
+Epoch 1/1, Loss: 3.8951370352879167, Accuracy: 0.956
+	Training Client 34/60
+Epoch 1/1, Loss: 3.6398750906810164, Accuracy: 0.971
+	Training Client 35/60
+Epoch 1/1, Loss: 2.869484786875546, Accuracy: 0.974
+	Training Client 36/60
+Epoch 1/1, Loss: 2.5997221879661083, Accuracy: 0.978
+	Training Client 37/60
+Epoch 1/1, Loss: 3.690170433372259, Accuracy: 0.961
+	Training Client 38/60
+Epoch 1/1, Loss: 4.07799634244293, Accuracy: 0.957
+	Training Client 39/60
+Epoch 1/1, Loss: 3.1286238546017557, Accuracy: 0.964
+	Training Client 40/60
+Epoch 1/1, Loss: 3.6050641149049625, Accuracy: 0.959
+	Training Client 41/60
+Epoch 1/1, Loss: 3.6899338625371456, Accuracy: 0.965
+	Training Client 42/60
+Epoch 1/1, Loss: 16.380019582808018, Accuracy: 0.872
+	Training Client 43/60
+Epoch 1/1, Loss: 2.906744613312185, Accuracy: 0.968
+	Training Client 44/60
+Epoch 1/1, Loss: 3.900773713365197, Accuracy: 0.965
+	Training Client 45/60
+Epoch 1/1, Loss: 3.541602272540331, Accuracy: 0.961
+	Training Client 46/60
+Epoch 1/1, Loss: 3.3704143594950438, Accuracy: 0.965
+	Training Client 47/60
+Epoch 1/1, Loss: 3.51886420045048, Accuracy: 0.968
+	Training Client 48/60
+Epoch 1/1, Loss: 4.028506655711681, Accuracy: 0.966
+	Training Client 49/60
+Epoch 1/1, Loss: 3.1060728672891855, Accuracy: 0.971
+	Training Client 50/60
+Epoch 1/1, Loss: 4.663681893143803, Accuracy: 0.962
+	Training Client 51/60
+Epoch 1/1, Loss: 3.9951638244092464, Accuracy: 0.962
+	Training Client 52/60
+Epoch 1/1, Loss: 4.422283374238759, Accuracy: 0.954
+	Training Client 53/60
+Epoch 1/1, Loss: 3.057793119805865, Accuracy: 0.964
+	Training Client 54/60
+Epoch 1/1, Loss: 3.5292151435278356, Accuracy: 0.969
+	Training Client 55/60
+Epoch 1/1, Loss: 3.24641547864303, Accuracy: 0.966
+	Training Client 56/60
+Epoch 1/1, Loss: 17.82977843284607, Accuracy: 0.876
+	Training Client 57/60
+Epoch 1/1, Loss: 4.389262084499933, Accuracy: 0.967
+	Training Client 58/60
+Epoch 1/1, Loss: 2.809356387704611, Accuracy: 0.968
+	Training Client 59/60
+Epoch 1/1, Loss: 4.128452601376921, Accuracy: 0.96
+	Training Client 60/60
+Epoch 1/1, Loss: 3.214080089237541, Accuracy: 0.968
+Global Epoch 11, Client 4: False Drift Detected.
+Global Epoch 11, Client 11: False Drift Detected.
+Global Epoch 11, Client 19: False Drift Detected.
+Global Epoch 11, Client 42: False Drift Detected.
+Global Epoch 11, Client 56: False Drift Detected.
+	Aggregating client models
+Global Epoch 12/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.6638366309925914, Accuracy: 0.977
+	Training Client 2/60
+Epoch 1/1, Loss: 3.935417290776968, Accuracy: 0.962
+	Training Client 3/60
+Epoch 1/1, Loss: 3.8140475805848837, Accuracy: 0.963
+	Training Client 4/60
+Epoch 1/1, Loss: 13.450341518968344, Accuracy: 0.882
+	Training Client 5/60
+Epoch 1/1, Loss: 3.3287541158497334, Accuracy: 0.965
+	Training Client 6/60
+Epoch 1/1, Loss: 3.043885344173759, Accuracy: 0.967
+	Training Client 7/60
+Epoch 1/1, Loss: 3.319898667745292, Accuracy: 0.968
+	Training Client 8/60
+Epoch 1/1, Loss: 2.855008302605711, Accuracy: 0.976
+	Training Client 9/60
+Epoch 1/1, Loss: 3.3392666263971478, Accuracy: 0.971
+	Training Client 10/60
+Epoch 1/1, Loss: 3.2839239770546556, Accuracy: 0.968
+	Training Client 11/60
+Epoch 1/1, Loss: 12.936882726848125, Accuracy: 0.892
+	Training Client 12/60
+Epoch 1/1, Loss: 3.954036175273359, Accuracy: 0.961
+	Training Client 13/60
+Epoch 1/1, Loss: 2.6723888064734638, Accuracy: 0.974
+	Training Client 14/60
+Epoch 1/1, Loss: 2.578283882699907, Accuracy: 0.978
+	Training Client 15/60
+Epoch 1/1, Loss: 2.398976401425898, Accuracy: 0.976
+	Training Client 16/60
+Epoch 1/1, Loss: 4.200937894871458, Accuracy: 0.958
+	Training Client 17/60
+Epoch 1/1, Loss: 3.0043530534021556, Accuracy: 0.966
+	Training Client 18/60
+Epoch 1/1, Loss: 3.0961253329296596, Accuracy: 0.969
+	Training Client 19/60
+Epoch 1/1, Loss: 14.340440459549427, Accuracy: 0.867
+	Training Client 20/60
+Epoch 1/1, Loss: 2.66090811236063, Accuracy: 0.971
+	Training Client 21/60
+Epoch 1/1, Loss: 5.146517764776945, Accuracy: 0.954
+	Training Client 22/60
+Epoch 1/1, Loss: 3.725017495919019, Accuracy: 0.966
+	Training Client 23/60
+Epoch 1/1, Loss: 4.303548734635115, Accuracy: 0.967
+	Training Client 24/60
+Epoch 1/1, Loss: 3.0625145414378494, Accuracy: 0.973
+	Training Client 25/60
+Epoch 1/1, Loss: 3.4255415871739388, Accuracy: 0.969
+	Training Client 26/60
+Epoch 1/1, Loss: 3.3317967941984534, Accuracy: 0.973
+	Training Client 27/60
+Epoch 1/1, Loss: 2.8966173958033323, Accuracy: 0.974
+	Training Client 28/60
+Epoch 1/1, Loss: 2.889627131866291, Accuracy: 0.966
+	Training Client 29/60
+Epoch 1/1, Loss: 2.843185839243233, Accuracy: 0.973
+	Training Client 30/60
+Epoch 1/1, Loss: 3.556418549269438, Accuracy: 0.974
+	Training Client 31/60
+Epoch 1/1, Loss: 4.584479487501085, Accuracy: 0.955
+	Training Client 32/60
+Epoch 1/1, Loss: 2.82540649920702, Accuracy: 0.967
+	Training Client 33/60
+Epoch 1/1, Loss: 3.9311457805742975, Accuracy: 0.958
+	Training Client 34/60
+Epoch 1/1, Loss: 3.6762388434726745, Accuracy: 0.964
+	Training Client 35/60
+Epoch 1/1, Loss: 2.4545813594013453, Accuracy: 0.973
+	Training Client 36/60
+Epoch 1/1, Loss: 2.427665369468741, Accuracy: 0.971
+	Training Client 37/60
+Epoch 1/1, Loss: 3.5886327903717756, Accuracy: 0.965
+	Training Client 38/60
+Epoch 1/1, Loss: 3.800838941708207, Accuracy: 0.964
+	Training Client 39/60
+Epoch 1/1, Loss: 2.813472365960479, Accuracy: 0.97
+	Training Client 40/60
+Epoch 1/1, Loss: 3.5035025854595006, Accuracy: 0.963
+	Training Client 41/60
+Epoch 1/1, Loss: 3.3610106096602976, Accuracy: 0.969
+	Training Client 42/60
+Epoch 1/1, Loss: 12.858949574641883, Accuracy: 0.897
+	Training Client 43/60
+Epoch 1/1, Loss: 3.313852522871457, Accuracy: 0.97
+	Training Client 44/60
+Epoch 1/1, Loss: 4.059988882392645, Accuracy: 0.955
+	Training Client 45/60
+Epoch 1/1, Loss: 3.991854020394385, Accuracy: 0.958
+	Training Client 46/60
+Epoch 1/1, Loss: 2.9589536138810217, Accuracy: 0.972
+	Training Client 47/60
+Epoch 1/1, Loss: 3.691010268870741, Accuracy: 0.966
+	Training Client 48/60
+Epoch 1/1, Loss: 3.402407088316977, Accuracy: 0.971
+	Training Client 49/60
+Epoch 1/1, Loss: 3.0179211581125855, Accuracy: 0.97
+	Training Client 50/60
+Epoch 1/1, Loss: 4.442510812543333, Accuracy: 0.961
+	Training Client 51/60
+Epoch 1/1, Loss: 3.269630736205727, Accuracy: 0.97
+	Training Client 52/60
+Epoch 1/1, Loss: 3.9353641867637634, Accuracy: 0.966
+	Training Client 53/60
+Epoch 1/1, Loss: 3.514571448788047, Accuracy: 0.968
+	Training Client 54/60
+Epoch 1/1, Loss: 3.6471417313441634, Accuracy: 0.971
+	Training Client 55/60
+Epoch 1/1, Loss: 3.09839328750968, Accuracy: 0.971
+	Training Client 56/60
+Epoch 1/1, Loss: 13.403612591326237, Accuracy: 0.874
+	Training Client 57/60
+Epoch 1/1, Loss: 3.4603841670323163, Accuracy: 0.969
+	Training Client 58/60
+Epoch 1/1, Loss: 2.2848822521045804, Accuracy: 0.979
+	Training Client 59/60
+Epoch 1/1, Loss: 3.920362925156951, Accuracy: 0.961
+	Training Client 60/60
+Epoch 1/1, Loss: 2.9781726906076074, Accuracy: 0.968
+Global Epoch 12, Client 4: True Drift Detected, Drift Type: Sudden .
+Global Epoch 12, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 12, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 12, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 12, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 13/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.801292553311214, Accuracy: 0.975
+	Training Client 2/60
+Epoch 1/1, Loss: 3.8964647501707077, Accuracy: 0.958
+	Training Client 3/60
+Epoch 1/1, Loss: 3.853132749442011, Accuracy: 0.967
+	Training Client 4/60
+Epoch 1/1, Loss: 3.345954661257565, Accuracy: 0.964
+	Training Client 5/60
+Epoch 1/1, Loss: 3.0858690245077014, Accuracy: 0.971
+	Training Client 6/60
+Epoch 1/1, Loss: 3.2105895754648373, Accuracy: 0.969
+	Training Client 7/60
+Epoch 1/1, Loss: 3.0968622697982937, Accuracy: 0.97
+	Training Client 8/60
+Epoch 1/1, Loss: 2.802806784864515, Accuracy: 0.97
+	Training Client 9/60
+Epoch 1/1, Loss: 3.8525383481755853, Accuracy: 0.959
+	Training Client 10/60
+Epoch 1/1, Loss: 2.189252420095727, Accuracy: 0.977
+	Training Client 11/60
+Epoch 1/1, Loss: 17.22841402888298, Accuracy: 0.866
+	Training Client 12/60
+Epoch 1/1, Loss: 7.492540160194039, Accuracy: 0.91
+	Training Client 13/60
+Epoch 1/1, Loss: 2.3932788497768342, Accuracy: 0.978
+	Training Client 14/60
+Epoch 1/1, Loss: 2.7500451183877885, Accuracy: 0.97
+	Training Client 15/60
+Epoch 1/1, Loss: 2.207065573427826, Accuracy: 0.977
+	Training Client 16/60
+Epoch 1/1, Loss: 3.3509287019260228, Accuracy: 0.965
+	Training Client 17/60
+Epoch 1/1, Loss: 2.6413319781422615, Accuracy: 0.973
+	Training Client 18/60
+Epoch 1/1, Loss: 2.5631843478768133, Accuracy: 0.975
+	Training Client 19/60
+Epoch 1/1, Loss: 15.879397623240948, Accuracy: 0.86
+	Training Client 20/60
+Epoch 1/1, Loss: 3.0933725335635245, Accuracy: 0.973
+	Training Client 21/60
+Epoch 1/1, Loss: 8.267690039705485, Accuracy: 0.908
+	Training Client 22/60
+Epoch 1/1, Loss: 3.9035764425061643, Accuracy: 0.964
+	Training Client 23/60
+Epoch 1/1, Loss: 4.166058720089495, Accuracy: 0.964
+	Training Client 24/60
+Epoch 1/1, Loss: 2.9949911977164447, Accuracy: 0.973
+	Training Client 25/60
+Epoch 1/1, Loss: 3.607343519339338, Accuracy: 0.965
+	Training Client 26/60
+Epoch 1/1, Loss: 2.809765155427158, Accuracy: 0.973
+	Training Client 27/60
+Epoch 1/1, Loss: 2.4445470408536494, Accuracy: 0.973
+	Training Client 28/60
+Epoch 1/1, Loss: 2.7017408296233043, Accuracy: 0.97
+	Training Client 29/60
+Epoch 1/1, Loss: 2.15273940237239, Accuracy: 0.978
+	Training Client 30/60
+Epoch 1/1, Loss: 3.1546029481105506, Accuracy: 0.97
+	Training Client 31/60
+Epoch 1/1, Loss: 4.1382548622787, Accuracy: 0.958
+	Training Client 32/60
+Epoch 1/1, Loss: 2.3942735297605395, Accuracy: 0.973
+	Training Client 33/60
+Epoch 1/1, Loss: 3.8693911163136363, Accuracy: 0.962
+	Training Client 34/60
+Epoch 1/1, Loss: 3.182254164479673, Accuracy: 0.973
+	Training Client 35/60
+Epoch 1/1, Loss: 2.0775287535216194, Accuracy: 0.976
+	Training Client 36/60
+Epoch 1/1, Loss: 2.356175963766873, Accuracy: 0.975
+	Training Client 37/60
+Epoch 1/1, Loss: 3.3827063613571227, Accuracy: 0.971
+	Training Client 38/60
+Epoch 1/1, Loss: 3.417248288169503, Accuracy: 0.969
+	Training Client 39/60
+Epoch 1/1, Loss: 2.1708066086284816, Accuracy: 0.973
+	Training Client 40/60
+Epoch 1/1, Loss: 3.074028576607816, Accuracy: 0.971
+	Training Client 41/60
+Epoch 1/1, Loss: 3.3758409728761762, Accuracy: 0.962
+	Training Client 42/60
+Epoch 1/1, Loss: 15.985437171533704, Accuracy: 0.87
+	Training Client 43/60
+Epoch 1/1, Loss: 2.276280632475391, Accuracy: 0.978
+	Training Client 44/60
+Epoch 1/1, Loss: 3.50685069616884, Accuracy: 0.958
+	Training Client 45/60
+Epoch 1/1, Loss: 7.316616488154978, Accuracy: 0.914
+	Training Client 46/60
+Epoch 1/1, Loss: 3.455030568409711, Accuracy: 0.967
+	Training Client 47/60
+Epoch 1/1, Loss: 2.7014435287564993, Accuracy: 0.974
+	Training Client 48/60
+Epoch 1/1, Loss: 3.5026431079022586, Accuracy: 0.971
+	Training Client 49/60
+Epoch 1/1, Loss: 3.128192415460944, Accuracy: 0.968
+	Training Client 50/60
+Epoch 1/1, Loss: 4.750597293488681, Accuracy: 0.958
+	Training Client 51/60
+Epoch 1/1, Loss: 3.3190023098140955, Accuracy: 0.971
+	Training Client 52/60
+Epoch 1/1, Loss: 4.551854224177077, Accuracy: 0.966
+	Training Client 53/60
+Epoch 1/1, Loss: 3.5977098112925887, Accuracy: 0.966
+	Training Client 54/60
+Epoch 1/1, Loss: 4.309912929311395, Accuracy: 0.964
+	Training Client 55/60
+Epoch 1/1, Loss: 2.6716176155023277, Accuracy: 0.976
+	Training Client 56/60
+Epoch 1/1, Loss: 16.514932610094547, Accuracy: 0.882
+	Training Client 57/60
+Epoch 1/1, Loss: 2.8509758580476046, Accuracy: 0.976
+	Training Client 58/60
+Epoch 1/1, Loss: 2.451308459509164, Accuracy: 0.968
+	Training Client 59/60
+Epoch 1/1, Loss: 3.713635200401768, Accuracy: 0.966
+	Training Client 60/60
+Epoch 1/1, Loss: 8.059257393237203, Accuracy: 0.911
+Global Epoch 13, Client 4: False Drift Detected.
+Global Epoch 13, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 13, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 13, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 13, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 14/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.8334763604216278, Accuracy: 0.98
+	Training Client 2/60
+Epoch 1/1, Loss: 3.414308776264079, Accuracy: 0.967
+	Training Client 3/60
+Epoch 1/1, Loss: 4.554135990794748, Accuracy: 0.959
+	Training Client 4/60
+Epoch 1/1, Loss: 3.679380821529776, Accuracy: 0.967
+	Training Client 5/60
+Epoch 1/1, Loss: 3.720820647664368, Accuracy: 0.967
+	Training Client 6/60
+Epoch 1/1, Loss: 3.0775579549372196, Accuracy: 0.967
+	Training Client 7/60
+Epoch 1/1, Loss: 2.9803279200568795, Accuracy: 0.97
+	Training Client 8/60
+Epoch 1/1, Loss: 2.4084739496465772, Accuracy: 0.979
+	Training Client 9/60
+Epoch 1/1, Loss: 3.3691423796117306, Accuracy: 0.968
+	Training Client 10/60
+Epoch 1/1, Loss: 2.1800975161604583, Accuracy: 0.978
+	Training Client 11/60
+Epoch 1/1, Loss: 21.44946564733982, Accuracy: 0.858
+	Training Client 12/60
+Epoch 1/1, Loss: 7.104855838231742, Accuracy: 0.918
+	Training Client 13/60
+Epoch 1/1, Loss: 2.0426719120005146, Accuracy: 0.979
+	Training Client 14/60
+Epoch 1/1, Loss: 2.578054263489321, Accuracy: 0.972
+	Training Client 15/60
+Epoch 1/1, Loss: 1.751403750386089, Accuracy: 0.983
+	Training Client 16/60
+Epoch 1/1, Loss: 3.9242645474150777, Accuracy: 0.968
+	Training Client 17/60
+Epoch 1/1, Loss: 3.251715950667858, Accuracy: 0.974
+	Training Client 18/60
+Epoch 1/1, Loss: 2.4511307331267744, Accuracy: 0.976
+	Training Client 19/60
+Epoch 1/1, Loss: 16.025527946650982, Accuracy: 0.857
+	Training Client 20/60
+Epoch 1/1, Loss: 2.112122027669102, Accuracy: 0.982
+	Training Client 21/60
+Epoch 1/1, Loss: 7.678963866084814, Accuracy: 0.922
+	Training Client 22/60
+Epoch 1/1, Loss: 3.103466616012156, Accuracy: 0.969
+	Training Client 23/60
+Epoch 1/1, Loss: 3.4649898489005864, Accuracy: 0.965
+	Training Client 24/60
+Epoch 1/1, Loss: 3.237201787997037, Accuracy: 0.97
+	Training Client 25/60
+Epoch 1/1, Loss: 3.0560097007546574, Accuracy: 0.961
+	Training Client 26/60
+Epoch 1/1, Loss: 3.0685740397311747, Accuracy: 0.972
+	Training Client 27/60
+Epoch 1/1, Loss: 2.2057524593546987, Accuracy: 0.978
+	Training Client 28/60
+Epoch 1/1, Loss: 2.82960511604324, Accuracy: 0.968
+	Training Client 29/60
+Epoch 1/1, Loss: 2.7946420875377953, Accuracy: 0.975
+	Training Client 30/60
+Epoch 1/1, Loss: 2.496392133180052, Accuracy: 0.977
+	Training Client 31/60
+Epoch 1/1, Loss: 3.888774044578895, Accuracy: 0.966
+	Training Client 32/60
+Epoch 1/1, Loss: 2.434654766926542, Accuracy: 0.975
+	Training Client 33/60
+Epoch 1/1, Loss: 3.478175589349121, Accuracy: 0.967
+	Training Client 34/60
+Epoch 1/1, Loss: 3.5071430078241974, Accuracy: 0.965
+	Training Client 35/60
+Epoch 1/1, Loss: 2.3626566911116242, Accuracy: 0.97
+	Training Client 36/60
+Epoch 1/1, Loss: 2.111255892785266, Accuracy: 0.977
+	Training Client 37/60
+Epoch 1/1, Loss: 3.448314550332725, Accuracy: 0.964
+	Training Client 38/60
+Epoch 1/1, Loss: 3.305672856513411, Accuracy: 0.967
+	Training Client 39/60
+Epoch 1/1, Loss: 1.9180972299072891, Accuracy: 0.98
+	Training Client 40/60
+Epoch 1/1, Loss: 2.729477644432336, Accuracy: 0.969
+	Training Client 41/60
+Epoch 1/1, Loss: 3.1417578225955367, Accuracy: 0.969
+	Training Client 42/60
+Epoch 1/1, Loss: 13.478402934968472, Accuracy: 0.902
+	Training Client 43/60
+Epoch 1/1, Loss: 2.5582058834843338, Accuracy: 0.974
+	Training Client 44/60
+Epoch 1/1, Loss: 2.8748856884922134, Accuracy: 0.97
+	Training Client 45/60
+Epoch 1/1, Loss: 6.577334774890915, Accuracy: 0.915
+	Training Client 46/60
+Epoch 1/1, Loss: 2.8719588501844555, Accuracy: 0.973
+	Training Client 47/60
+Epoch 1/1, Loss: 2.8477972988039255, Accuracy: 0.971
+	Training Client 48/60
+Epoch 1/1, Loss: 3.7503142890054733, Accuracy: 0.967
+	Training Client 49/60
+Epoch 1/1, Loss: 2.4604109737556428, Accuracy: 0.974
+	Training Client 50/60
+Epoch 1/1, Loss: 4.895934640429914, Accuracy: 0.958
+	Training Client 51/60
+Epoch 1/1, Loss: 3.173457197379321, Accuracy: 0.966
+	Training Client 52/60
+Epoch 1/1, Loss: 4.006667916662991, Accuracy: 0.96
+	Training Client 53/60
+Epoch 1/1, Loss: 2.7287523733102717, Accuracy: 0.973
+	Training Client 54/60
+Epoch 1/1, Loss: 3.849105373956263, Accuracy: 0.974
+	Training Client 55/60
+Epoch 1/1, Loss: 2.345589211443439, Accuracy: 0.978
+	Training Client 56/60
+Epoch 1/1, Loss: 14.514570191502571, Accuracy: 0.874
+	Training Client 57/60
+Epoch 1/1, Loss: 2.8351709198905155, Accuracy: 0.975
+	Training Client 58/60
+Epoch 1/1, Loss: 2.3008277179906145, Accuracy: 0.977
+	Training Client 59/60
+Epoch 1/1, Loss: 3.1601688880473375, Accuracy: 0.973
+	Training Client 60/60
+Epoch 1/1, Loss: 6.376475712284446, Accuracy: 0.916
+Global Epoch 14, Client 4: False Drift Detected.
+Global Epoch 14, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 14, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 14, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 14, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 15/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.502117378404364, Accuracy: 0.98
+	Training Client 2/60
+Epoch 1/1, Loss: 3.353682795073837, Accuracy: 0.965
+	Training Client 3/60
+Epoch 1/1, Loss: 3.581824751570821, Accuracy: 0.969
+	Training Client 4/60
+Epoch 1/1, Loss: 3.227695854380727, Accuracy: 0.967
+	Training Client 5/60
+Epoch 1/1, Loss: 2.961353955906816, Accuracy: 0.974
+	Training Client 6/60
+Epoch 1/1, Loss: 2.781928743701428, Accuracy: 0.972
+	Training Client 7/60
+Epoch 1/1, Loss: 2.905899887904525, Accuracy: 0.975
+	Training Client 8/60
+Epoch 1/1, Loss: 2.998679815325886, Accuracy: 0.979
+	Training Client 9/60
+Epoch 1/1, Loss: 3.3070983313955367, Accuracy: 0.968
+	Training Client 10/60
+Epoch 1/1, Loss: 2.3981102008838207, Accuracy: 0.978
+	Training Client 11/60
+Epoch 1/1, Loss: 15.473412036895752, Accuracy: 0.859
+	Training Client 12/60
+Epoch 1/1, Loss: 7.143192134797573, Accuracy: 0.912
+	Training Client 13/60
+Epoch 1/1, Loss: 1.9130564224906266, Accuracy: 0.979
+	Training Client 14/60
+Epoch 1/1, Loss: 2.4469531113281846, Accuracy: 0.977
+	Training Client 15/60
+Epoch 1/1, Loss: 1.5587602613522904, Accuracy: 0.984
+	Training Client 16/60
+Epoch 1/1, Loss: 3.1079569794237614, Accuracy: 0.977
+	Training Client 17/60
+Epoch 1/1, Loss: 2.8414052731823176, Accuracy: 0.969
+	Training Client 18/60
+Epoch 1/1, Loss: 2.064833637094125, Accuracy: 0.978
+	Training Client 19/60
+Epoch 1/1, Loss: 17.08642802387476, Accuracy: 0.855
+	Training Client 20/60
+Epoch 1/1, Loss: 2.8723988595884293, Accuracy: 0.973
+	Training Client 21/60
+Epoch 1/1, Loss: 8.63612517924048, Accuracy: 0.92
+	Training Client 22/60
+Epoch 1/1, Loss: 3.0730455081211403, Accuracy: 0.971
+	Training Client 23/60
+Epoch 1/1, Loss: 3.617344685830176, Accuracy: 0.964
+	Training Client 24/60
+Epoch 1/1, Loss: 3.141395366983488, Accuracy: 0.974
+	Training Client 25/60
+Epoch 1/1, Loss: 2.900948504335247, Accuracy: 0.972
+	Training Client 26/60
+Epoch 1/1, Loss: 2.9032913707196712, Accuracy: 0.975
+	Training Client 27/60
+Epoch 1/1, Loss: 2.675845936872065, Accuracy: 0.977
+	Training Client 28/60
+Epoch 1/1, Loss: 2.8053055501077324, Accuracy: 0.978
+	Training Client 29/60
+Epoch 1/1, Loss: 2.5107939307345077, Accuracy: 0.977
+	Training Client 30/60
+Epoch 1/1, Loss: 2.712788157397881, Accuracy: 0.972
+	Training Client 31/60
+Epoch 1/1, Loss: 3.5578805445693433, Accuracy: 0.967
+	Training Client 32/60
+Epoch 1/1, Loss: 2.245800607575802, Accuracy: 0.977
+	Training Client 33/60
+Epoch 1/1, Loss: 3.002621080726385, Accuracy: 0.976
+	Training Client 34/60
+Epoch 1/1, Loss: 3.075510192429647, Accuracy: 0.973
+	Training Client 35/60
+Epoch 1/1, Loss: 2.310790130519308, Accuracy: 0.974
+	Training Client 36/60
+Epoch 1/1, Loss: 2.769446289166808, Accuracy: 0.975
+	Training Client 37/60
+Epoch 1/1, Loss: 3.4665014593629166, Accuracy: 0.964
+	Training Client 38/60
+Epoch 1/1, Loss: 3.2019044691696763, Accuracy: 0.965
+	Training Client 39/60
+Epoch 1/1, Loss: 2.5663311621174216, Accuracy: 0.973
+	Training Client 40/60
+Epoch 1/1, Loss: 2.3233365435153246, Accuracy: 0.975
+	Training Client 41/60
+Epoch 1/1, Loss: 3.3012471597176045, Accuracy: 0.97
+	Training Client 42/60
+Epoch 1/1, Loss: 15.822022669017315, Accuracy: 0.868
+	Training Client 43/60
+Epoch 1/1, Loss: 2.0879836403764784, Accuracy: 0.974
+	Training Client 44/60
+Epoch 1/1, Loss: 3.3528875526972115, Accuracy: 0.97
+	Training Client 45/60
+Epoch 1/1, Loss: 8.157076427713037, Accuracy: 0.907
+	Training Client 46/60
+Epoch 1/1, Loss: 2.7386435722000897, Accuracy: 0.973
+	Training Client 47/60
+Epoch 1/1, Loss: 2.8236994426697493, Accuracy: 0.976
+	Training Client 48/60
+Epoch 1/1, Loss: 3.519199833739549, Accuracy: 0.973
+	Training Client 49/60
+Epoch 1/1, Loss: 2.3610961691010743, Accuracy: 0.973
+	Training Client 50/60
+Epoch 1/1, Loss: 4.348811854142696, Accuracy: 0.969
+	Training Client 51/60
+Epoch 1/1, Loss: 3.1659421294461936, Accuracy: 0.972
+	Training Client 52/60
+Epoch 1/1, Loss: 4.0308192959055305, Accuracy: 0.958
+	Training Client 53/60
+Epoch 1/1, Loss: 3.0335288159549236, Accuracy: 0.972
+	Training Client 54/60
+Epoch 1/1, Loss: 3.089262911118567, Accuracy: 0.972
+	Training Client 55/60
+Epoch 1/1, Loss: 2.92685508960858, Accuracy: 0.97
+	Training Client 56/60
+Epoch 1/1, Loss: 15.58795753121376, Accuracy: 0.881
+	Training Client 57/60
+Epoch 1/1, Loss: 2.8100291900336742, Accuracy: 0.979
+	Training Client 58/60
+Epoch 1/1, Loss: 2.0761964262928814, Accuracy: 0.978
+	Training Client 59/60
+Epoch 1/1, Loss: 3.4415696393698454, Accuracy: 0.969
+	Training Client 60/60
+Epoch 1/1, Loss: 6.290491076186299, Accuracy: 0.914
+Global Epoch 15, Client 4: False Drift Detected.
+Global Epoch 15, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 15, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 15, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 15, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 16/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.969255605887156, Accuracy: 0.977
+	Training Client 2/60
+Epoch 1/1, Loss: 3.1393467483576387, Accuracy: 0.967
+	Training Client 3/60
+Epoch 1/1, Loss: 3.6721478630788624, Accuracy: 0.967
+	Training Client 4/60
+Epoch 1/1, Loss: 3.353088775416836, Accuracy: 0.969
+	Training Client 5/60
+Epoch 1/1, Loss: 2.6930896169506013, Accuracy: 0.977
+	Training Client 6/60
+Epoch 1/1, Loss: 2.3764929233584553, Accuracy: 0.973
+	Training Client 7/60
+Epoch 1/1, Loss: 3.0641165655106306, Accuracy: 0.973
+	Training Client 8/60
+Epoch 1/1, Loss: 2.5521970277186483, Accuracy: 0.975
+	Training Client 9/60
+Epoch 1/1, Loss: 3.4899877414572984, Accuracy: 0.968
+	Training Client 10/60
+Epoch 1/1, Loss: 2.9534685481339693, Accuracy: 0.97
+	Training Client 11/60
+Epoch 1/1, Loss: 16.92231081612408, Accuracy: 0.847
+	Training Client 12/60
+Epoch 1/1, Loss: 7.254503255710006, Accuracy: 0.901
+	Training Client 13/60
+Epoch 1/1, Loss: 1.830547814926831, Accuracy: 0.981
+	Training Client 14/60
+Epoch 1/1, Loss: 2.6653163079172373, Accuracy: 0.971
+	Training Client 15/60
+Epoch 1/1, Loss: 1.4319779698271304, Accuracy: 0.987
+	Training Client 16/60
+Epoch 1/1, Loss: 3.20291061187163, Accuracy: 0.968
+	Training Client 17/60
+Epoch 1/1, Loss: 2.8236616826616228, Accuracy: 0.973
+	Training Client 18/60
+Epoch 1/1, Loss: 1.7008372554555535, Accuracy: 0.982
+	Training Client 19/60
+Epoch 1/1, Loss: 16.496501848101616, Accuracy: 0.858
+	Training Client 20/60
+Epoch 1/1, Loss: 2.316229428630322, Accuracy: 0.977
+	Training Client 21/60
+Epoch 1/1, Loss: 8.14719361346215, Accuracy: 0.917
+	Training Client 22/60
+Epoch 1/1, Loss: 2.8896083156578243, Accuracy: 0.97
+	Training Client 23/60
+Epoch 1/1, Loss: 3.5720663069514558, Accuracy: 0.969
+	Training Client 24/60
+Epoch 1/1, Loss: 2.831989017315209, Accuracy: 0.974
+	Training Client 25/60
+Epoch 1/1, Loss: 3.111773919314146, Accuracy: 0.967
+	Training Client 26/60
+Epoch 1/1, Loss: 2.861312417779118, Accuracy: 0.976
+	Training Client 27/60
+Epoch 1/1, Loss: 2.5377414856338874, Accuracy: 0.972
+	Training Client 28/60
+Epoch 1/1, Loss: 2.9571179933845997, Accuracy: 0.972
+	Training Client 29/60
+Epoch 1/1, Loss: 1.9286035313270986, Accuracy: 0.981
+	Training Client 30/60
+Epoch 1/1, Loss: 2.379099298035726, Accuracy: 0.975
+	Training Client 31/60
+Epoch 1/1, Loss: 3.7572223888128065, Accuracy: 0.968
+	Training Client 32/60
+Epoch 1/1, Loss: 2.0472752100322396, Accuracy: 0.976
+	Training Client 33/60
+Epoch 1/1, Loss: 2.98316361696925, Accuracy: 0.968
+	Training Client 34/60
+Epoch 1/1, Loss: 2.95555472956039, Accuracy: 0.97
+	Training Client 35/60
+Epoch 1/1, Loss: 2.1116253233049065, Accuracy: 0.98
+	Training Client 36/60
+Epoch 1/1, Loss: 2.174632243346423, Accuracy: 0.975
+	Training Client 37/60
+Epoch 1/1, Loss: 3.3923782291822135, Accuracy: 0.969
+	Training Client 38/60
+Epoch 1/1, Loss: 3.503019428346306, Accuracy: 0.968
+	Training Client 39/60
+Epoch 1/1, Loss: 2.3494663809397025, Accuracy: 0.976
+	Training Client 40/60
+Epoch 1/1, Loss: 3.020040673436597, Accuracy: 0.968
+	Training Client 41/60
+Epoch 1/1, Loss: 3.1299539313768037, Accuracy: 0.969
+	Training Client 42/60
+Epoch 1/1, Loss: 16.480245996266603, Accuracy: 0.856
+	Training Client 43/60
+Epoch 1/1, Loss: 2.161912358365953, Accuracy: 0.975
+	Training Client 44/60
+Epoch 1/1, Loss: 2.812634300906211, Accuracy: 0.974
+	Training Client 45/60
+Epoch 1/1, Loss: 7.649650268256664, Accuracy: 0.9
+	Training Client 46/60
+Epoch 1/1, Loss: 2.367970114108175, Accuracy: 0.973
+	Training Client 47/60
+Epoch 1/1, Loss: 3.569490533322096, Accuracy: 0.97
+	Training Client 48/60
+Epoch 1/1, Loss: 3.4634725102223456, Accuracy: 0.968
+	Training Client 49/60
+Epoch 1/1, Loss: 2.1057997045572847, Accuracy: 0.978
+	Training Client 50/60
+Epoch 1/1, Loss: 4.561531625688076, Accuracy: 0.961
+	Training Client 51/60
+Epoch 1/1, Loss: 3.294978801626712, Accuracy: 0.969
+	Training Client 52/60
+Epoch 1/1, Loss: 3.3510752702131867, Accuracy: 0.966
+	Training Client 53/60
+Epoch 1/1, Loss: 2.656958509469405, Accuracy: 0.976
+	Training Client 54/60
+Epoch 1/1, Loss: 3.331099458038807, Accuracy: 0.965
+	Training Client 55/60
+Epoch 1/1, Loss: 2.348959121503867, Accuracy: 0.973
+	Training Client 56/60
+Epoch 1/1, Loss: 14.914169907569885, Accuracy: 0.865
+	Training Client 57/60
+Epoch 1/1, Loss: 3.1044642906636, Accuracy: 0.975
+	Training Client 58/60
+Epoch 1/1, Loss: 2.3762786362785846, Accuracy: 0.98
+	Training Client 59/60
+Epoch 1/1, Loss: 3.0798790529952385, Accuracy: 0.971
+	Training Client 60/60
+Epoch 1/1, Loss: 6.527340285480022, Accuracy: 0.907
+Global Epoch 16, Client 4: False Drift Detected.
+Global Epoch 16, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 16, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 16, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 16, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 17/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.7353505672654137, Accuracy: 0.975
+	Training Client 2/60
+Epoch 1/1, Loss: 3.0396905585657805, Accuracy: 0.971
+	Training Client 3/60
+Epoch 1/1, Loss: 3.931675217114389, Accuracy: 0.966
+	Training Client 4/60
+Epoch 1/1, Loss: 3.3496347535401583, Accuracy: 0.968
+	Training Client 5/60
+Epoch 1/1, Loss: 3.251690902514383, Accuracy: 0.968
+	Training Client 6/60
+Epoch 1/1, Loss: 2.658419661645894, Accuracy: 0.974
+	Training Client 7/60
+Epoch 1/1, Loss: 3.425755678676069, Accuracy: 0.963
+	Training Client 8/60
+Epoch 1/1, Loss: 2.1305206060642377, Accuracy: 0.981
+	Training Client 9/60
+Epoch 1/1, Loss: 3.2993040317087434, Accuracy: 0.97
+	Training Client 10/60
+Epoch 1/1, Loss: 2.8264707983471453, Accuracy: 0.972
+	Training Client 11/60
+Epoch 1/1, Loss: 14.85134369879961, Accuracy: 0.87
+	Training Client 12/60
+Epoch 1/1, Loss: 7.068339224904776, Accuracy: 0.922
+	Training Client 13/60
+Epoch 1/1, Loss: 2.0250690751126967, Accuracy: 0.985
+	Training Client 14/60
+Epoch 1/1, Loss: 3.0612827404402196, Accuracy: 0.966
+	Training Client 15/60
+Epoch 1/1, Loss: 1.8137551008840092, Accuracy: 0.979
+	Training Client 16/60
+Epoch 1/1, Loss: 4.459914233535528, Accuracy: 0.96
+	Training Client 17/60
+Epoch 1/1, Loss: 2.5623210991034284, Accuracy: 0.981
+	Training Client 18/60
+Epoch 1/1, Loss: 1.574044864915777, Accuracy: 0.988
+	Training Client 19/60
+Epoch 1/1, Loss: 16.164847001433372, Accuracy: 0.869
+	Training Client 20/60
+Epoch 1/1, Loss: 1.9052375465398654, Accuracy: 0.982
+	Training Client 21/60
+Epoch 1/1, Loss: 7.866591598838568, Accuracy: 0.907
+	Training Client 22/60
+Epoch 1/1, Loss: 3.0091868596500717, Accuracy: 0.974
+	Training Client 23/60
+Epoch 1/1, Loss: 3.1230561723932624, Accuracy: 0.974
+	Training Client 24/60
+Epoch 1/1, Loss: 2.6046968458686024, Accuracy: 0.977
+	Training Client 25/60
+Epoch 1/1, Loss: 3.1974855912849307, Accuracy: 0.97
+	Training Client 26/60
+Epoch 1/1, Loss: 2.8074104060360696, Accuracy: 0.973
+	Training Client 27/60
+Epoch 1/1, Loss: 2.1162297551054507, Accuracy: 0.976
+	Training Client 28/60
+Epoch 1/1, Loss: 3.0583575281780213, Accuracy: 0.968
+	Training Client 29/60
+Epoch 1/1, Loss: 2.1328120920807123, Accuracy: 0.975
+	Training Client 30/60
+Epoch 1/1, Loss: 2.624563143821433, Accuracy: 0.974
+	Training Client 31/60
+Epoch 1/1, Loss: 3.5839146869257092, Accuracy: 0.968
+	Training Client 32/60
+Epoch 1/1, Loss: 2.652624983806163, Accuracy: 0.975
+	Training Client 33/60
+Epoch 1/1, Loss: 2.872773615643382, Accuracy: 0.973
+	Training Client 34/60
+Epoch 1/1, Loss: 2.84897403139621, Accuracy: 0.972
+	Training Client 35/60
+Epoch 1/1, Loss: 2.330972123891115, Accuracy: 0.978
+	Training Client 36/60
+Epoch 1/1, Loss: 1.8201459990232252, Accuracy: 0.982
+	Training Client 37/60
+Epoch 1/1, Loss: 2.866870043799281, Accuracy: 0.976
+	Training Client 38/60
+Epoch 1/1, Loss: 3.1719683459959924, Accuracy: 0.967
+	Training Client 39/60
+Epoch 1/1, Loss: 1.7842631076928228, Accuracy: 0.978
+	Training Client 40/60
+Epoch 1/1, Loss: 2.5339704426005483, Accuracy: 0.973
+	Training Client 41/60
+Epoch 1/1, Loss: 2.995481717400253, Accuracy: 0.976
+	Training Client 42/60
+Epoch 1/1, Loss: 16.359144166111946, Accuracy: 0.877
+	Training Client 43/60
+Epoch 1/1, Loss: 1.759289813315263, Accuracy: 0.98
+	Training Client 44/60
+Epoch 1/1, Loss: 2.845662782434374, Accuracy: 0.977
+	Training Client 45/60
+Epoch 1/1, Loss: 6.65613514278084, Accuracy: 0.928
+	Training Client 46/60
+Epoch 1/1, Loss: 2.3446223858045414, Accuracy: 0.973
+	Training Client 47/60
+Epoch 1/1, Loss: 2.775790472747758, Accuracy: 0.977
+	Training Client 48/60
+Epoch 1/1, Loss: 2.9691290594637394, Accuracy: 0.973
+	Training Client 49/60
+Epoch 1/1, Loss: 2.2975818037521094, Accuracy: 0.973
+	Training Client 50/60
+Epoch 1/1, Loss: 4.073614876251668, Accuracy: 0.965
+	Training Client 51/60
+Epoch 1/1, Loss: 2.9495658413507044, Accuracy: 0.972
+	Training Client 52/60
+Epoch 1/1, Loss: 3.7777413884177804, Accuracy: 0.963
+	Training Client 53/60
+Epoch 1/1, Loss: 2.394511000951752, Accuracy: 0.976
+	Training Client 54/60
+Epoch 1/1, Loss: 2.819122869928833, Accuracy: 0.976
+	Training Client 55/60
+Epoch 1/1, Loss: 2.0324615018907934, Accuracy: 0.977
+	Training Client 56/60
+Epoch 1/1, Loss: 13.6031913459301, Accuracy: 0.881
+	Training Client 57/60
+Epoch 1/1, Loss: 2.993003892013803, Accuracy: 0.972
+	Training Client 58/60
+Epoch 1/1, Loss: 1.9430787719320506, Accuracy: 0.983
+	Training Client 59/60
+Epoch 1/1, Loss: 2.683627445716411, Accuracy: 0.973
+	Training Client 60/60
+Epoch 1/1, Loss: 7.33768212236464, Accuracy: 0.929
+Global Epoch 17, Client 4: False Drift Detected.
+Global Epoch 17, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 17, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 17, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 17, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 18/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.1036031984258443, Accuracy: 0.988
+	Training Client 2/60
+Epoch 1/1, Loss: 2.9693271733704023, Accuracy: 0.968
+	Training Client 3/60
+Epoch 1/1, Loss: 5.354050778783858, Accuracy: 0.958
+	Training Client 4/60
+Epoch 1/1, Loss: 3.218915090430528, Accuracy: 0.973
+	Training Client 5/60
+Epoch 1/1, Loss: 2.952750852215104, Accuracy: 0.974
+	Training Client 6/60
+Epoch 1/1, Loss: 2.750195839209482, Accuracy: 0.977
+	Training Client 7/60
+Epoch 1/1, Loss: 3.8141933596343733, Accuracy: 0.97
+	Training Client 8/60
+Epoch 1/1, Loss: 1.971556912176311, Accuracy: 0.985
+	Training Client 9/60
+Epoch 1/1, Loss: 2.942648367024958, Accuracy: 0.97
+	Training Client 10/60
+Epoch 1/1, Loss: 3.5799936773255467, Accuracy: 0.965
+	Training Client 11/60
+Epoch 1/1, Loss: 15.749611176550388, Accuracy: 0.863
+	Training Client 12/60
+Epoch 1/1, Loss: 6.140599509701133, Accuracy: 0.924
+	Training Client 13/60
+Epoch 1/1, Loss: 1.8511051107198, Accuracy: 0.979
+	Training Client 14/60
+Epoch 1/1, Loss: 3.559114038012922, Accuracy: 0.966
+	Training Client 15/60
+Epoch 1/1, Loss: 1.4462527725700056, Accuracy: 0.989
+	Training Client 16/60
+Epoch 1/1, Loss: 5.4779840391129255, Accuracy: 0.959
+	Training Client 17/60
+Epoch 1/1, Loss: 2.5424668269697577, Accuracy: 0.975
+	Training Client 18/60
+Epoch 1/1, Loss: 1.321251766057685, Accuracy: 0.991
+	Training Client 19/60
+Epoch 1/1, Loss: 16.024804554879665, Accuracy: 0.863
+	Training Client 20/60
+Epoch 1/1, Loss: 1.8635103579144925, Accuracy: 0.983
+	Training Client 21/60
+Epoch 1/1, Loss: 7.788676235824823, Accuracy: 0.922
+	Training Client 22/60
+Epoch 1/1, Loss: 3.315573990577832, Accuracy: 0.969
+	Training Client 23/60
+Epoch 1/1, Loss: 3.3658485948108137, Accuracy: 0.972
+	Training Client 24/60
+Epoch 1/1, Loss: 2.868013890925795, Accuracy: 0.975
+	Training Client 25/60
+Epoch 1/1, Loss: 2.7312561880098656, Accuracy: 0.971
+	Training Client 26/60
+Epoch 1/1, Loss: 2.263760122237727, Accuracy: 0.973
+	Training Client 27/60
+Epoch 1/1, Loss: 2.0659252407494932, Accuracy: 0.979
+	Training Client 28/60
+Epoch 1/1, Loss: 3.85000694449991, Accuracy: 0.964
+	Training Client 29/60
+Epoch 1/1, Loss: 1.9742805045098066, Accuracy: 0.984
+	Training Client 30/60
+Epoch 1/1, Loss: 2.2593332046526484, Accuracy: 0.976
+	Training Client 31/60
+Epoch 1/1, Loss: 3.407009862945415, Accuracy: 0.963
+	Training Client 32/60
+Epoch 1/1, Loss: 2.2208532546355855, Accuracy: 0.98
+	Training Client 33/60
+Epoch 1/1, Loss: 2.959307495970279, Accuracy: 0.973
+	Training Client 34/60
+Epoch 1/1, Loss: 2.9914186956593767, Accuracy: 0.973
+	Training Client 35/60
+Epoch 1/1, Loss: 1.943408596678637, Accuracy: 0.978
+	Training Client 36/60
+Epoch 1/1, Loss: 1.915788440441247, Accuracy: 0.982
+	Training Client 37/60
+Epoch 1/1, Loss: 2.3972567063756287, Accuracy: 0.978
+	Training Client 38/60
+Epoch 1/1, Loss: 3.4858838757500052, Accuracy: 0.971
+	Training Client 39/60
+Epoch 1/1, Loss: 2.3573118573985994, Accuracy: 0.976
+	Training Client 40/60
+Epoch 1/1, Loss: 2.8249157562386245, Accuracy: 0.972
+	Training Client 41/60
+Epoch 1/1, Loss: 3.258631874807179, Accuracy: 0.973
+	Training Client 42/60
+Epoch 1/1, Loss: 14.943192824721336, Accuracy: 0.872
+	Training Client 43/60
+Epoch 1/1, Loss: 1.8583786091767251, Accuracy: 0.979
+	Training Client 44/60
+Epoch 1/1, Loss: 3.070482773007825, Accuracy: 0.967
+	Training Client 45/60
+Epoch 1/1, Loss: 5.860247390344739, Accuracy: 0.921
+	Training Client 46/60
+Epoch 1/1, Loss: 2.489518905582372, Accuracy: 0.978
+	Training Client 47/60
+Epoch 1/1, Loss: 2.727329869521782, Accuracy: 0.977
+	Training Client 48/60
+Epoch 1/1, Loss: 2.4223252434749156, Accuracy: 0.984
+	Training Client 49/60
+Epoch 1/1, Loss: 2.0882386579178274, Accuracy: 0.98
+	Training Client 50/60
+Epoch 1/1, Loss: 3.610180410090834, Accuracy: 0.968
+	Training Client 51/60
+Epoch 1/1, Loss: 2.6206770217977464, Accuracy: 0.974
+	Training Client 52/60
+Epoch 1/1, Loss: 3.373748551355675, Accuracy: 0.971
+	Training Client 53/60
+Epoch 1/1, Loss: 3.025475329719484, Accuracy: 0.972
+	Training Client 54/60
+Epoch 1/1, Loss: 2.8539823461323977, Accuracy: 0.978
+	Training Client 55/60
+Epoch 1/1, Loss: 2.0914059111382812, Accuracy: 0.974
+	Training Client 56/60
+Epoch 1/1, Loss: 12.370425715111196, Accuracy: 0.876
+	Training Client 57/60
+Epoch 1/1, Loss: 2.9499995025107637, Accuracy: 0.981
+	Training Client 58/60
+Epoch 1/1, Loss: 2.087797105545178, Accuracy: 0.983
+	Training Client 59/60
+Epoch 1/1, Loss: 3.1754286827053875, Accuracy: 0.969
+	Training Client 60/60
+Epoch 1/1, Loss: 6.483782658353448, Accuracy: 0.913
+Global Epoch 18, Client 4: False Drift Detected.
+Global Epoch 18, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 18, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 18, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 18, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 19/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.2722022412344813, Accuracy: 0.979
+	Training Client 2/60
+Epoch 1/1, Loss: 2.982460374943912, Accuracy: 0.971
+	Training Client 3/60
+Epoch 1/1, Loss: 6.215488729998469, Accuracy: 0.941
+	Training Client 4/60
+Epoch 1/1, Loss: 2.9897650305647403, Accuracy: 0.969
+	Training Client 5/60
+Epoch 1/1, Loss: 3.414189431932755, Accuracy: 0.978
+	Training Client 6/60
+Epoch 1/1, Loss: 2.304960957408184, Accuracy: 0.976
+	Training Client 7/60
+Epoch 1/1, Loss: 5.223162147216499, Accuracy: 0.95
+	Training Client 8/60
+Epoch 1/1, Loss: 2.090114848630037, Accuracy: 0.98
+	Training Client 9/60
+Epoch 1/1, Loss: 2.927133970428258, Accuracy: 0.971
+	Training Client 10/60
+Epoch 1/1, Loss: 4.801281221210957, Accuracy: 0.957
+	Training Client 11/60
+Epoch 1/1, Loss: 14.995083652436733, Accuracy: 0.87
+	Training Client 12/60
+Epoch 1/1, Loss: 6.187406265176833, Accuracy: 0.919
+	Training Client 13/60
+Epoch 1/1, Loss: 1.8063472481444478, Accuracy: 0.981
+	Training Client 14/60
+Epoch 1/1, Loss: 6.130295228213072, Accuracy: 0.946
+	Training Client 15/60
+Epoch 1/1, Loss: 1.724302198330406, Accuracy: 0.984
+	Training Client 16/60
+Epoch 1/1, Loss: 6.091227900236845, Accuracy: 0.947
+	Training Client 17/60
+Epoch 1/1, Loss: 2.143415092024952, Accuracy: 0.975
+	Training Client 18/60
+Epoch 1/1, Loss: 1.9507310402113944, Accuracy: 0.983
+	Training Client 19/60
+Epoch 1/1, Loss: 16.808779433369637, Accuracy: 0.846
+	Training Client 20/60
+Epoch 1/1, Loss: 2.1221570466877893, Accuracy: 0.983
+	Training Client 21/60
+Epoch 1/1, Loss: 7.860104890540242, Accuracy: 0.922
+	Training Client 22/60
+Epoch 1/1, Loss: 3.684856487205252, Accuracy: 0.966
+	Training Client 23/60
+Epoch 1/1, Loss: 3.399765261216089, Accuracy: 0.97
+	Training Client 24/60
+Epoch 1/1, Loss: 2.7402412369847298, Accuracy: 0.974
+	Training Client 25/60
+Epoch 1/1, Loss: 2.743277018656954, Accuracy: 0.977
+	Training Client 26/60
+Epoch 1/1, Loss: 2.588672118494287, Accuracy: 0.979
+	Training Client 27/60
+Epoch 1/1, Loss: 2.242222674365621, Accuracy: 0.98
+	Training Client 28/60
+Epoch 1/1, Loss: 4.494446267839521, Accuracy: 0.953
+	Training Client 29/60
+Epoch 1/1, Loss: 1.7996887555345893, Accuracy: 0.977
+	Training Client 30/60
+Epoch 1/1, Loss: 2.3177067358628847, Accuracy: 0.979
+	Training Client 31/60
+Epoch 1/1, Loss: 3.3438082598149776, Accuracy: 0.965
+	Training Client 32/60
+Epoch 1/1, Loss: 1.6892674426781014, Accuracy: 0.98
+	Training Client 33/60
+Epoch 1/1, Loss: 2.5238633926492184, Accuracy: 0.973
+	Training Client 34/60
+Epoch 1/1, Loss: 2.5983411949127913, Accuracy: 0.973
+	Training Client 35/60
+Epoch 1/1, Loss: 1.93281131319236, Accuracy: 0.975
+	Training Client 36/60
+Epoch 1/1, Loss: 1.7761163476970978, Accuracy: 0.981
+	Training Client 37/60
+Epoch 1/1, Loss: 2.0938029676908627, Accuracy: 0.979
+	Training Client 38/60
+Epoch 1/1, Loss: 2.420593695016578, Accuracy: 0.976
+	Training Client 39/60
+Epoch 1/1, Loss: 1.9252260014181957, Accuracy: 0.981
+	Training Client 40/60
+Epoch 1/1, Loss: 2.17155177926179, Accuracy: 0.977
+	Training Client 41/60
+Epoch 1/1, Loss: 2.396036035148427, Accuracy: 0.975
+	Training Client 42/60
+Epoch 1/1, Loss: 14.525606334209442, Accuracy: 0.888
+	Training Client 43/60
+Epoch 1/1, Loss: 1.9723994499072433, Accuracy: 0.975
+	Training Client 44/60
+Epoch 1/1, Loss: 3.2899139835499227, Accuracy: 0.964
+	Training Client 45/60
+Epoch 1/1, Loss: 7.543593490496278, Accuracy: 0.897
+	Training Client 46/60
+Epoch 1/1, Loss: 2.3320079729892313, Accuracy: 0.977
+	Training Client 47/60
+Epoch 1/1, Loss: 2.440507610444911, Accuracy: 0.979
+	Training Client 48/60
+Epoch 1/1, Loss: 2.79933672666084, Accuracy: 0.978
+	Training Client 49/60
+Epoch 1/1, Loss: 2.223333992762491, Accuracy: 0.978
+	Training Client 50/60
+Epoch 1/1, Loss: 3.6736115170642734, Accuracy: 0.968
+	Training Client 51/60
+Epoch 1/1, Loss: 2.8097251607105136, Accuracy: 0.975
+	Training Client 52/60
+Epoch 1/1, Loss: 3.28045541071333, Accuracy: 0.966
+	Training Client 53/60
+Epoch 1/1, Loss: 2.708039510063827, Accuracy: 0.977
+	Training Client 54/60
+Epoch 1/1, Loss: 2.846027429390233, Accuracy: 0.974
+	Training Client 55/60
+Epoch 1/1, Loss: 1.8734515170799568, Accuracy: 0.98
+	Training Client 56/60
+Epoch 1/1, Loss: 12.884598068892956, Accuracy: 0.889
+	Training Client 57/60
+Epoch 1/1, Loss: 3.002799754263833, Accuracy: 0.979
+	Training Client 58/60
+Epoch 1/1, Loss: 2.022659827955067, Accuracy: 0.979
+	Training Client 59/60
+Epoch 1/1, Loss: 2.913800056092441, Accuracy: 0.969
+	Training Client 60/60
+Epoch 1/1, Loss: 6.049981520976871, Accuracy: 0.909
+Global Epoch 19, Client 4: False Drift Detected.
+Global Epoch 19, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 19, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 19, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 19, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 20/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.0988639250863343, Accuracy: 0.975
+	Training Client 2/60
+Epoch 1/1, Loss: 2.7669746675528586, Accuracy: 0.971
+	Training Client 3/60
+Epoch 1/1, Loss: 8.313506931066513, Accuracy: 0.927
+	Training Client 4/60
+Epoch 1/1, Loss: 2.9423983162268996, Accuracy: 0.973
+	Training Client 5/60
+Epoch 1/1, Loss: 2.7802980234846473, Accuracy: 0.976
+	Training Client 6/60
+Epoch 1/1, Loss: 2.2260249427636154, Accuracy: 0.976
+	Training Client 7/60
+Epoch 1/1, Loss: 7.436536637367681, Accuracy: 0.923
+	Training Client 8/60
+Epoch 1/1, Loss: 1.9530863068066537, Accuracy: 0.979
+	Training Client 9/60
+Epoch 1/1, Loss: 2.675164444837719, Accuracy: 0.974
+	Training Client 10/60
+Epoch 1/1, Loss: 7.346709702163935, Accuracy: 0.931
+	Training Client 11/60
+Epoch 1/1, Loss: 15.187278430908918, Accuracy: 0.851
+	Training Client 12/60
+Epoch 1/1, Loss: 6.518926922231913, Accuracy: 0.915
+	Training Client 13/60
+Epoch 1/1, Loss: 1.453024169561104, Accuracy: 0.988
+	Training Client 14/60
+Epoch 1/1, Loss: 8.68200235068798, Accuracy: 0.927
+	Training Client 15/60
+Epoch 1/1, Loss: 1.5785207400331274, Accuracy: 0.981
+	Training Client 16/60
+Epoch 1/1, Loss: 7.899836782366037, Accuracy: 0.924
+	Training Client 17/60
+Epoch 1/1, Loss: 2.0694260699674487, Accuracy: 0.982
+	Training Client 18/60
+Epoch 1/1, Loss: 1.6110089124995284, Accuracy: 0.985
+	Training Client 19/60
+Epoch 1/1, Loss: 17.34454920142889, Accuracy: 0.847
+	Training Client 20/60
+Epoch 1/1, Loss: 1.9549524415051565, Accuracy: 0.982
+	Training Client 21/60
+Epoch 1/1, Loss: 7.2285108882933855, Accuracy: 0.921
+	Training Client 22/60
+Epoch 1/1, Loss: 2.695033428724855, Accuracy: 0.973
+	Training Client 23/60
+Epoch 1/1, Loss: 4.315216875867918, Accuracy: 0.97
+	Training Client 24/60
+Epoch 1/1, Loss: 2.381012520752847, Accuracy: 0.978
+	Training Client 25/60
+Epoch 1/1, Loss: 2.832327809650451, Accuracy: 0.974
+	Training Client 26/60
+Epoch 1/1, Loss: 2.6929149572970346, Accuracy: 0.977
+	Training Client 27/60
+Epoch 1/1, Loss: 1.9739616995793767, Accuracy: 0.981
+	Training Client 28/60
+Epoch 1/1, Loss: 6.8268400225788355, Accuracy: 0.935
+	Training Client 29/60
+Epoch 1/1, Loss: 1.7566847130656242, Accuracy: 0.984
+	Training Client 30/60
+Epoch 1/1, Loss: 2.935432981699705, Accuracy: 0.975
+	Training Client 31/60
+Epoch 1/1, Loss: 3.192928697564639, Accuracy: 0.969
+	Training Client 32/60
+Epoch 1/1, Loss: 1.7923225302947685, Accuracy: 0.978
+	Training Client 33/60
+Epoch 1/1, Loss: 2.4564774171449244, Accuracy: 0.974
+	Training Client 34/60
+Epoch 1/1, Loss: 2.581320691097062, Accuracy: 0.974
+	Training Client 35/60
+Epoch 1/1, Loss: 1.9279592266248073, Accuracy: 0.98
+	Training Client 36/60
+Epoch 1/1, Loss: 1.4996014221687801, Accuracy: 0.982
+	Training Client 37/60
+Epoch 1/1, Loss: 2.796437425771728, Accuracy: 0.977
+	Training Client 38/60
+Epoch 1/1, Loss: 3.4185309195891023, Accuracy: 0.967
+	Training Client 39/60
+Epoch 1/1, Loss: 2.472244015306387, Accuracy: 0.976
+	Training Client 40/60
+Epoch 1/1, Loss: 2.3134282319806516, Accuracy: 0.976
+	Training Client 41/60
+Epoch 1/1, Loss: 2.5852394936373457, Accuracy: 0.97
+	Training Client 42/60
+Epoch 1/1, Loss: 14.928983472287655, Accuracy: 0.865
+	Training Client 43/60
+Epoch 1/1, Loss: 1.786905834567733, Accuracy: 0.977
+	Training Client 44/60
+Epoch 1/1, Loss: 2.621076845069183, Accuracy: 0.97
+	Training Client 45/60
+Epoch 1/1, Loss: 5.402273767627776, Accuracy: 0.933
+	Training Client 46/60
+Epoch 1/1, Loss: 2.2048567723686574, Accuracy: 0.977
+	Training Client 47/60
+Epoch 1/1, Loss: 1.9681044823955745, Accuracy: 0.982
+	Training Client 48/60
+Epoch 1/1, Loss: 2.413390602625441, Accuracy: 0.981
+	Training Client 49/60
+Epoch 1/1, Loss: 1.8016824395745061, Accuracy: 0.978
+	Training Client 50/60
+Epoch 1/1, Loss: 3.460883893072605, Accuracy: 0.966
+	Training Client 51/60
+Epoch 1/1, Loss: 3.113991376128979, Accuracy: 0.971
+	Training Client 52/60
+Epoch 1/1, Loss: 3.145466389833018, Accuracy: 0.967
+	Training Client 53/60
+Epoch 1/1, Loss: 2.688602226378862, Accuracy: 0.978
+	Training Client 54/60
+Epoch 1/1, Loss: 2.668486096896231, Accuracy: 0.981
+	Training Client 55/60
+Epoch 1/1, Loss: 1.9376095968473237, Accuracy: 0.979
+	Training Client 56/60
+Epoch 1/1, Loss: 15.36252249777317, Accuracy: 0.874
+	Training Client 57/60
+Epoch 1/1, Loss: 3.027592953410931, Accuracy: 0.98
+	Training Client 58/60
+Epoch 1/1, Loss: 1.897325647296384, Accuracy: 0.981
+	Training Client 59/60
+Epoch 1/1, Loss: 2.638533874414861, Accuracy: 0.971
+	Training Client 60/60
+Epoch 1/1, Loss: 5.944178524427116, Accuracy: 0.918
+Global Epoch 20, Client 3: False Drift Detected.
+Global Epoch 20, Client 4: False Drift Detected.
+Global Epoch 20, Client 7: False Drift Detected.
+Global Epoch 20, Client 10: False Drift Detected.
+Global Epoch 20, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 20, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 20, Client 16: False Drift Detected.
+Global Epoch 20, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 20, Client 28: False Drift Detected.
+Global Epoch 20, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 20, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 21/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.889829225721769, Accuracy: 0.986
+	Training Client 2/60
+Epoch 1/1, Loss: 2.6930911699309945, Accuracy: 0.971
+	Training Client 3/60
+Epoch 1/1, Loss: 11.503662584349513, Accuracy: 0.901
+	Training Client 4/60
+Epoch 1/1, Loss: 2.854623332619667, Accuracy: 0.97
+	Training Client 5/60
+Epoch 1/1, Loss: 2.732197002507746, Accuracy: 0.973
+	Training Client 6/60
+Epoch 1/1, Loss: 2.468364517088048, Accuracy: 0.975
+	Training Client 7/60
+Epoch 1/1, Loss: 11.298271425068378, Accuracy: 0.894
+	Training Client 8/60
+Epoch 1/1, Loss: 2.6105900951079093, Accuracy: 0.98
+	Training Client 9/60
+Epoch 1/1, Loss: 3.3527913498692214, Accuracy: 0.974
+	Training Client 10/60
+Epoch 1/1, Loss: 10.870032959850505, Accuracy: 0.905
+	Training Client 11/60
+Epoch 1/1, Loss: 15.940608128905296, Accuracy: 0.857
+	Training Client 12/60
+Epoch 1/1, Loss: 4.44733038591221, Accuracy: 0.938
+	Training Client 13/60
+Epoch 1/1, Loss: 1.5247261520125903, Accuracy: 0.982
+	Training Client 14/60
+Epoch 1/1, Loss: 12.493141405284405, Accuracy: 0.889
+	Training Client 15/60
+Epoch 1/1, Loss: 2.7824652914423496, Accuracy: 0.963
+	Training Client 16/60
+Epoch 1/1, Loss: 12.24097465723753, Accuracy: 0.889
+	Training Client 17/60
+Epoch 1/1, Loss: 2.5839034204836935, Accuracy: 0.98
+	Training Client 18/60
+Epoch 1/1, Loss: 1.222549653466558, Accuracy: 0.988
+	Training Client 19/60
+Epoch 1/1, Loss: 16.87068512290716, Accuracy: 0.853
+	Training Client 20/60
+Epoch 1/1, Loss: 1.609483171669126, Accuracy: 0.982
+	Training Client 21/60
+Epoch 1/1, Loss: 5.193109143991023, Accuracy: 0.952
+	Training Client 22/60
+Epoch 1/1, Loss: 2.5734219489386305, Accuracy: 0.976
+	Training Client 23/60
+Epoch 1/1, Loss: 2.7257700664922595, Accuracy: 0.98
+	Training Client 24/60
+Epoch 1/1, Loss: 2.193697353359312, Accuracy: 0.981
+	Training Client 25/60
+Epoch 1/1, Loss: 3.1353836841881275, Accuracy: 0.976
+	Training Client 26/60
+Epoch 1/1, Loss: 1.9989008763805032, Accuracy: 0.982
+	Training Client 27/60
+Epoch 1/1, Loss: 2.1548285484313965, Accuracy: 0.978
+	Training Client 28/60
+Epoch 1/1, Loss: 10.797514531761408, Accuracy: 0.905
+	Training Client 29/60
+Epoch 1/1, Loss: 1.9355071494937874, Accuracy: 0.977
+	Training Client 30/60
+Epoch 1/1, Loss: 2.198778526391834, Accuracy: 0.978
+	Training Client 31/60
+Epoch 1/1, Loss: 3.3423758061835542, Accuracy: 0.966
+	Training Client 32/60
+Epoch 1/1, Loss: 1.5941401935415342, Accuracy: 0.981
+	Training Client 33/60
+Epoch 1/1, Loss: 2.7558957042638212, Accuracy: 0.971
+	Training Client 34/60
+Epoch 1/1, Loss: 2.0621021066908725, Accuracy: 0.979
+	Training Client 35/60
+Epoch 1/1, Loss: 1.4019174512359314, Accuracy: 0.985
+	Training Client 36/60
+Epoch 1/1, Loss: 1.4922334719449282, Accuracy: 0.98
+	Training Client 37/60
+Epoch 1/1, Loss: 2.0223684853408486, Accuracy: 0.975
+	Training Client 38/60
+Epoch 1/1, Loss: 2.766524584265426, Accuracy: 0.973
+	Training Client 39/60
+Epoch 1/1, Loss: 1.6340329461963847, Accuracy: 0.98
+	Training Client 40/60
+Epoch 1/1, Loss: 2.3641075728228316, Accuracy: 0.978
+	Training Client 41/60
+Epoch 1/1, Loss: 2.4325568545609713, Accuracy: 0.978
+	Training Client 42/60
+Epoch 1/1, Loss: 13.877795942127705, Accuracy: 0.876
+	Training Client 43/60
+Epoch 1/1, Loss: 1.49414559523575, Accuracy: 0.983
+	Training Client 44/60
+Epoch 1/1, Loss: 4.429202866740525, Accuracy: 0.95
+	Training Client 45/60
+Epoch 1/1, Loss: 2.814118219539523, Accuracy: 0.973
+	Training Client 46/60
+Epoch 1/1, Loss: 2.7293473141035065, Accuracy: 0.972
+	Training Client 47/60
+Epoch 1/1, Loss: 2.4021512649487704, Accuracy: 0.977
+	Training Client 48/60
+Epoch 1/1, Loss: 2.5001238477416337, Accuracy: 0.979
+	Training Client 49/60
+Epoch 1/1, Loss: 2.0482576973736286, Accuracy: 0.981
+	Training Client 50/60
+Epoch 1/1, Loss: 3.2234984366223216, Accuracy: 0.973
+	Training Client 51/60
+Epoch 1/1, Loss: 2.587524830829352, Accuracy: 0.977
+	Training Client 52/60
+Epoch 1/1, Loss: 3.6928372578695416, Accuracy: 0.966
+	Training Client 53/60
+Epoch 1/1, Loss: 1.823390572797507, Accuracy: 0.983
+	Training Client 54/60
+Epoch 1/1, Loss: 2.605472099967301, Accuracy: 0.977
+	Training Client 55/60
+Epoch 1/1, Loss: 2.0406351776910014, Accuracy: 0.977
+	Training Client 56/60
+Epoch 1/1, Loss: 13.83442572504282, Accuracy: 0.862
+	Training Client 57/60
+Epoch 1/1, Loss: 2.4473316639196128, Accuracy: 0.977
+	Training Client 58/60
+Epoch 1/1, Loss: 3.502061342005618, Accuracy: 0.96
+	Training Client 59/60
+Epoch 1/1, Loss: 2.7096931823762134, Accuracy: 0.967
+	Training Client 60/60
+Epoch 1/1, Loss: 1.6150728791253641, Accuracy: 0.979
+Global Epoch 21, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 21, Client 4: False Drift Detected.
+Global Epoch 21, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 21, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 21, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 21, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 21, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 21, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 21, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 21, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 21, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 22/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.7553599898237735, Accuracy: 0.985
+	Training Client 2/60
+Epoch 1/1, Loss: 2.460835069534369, Accuracy: 0.974
+	Training Client 3/60
+Epoch 1/1, Loss: 17.384353011846542, Accuracy: 0.839
+	Training Client 4/60
+Epoch 1/1, Loss: 3.0519528628792614, Accuracy: 0.971
+	Training Client 5/60
+Epoch 1/1, Loss: 2.694869641243713, Accuracy: 0.978
+	Training Client 6/60
+Epoch 1/1, Loss: 2.2071555017028004, Accuracy: 0.978
+	Training Client 7/60
+Epoch 1/1, Loss: 15.91893084347248, Accuracy: 0.853
+	Training Client 8/60
+Epoch 1/1, Loss: 1.8659436760644894, Accuracy: 0.98
+	Training Client 9/60
+Epoch 1/1, Loss: 2.85206661792472, Accuracy: 0.973
+	Training Client 10/60
+Epoch 1/1, Loss: 16.820737697184086, Accuracy: 0.836
+	Training Client 11/60
+Epoch 1/1, Loss: 17.16282169520855, Accuracy: 0.849
+	Training Client 12/60
+Epoch 1/1, Loss: 4.6338136293925345, Accuracy: 0.951
+	Training Client 13/60
+Epoch 1/1, Loss: 1.5473641807911918, Accuracy: 0.983
+	Training Client 14/60
+Epoch 1/1, Loss: 18.718455508351326, Accuracy: 0.831
+	Training Client 15/60
+Epoch 1/1, Loss: 3.125889712595381, Accuracy: 0.957
+	Training Client 16/60
+Epoch 1/1, Loss: 17.092909313738346, Accuracy: 0.843
+	Training Client 17/60
+Epoch 1/1, Loss: 2.3201655203010887, Accuracy: 0.978
+	Training Client 18/60
+Epoch 1/1, Loss: 1.785225076135248, Accuracy: 0.98
+	Training Client 19/60
+Epoch 1/1, Loss: 17.565113693475723, Accuracy: 0.851
+	Training Client 20/60
+Epoch 1/1, Loss: 1.4843427398009226, Accuracy: 0.984
+	Training Client 21/60
+Epoch 1/1, Loss: 5.580433748662472, Accuracy: 0.943
+	Training Client 22/60
+Epoch 1/1, Loss: 3.357998338295147, Accuracy: 0.969
+	Training Client 23/60
+Epoch 1/1, Loss: 2.9892398605588824, Accuracy: 0.971
+	Training Client 24/60
+Epoch 1/1, Loss: 2.4667972915340215, Accuracy: 0.976
+	Training Client 25/60
+Epoch 1/1, Loss: 2.983717014314607, Accuracy: 0.972
+	Training Client 26/60
+Epoch 1/1, Loss: 2.2398909617913887, Accuracy: 0.982
+	Training Client 27/60
+Epoch 1/1, Loss: 2.040274093626067, Accuracy: 0.978
+	Training Client 28/60
+Epoch 1/1, Loss: 17.895596273243427, Accuracy: 0.834
+	Training Client 29/60
+Epoch 1/1, Loss: 1.57789180544205, Accuracy: 0.985
+	Training Client 30/60
+Epoch 1/1, Loss: 1.7753081478876993, Accuracy: 0.978
+	Training Client 31/60
+Epoch 1/1, Loss: 2.929875718720723, Accuracy: 0.966
+	Training Client 32/60
+Epoch 1/1, Loss: 1.4982362296432257, Accuracy: 0.985
+	Training Client 33/60
+Epoch 1/1, Loss: 2.555799109628424, Accuracy: 0.971
+	Training Client 34/60
+Epoch 1/1, Loss: 2.566252173332032, Accuracy: 0.977
+	Training Client 35/60
+Epoch 1/1, Loss: 1.6411082125268877, Accuracy: 0.985
+	Training Client 36/60
+Epoch 1/1, Loss: 2.2272221465827897, Accuracy: 0.98
+	Training Client 37/60
+Epoch 1/1, Loss: 1.891502425831277, Accuracy: 0.979
+	Training Client 38/60
+Epoch 1/1, Loss: 2.8463865821249783, Accuracy: 0.97
+	Training Client 39/60
+Epoch 1/1, Loss: 1.336754040850792, Accuracy: 0.986
+	Training Client 40/60
+Epoch 1/1, Loss: 2.1409444463206455, Accuracy: 0.981
+	Training Client 41/60
+Epoch 1/1, Loss: 2.5602563326247036, Accuracy: 0.977
+	Training Client 42/60
+Epoch 1/1, Loss: 14.585836425423622, Accuracy: 0.882
+	Training Client 43/60
+Epoch 1/1, Loss: 1.749029926257208, Accuracy: 0.983
+	Training Client 44/60
+Epoch 1/1, Loss: 4.643164248438552, Accuracy: 0.946
+	Training Client 45/60
+Epoch 1/1, Loss: 2.636160854366608, Accuracy: 0.974
+	Training Client 46/60
+Epoch 1/1, Loss: 2.3538534076942597, Accuracy: 0.977
+	Training Client 47/60
+Epoch 1/1, Loss: 2.1210479291621596, Accuracy: 0.977
+	Training Client 48/60
+Epoch 1/1, Loss: 2.5088002189295366, Accuracy: 0.983
+	Training Client 49/60
+Epoch 1/1, Loss: 2.1886651924578473, Accuracy: 0.978
+	Training Client 50/60
+Epoch 1/1, Loss: 3.4155979030765593, Accuracy: 0.973
+	Training Client 51/60
+Epoch 1/1, Loss: 2.482385287526995, Accuracy: 0.975
+	Training Client 52/60
+Epoch 1/1, Loss: 2.6355354733532295, Accuracy: 0.968
+	Training Client 53/60
+Epoch 1/1, Loss: 2.494579669786617, Accuracy: 0.977
+	Training Client 54/60
+Epoch 1/1, Loss: 2.6365904696285725, Accuracy: 0.981
+	Training Client 55/60
+Epoch 1/1, Loss: 1.8720701560378075, Accuracy: 0.981
+	Training Client 56/60
+Epoch 1/1, Loss: 15.543879609555006, Accuracy: 0.861
+	Training Client 57/60
+Epoch 1/1, Loss: 2.478593479609117, Accuracy: 0.98
+	Training Client 58/60
+Epoch 1/1, Loss: 3.450159096624702, Accuracy: 0.964
+	Training Client 59/60
+Epoch 1/1, Loss: 2.31061591161415, Accuracy: 0.982
+	Training Client 60/60
+Epoch 1/1, Loss: 1.522359718568623, Accuracy: 0.983
+Global Epoch 22, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 22, Client 4: False Drift Detected.
+Global Epoch 22, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 22, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 22, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 22, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 22, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 22, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 22, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 22, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 22, Client 56: True Drift Detected, Drift Type: Sudden .
+Global Epoch 22, Client 58: False Drift Detected.
+	Aggregating client models
+Global Epoch 23/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.7524656962486915, Accuracy: 0.983
+	Training Client 2/60
+Epoch 1/1, Loss: 2.3579610465094447, Accuracy: 0.976
+	Training Client 3/60
+Epoch 1/1, Loss: 25.375198036432266, Accuracy: 0.765
+	Training Client 4/60
+Epoch 1/1, Loss: 2.9436096290592104, Accuracy: 0.975
+	Training Client 5/60
+Epoch 1/1, Loss: 2.166656553570647, Accuracy: 0.983
+	Training Client 6/60
+Epoch 1/1, Loss: 1.9361783472122625, Accuracy: 0.979
+	Training Client 7/60
+Epoch 1/1, Loss: 23.15601496398449, Accuracy: 0.797
+	Training Client 8/60
+Epoch 1/1, Loss: 1.9574933289550245, Accuracy: 0.983
+	Training Client 9/60
+Epoch 1/1, Loss: 2.7276847229804844, Accuracy: 0.977
+	Training Client 10/60
+Epoch 1/1, Loss: 23.70772385597229, Accuracy: 0.79
+	Training Client 11/60
+Epoch 1/1, Loss: 15.119902968406677, Accuracy: 0.861
+	Training Client 12/60
+Epoch 1/1, Loss: 4.045538768172264, Accuracy: 0.954
+	Training Client 13/60
+Epoch 1/1, Loss: 1.5732690613949671, Accuracy: 0.98
+	Training Client 14/60
+Epoch 1/1, Loss: 24.36637269705534, Accuracy: 0.78
+	Training Client 15/60
+Epoch 1/1, Loss: 2.8288311800861266, Accuracy: 0.967
+	Training Client 16/60
+Epoch 1/1, Loss: 24.00102299451828, Accuracy: 0.781
+	Training Client 17/60
+Epoch 1/1, Loss: 2.4085074216709472, Accuracy: 0.975
+	Training Client 18/60
+Epoch 1/1, Loss: 1.5869860721286386, Accuracy: 0.984
+	Training Client 19/60
+Epoch 1/1, Loss: 18.34678053110838, Accuracy: 0.854
+	Training Client 20/60
+Epoch 1/1, Loss: 1.4978291610605083, Accuracy: 0.989
+	Training Client 21/60
+Epoch 1/1, Loss: 5.408364536706358, Accuracy: 0.945
+	Training Client 22/60
+Epoch 1/1, Loss: 2.558139702072367, Accuracy: 0.976
+	Training Client 23/60
+Epoch 1/1, Loss: 3.074108022963628, Accuracy: 0.97
+	Training Client 24/60
+Epoch 1/1, Loss: 2.059493363602087, Accuracy: 0.978
+	Training Client 25/60
+Epoch 1/1, Loss: 2.539983654860407, Accuracy: 0.975
+	Training Client 26/60
+Epoch 1/1, Loss: 2.3365152389742434, Accuracy: 0.982
+	Training Client 27/60
+Epoch 1/1, Loss: 1.845033262798097, Accuracy: 0.982
+	Training Client 28/60
+Epoch 1/1, Loss: 25.301734685897827, Accuracy: 0.78
+	Training Client 29/60
+Epoch 1/1, Loss: 1.6382174903992563, Accuracy: 0.981
+	Training Client 30/60
+Epoch 1/1, Loss: 2.0190661718370393, Accuracy: 0.979
+	Training Client 31/60
+Epoch 1/1, Loss: 2.9140592648182064, Accuracy: 0.967
+	Training Client 32/60
+Epoch 1/1, Loss: 1.8330135133583099, Accuracy: 0.981
+	Training Client 33/60
+Epoch 1/1, Loss: 2.4227067527535837, Accuracy: 0.979
+	Training Client 34/60
+Epoch 1/1, Loss: 2.0838833859888837, Accuracy: 0.976
+	Training Client 35/60
+Epoch 1/1, Loss: 1.7499684796202928, Accuracy: 0.984
+	Training Client 36/60
+Epoch 1/1, Loss: 1.881023169029504, Accuracy: 0.981
+	Training Client 37/60
+Epoch 1/1, Loss: 2.181259886943735, Accuracy: 0.982
+	Training Client 38/60
+Epoch 1/1, Loss: 2.987344194902107, Accuracy: 0.963
+	Training Client 39/60
+Epoch 1/1, Loss: 2.0053834629361518, Accuracy: 0.978
+	Training Client 40/60
+Epoch 1/1, Loss: 1.9978016652166843, Accuracy: 0.979
+	Training Client 41/60
+Epoch 1/1, Loss: 2.6712114019319415, Accuracy: 0.976
+	Training Client 42/60
+Epoch 1/1, Loss: 13.865342520177364, Accuracy: 0.886
+	Training Client 43/60
+Epoch 1/1, Loss: 1.6963943642331287, Accuracy: 0.982
+	Training Client 44/60
+Epoch 1/1, Loss: 4.377795297419652, Accuracy: 0.95
+	Training Client 45/60
+Epoch 1/1, Loss: 2.2153271852293983, Accuracy: 0.978
+	Training Client 46/60
+Epoch 1/1, Loss: 2.327727568903356, Accuracy: 0.974
+	Training Client 47/60
+Epoch 1/1, Loss: 2.1361975932959467, Accuracy: 0.98
+	Training Client 48/60
+Epoch 1/1, Loss: 2.3249370517442003, Accuracy: 0.983
+	Training Client 49/60
+Epoch 1/1, Loss: 1.8225931055203546, Accuracy: 0.981
+	Training Client 50/60
+Epoch 1/1, Loss: 3.532149733742699, Accuracy: 0.968
+	Training Client 51/60
+Epoch 1/1, Loss: 3.660060727619566, Accuracy: 0.973
+	Training Client 52/60
+Epoch 1/1, Loss: 4.119887118344195, Accuracy: 0.967
+	Training Client 53/60
+Epoch 1/1, Loss: 2.107925863005221, Accuracy: 0.977
+	Training Client 54/60
+Epoch 1/1, Loss: 2.7174399687719415, Accuracy: 0.974
+	Training Client 55/60
+Epoch 1/1, Loss: 1.6818327232613228, Accuracy: 0.986
+	Training Client 56/60
+Epoch 1/1, Loss: 14.58747173845768, Accuracy: 0.871
+	Training Client 57/60
+Epoch 1/1, Loss: 3.130362744210288, Accuracy: 0.977
+	Training Client 58/60
+Epoch 1/1, Loss: 2.9506882317364216, Accuracy: 0.964
+	Training Client 59/60
+Epoch 1/1, Loss: 2.575293709640391, Accuracy: 0.973
+	Training Client 60/60
+Epoch 1/1, Loss: 1.2081520278006792, Accuracy: 0.982
+Global Epoch 23, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 23, Client 4: False Drift Detected.
+Global Epoch 23, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 23, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 23, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 23, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 23, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 23, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 23, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 23, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 23, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 24/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.8529995817225426, Accuracy: 0.984
+	Training Client 2/60
+Epoch 1/1, Loss: 2.7373935675714165, Accuracy: 0.968
+	Training Client 3/60
+Epoch 1/1, Loss: 32.66600552201271, Accuracy: 0.701
+	Training Client 4/60
+Epoch 1/1, Loss: 3.0980561831966043, Accuracy: 0.966
+	Training Client 5/60
+Epoch 1/1, Loss: 2.094978839508258, Accuracy: 0.977
+	Training Client 6/60
+Epoch 1/1, Loss: 1.9539595117093995, Accuracy: 0.982
+	Training Client 7/60
+Epoch 1/1, Loss: 31.6806872934103, Accuracy: 0.715
+	Training Client 8/60
+Epoch 1/1, Loss: 1.9426426274585538, Accuracy: 0.985
+	Training Client 9/60
+Epoch 1/1, Loss: 3.146305116271833, Accuracy: 0.977
+	Training Client 10/60
+Epoch 1/1, Loss: 31.843270778656006, Accuracy: 0.733
+	Training Client 11/60
+Epoch 1/1, Loss: 15.62351569533348, Accuracy: 0.866
+	Training Client 12/60
+Epoch 1/1, Loss: 3.827787964240997, Accuracy: 0.948
+	Training Client 13/60
+Epoch 1/1, Loss: 1.362030879361555, Accuracy: 0.985
+	Training Client 14/60
+Epoch 1/1, Loss: 32.43064618110657, Accuracy: 0.709
+	Training Client 15/60
+Epoch 1/1, Loss: 2.7135405319859274, Accuracy: 0.965
+	Training Client 16/60
+Epoch 1/1, Loss: 28.937760218977928, Accuracy: 0.738
+	Training Client 17/60
+Epoch 1/1, Loss: 2.094178852858022, Accuracy: 0.984
+	Training Client 18/60
+Epoch 1/1, Loss: 1.3519394010072574, Accuracy: 0.988
+	Training Client 19/60
+Epoch 1/1, Loss: 15.528885189443827, Accuracy: 0.853
+	Training Client 20/60
+Epoch 1/1, Loss: 1.9388628182459797, Accuracy: 0.984
+	Training Client 21/60
+Epoch 1/1, Loss: 4.92120582703501, Accuracy: 0.957
+	Training Client 22/60
+Epoch 1/1, Loss: 2.4130321440752596, Accuracy: 0.974
+	Training Client 23/60
+Epoch 1/1, Loss: 2.925881712057162, Accuracy: 0.976
+	Training Client 24/60
+Epoch 1/1, Loss: 2.06164044723846, Accuracy: 0.985
+	Training Client 25/60
+Epoch 1/1, Loss: 2.770296775677707, Accuracy: 0.973
+	Training Client 26/60
+Epoch 1/1, Loss: 2.080408870242536, Accuracy: 0.98
+	Training Client 27/60
+Epoch 1/1, Loss: 1.8268976964754984, Accuracy: 0.982
+	Training Client 28/60
+Epoch 1/1, Loss: 35.16696786880493, Accuracy: 0.697
+	Training Client 29/60
+Epoch 1/1, Loss: 1.4875371254747733, Accuracy: 0.982
+	Training Client 30/60
+Epoch 1/1, Loss: 1.7644382417784072, Accuracy: 0.981
+	Training Client 31/60
+Epoch 1/1, Loss: 2.584833547938615, Accuracy: 0.971
+	Training Client 32/60
+Epoch 1/1, Loss: 1.72507429739926, Accuracy: 0.98
+	Training Client 33/60
+Epoch 1/1, Loss: 1.972733658971265, Accuracy: 0.981
+	Training Client 34/60
+Epoch 1/1, Loss: 1.7647900654701516, Accuracy: 0.979
+	Training Client 35/60
+Epoch 1/1, Loss: 1.4462777827684477, Accuracy: 0.986
+	Training Client 36/60
+Epoch 1/1, Loss: 1.7523189952626126, Accuracy: 0.983
+	Training Client 37/60
+Epoch 1/1, Loss: 2.289996490580961, Accuracy: 0.974
+	Training Client 38/60
+Epoch 1/1, Loss: 2.7318922905251384, Accuracy: 0.978
+	Training Client 39/60
+Epoch 1/1, Loss: 1.673227819846943, Accuracy: 0.98
+	Training Client 40/60
+Epoch 1/1, Loss: 1.8543891723966226, Accuracy: 0.979
+	Training Client 41/60
+Epoch 1/1, Loss: 1.7866248541977257, Accuracy: 0.983
+	Training Client 42/60
+Epoch 1/1, Loss: 15.007536388933659, Accuracy: 0.869
+	Training Client 43/60
+Epoch 1/1, Loss: 1.403861926868558, Accuracy: 0.985
+	Training Client 44/60
+Epoch 1/1, Loss: 4.011655288981274, Accuracy: 0.956
+	Training Client 45/60
+Epoch 1/1, Loss: 2.3469835851574317, Accuracy: 0.973
+	Training Client 46/60
+Epoch 1/1, Loss: 1.9826961054932326, Accuracy: 0.979
+	Training Client 47/60
+Epoch 1/1, Loss: 2.159522849251516, Accuracy: 0.976
+	Training Client 48/60
+Epoch 1/1, Loss: 2.500758811846026, Accuracy: 0.983
+	Training Client 49/60
+Epoch 1/1, Loss: 2.0160270215710625, Accuracy: 0.988
+	Training Client 50/60
+Epoch 1/1, Loss: 3.098239394486882, Accuracy: 0.971
+	Training Client 51/60
+Epoch 1/1, Loss: 2.356079666642472, Accuracy: 0.976
+	Training Client 52/60
+Epoch 1/1, Loss: 3.359908858081326, Accuracy: 0.97
+	Training Client 53/60
+Epoch 1/1, Loss: 2.3518181398976594, Accuracy: 0.976
+	Training Client 54/60
+Epoch 1/1, Loss: 2.5842637390014715, Accuracy: 0.975
+	Training Client 55/60
+Epoch 1/1, Loss: 1.9918643397977576, Accuracy: 0.985
+	Training Client 56/60
+Epoch 1/1, Loss: 13.899374574422836, Accuracy: 0.873
+	Training Client 57/60
+Epoch 1/1, Loss: 2.634546160697937, Accuracy: 0.983
+	Training Client 58/60
+Epoch 1/1, Loss: 3.212330134003423, Accuracy: 0.965
+	Training Client 59/60
+Epoch 1/1, Loss: 2.2653807625174522, Accuracy: 0.977
+	Training Client 60/60
+Epoch 1/1, Loss: 1.3711454371223226, Accuracy: 0.985
+Global Epoch 24, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 24, Client 4: False Drift Detected.
+Global Epoch 24, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 24, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 24, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 24, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 24, Client 15: False Drift Detected.
+Global Epoch 24, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 24, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 24, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 24, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 24, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 25/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.6985239670029841, Accuracy: 0.983
+	Training Client 2/60
+Epoch 1/1, Loss: 2.5038421909557655, Accuracy: 0.983
+	Training Client 3/60
+Epoch 1/1, Loss: 45.11934286355972, Accuracy: 0.59
+	Training Client 4/60
+Epoch 1/1, Loss: 2.981591483578086, Accuracy: 0.968
+	Training Client 5/60
+Epoch 1/1, Loss: 2.1381333904573694, Accuracy: 0.981
+	Training Client 6/60
+Epoch 1/1, Loss: 2.055834913466242, Accuracy: 0.986
+	Training Client 7/60
+Epoch 1/1, Loss: 38.48846583068371, Accuracy: 0.661
+	Training Client 8/60
+Epoch 1/1, Loss: 1.5417893629637547, Accuracy: 0.987
+	Training Client 9/60
+Epoch 1/1, Loss: 2.9907620513113216, Accuracy: 0.975
+	Training Client 10/60
+Epoch 1/1, Loss: 40.13941544294357, Accuracy: 0.662
+	Training Client 11/60
+Epoch 1/1, Loss: 17.454738713800907, Accuracy: 0.865
+	Training Client 12/60
+Epoch 1/1, Loss: 4.510042762383819, Accuracy: 0.948
+	Training Client 13/60
+Epoch 1/1, Loss: 1.2368342555419076, Accuracy: 0.986
+	Training Client 14/60
+Epoch 1/1, Loss: 38.08154672384262, Accuracy: 0.648
+	Training Client 15/60
+Epoch 1/1, Loss: 3.0987623763503507, Accuracy: 0.96
+	Training Client 16/60
+Epoch 1/1, Loss: 39.19843354821205, Accuracy: 0.635
+	Training Client 17/60
+Epoch 1/1, Loss: 2.3160412302822806, Accuracy: 0.981
+	Training Client 18/60
+Epoch 1/1, Loss: 1.6622188708861358, Accuracy: 0.986
+	Training Client 19/60
+Epoch 1/1, Loss: 17.07890002988279, Accuracy: 0.848
+	Training Client 20/60
+Epoch 1/1, Loss: 1.9898341148509644, Accuracy: 0.984
+	Training Client 21/60
+Epoch 1/1, Loss: 5.323177069891244, Accuracy: 0.942
+	Training Client 22/60
+Epoch 1/1, Loss: 2.348414376960136, Accuracy: 0.973
+	Training Client 23/60
+Epoch 1/1, Loss: 2.985463577322662, Accuracy: 0.973
+	Training Client 24/60
+Epoch 1/1, Loss: 2.660182128660381, Accuracy: 0.975
+	Training Client 25/60
+Epoch 1/1, Loss: 2.9620763356797397, Accuracy: 0.968
+	Training Client 26/60
+Epoch 1/1, Loss: 2.0768270761473104, Accuracy: 0.979
+	Training Client 27/60
+Epoch 1/1, Loss: 1.9007127192162443, Accuracy: 0.983
+	Training Client 28/60
+Epoch 1/1, Loss: 39.879441022872925, Accuracy: 0.64
+	Training Client 29/60
+Epoch 1/1, Loss: 2.128047835198231, Accuracy: 0.98
+	Training Client 30/60
+Epoch 1/1, Loss: 2.4920978251320776, Accuracy: 0.976
+	Training Client 31/60
+Epoch 1/1, Loss: 2.980366419069469, Accuracy: 0.969
+	Training Client 32/60
+Epoch 1/1, Loss: 1.7557531092315912, Accuracy: 0.981
+	Training Client 33/60
+Epoch 1/1, Loss: 3.2740765451453626, Accuracy: 0.98
+	Training Client 34/60
+Epoch 1/1, Loss: 1.870782734666136, Accuracy: 0.974
+	Training Client 35/60
+Epoch 1/1, Loss: 1.5439552767784335, Accuracy: 0.989
+	Training Client 36/60
+Epoch 1/1, Loss: 1.619840034400113, Accuracy: 0.984
+	Training Client 37/60
+Epoch 1/1, Loss: 2.082485951250419, Accuracy: 0.98
+	Training Client 38/60
+Epoch 1/1, Loss: 2.9342510423157364, Accuracy: 0.975
+	Training Client 39/60
+Epoch 1/1, Loss: 1.4249733907345217, Accuracy: 0.983
+	Training Client 40/60
+Epoch 1/1, Loss: 2.123753266001586, Accuracy: 0.977
+	Training Client 41/60
+Epoch 1/1, Loss: 2.0674459864094388, Accuracy: 0.979
+	Training Client 42/60
+Epoch 1/1, Loss: 15.27238866686821, Accuracy: 0.868
+	Training Client 43/60
+Epoch 1/1, Loss: 1.7277972861775197, Accuracy: 0.983
+	Training Client 44/60
+Epoch 1/1, Loss: 4.722459283424541, Accuracy: 0.945
+	Training Client 45/60
+Epoch 1/1, Loss: 2.2859728905023076, Accuracy: 0.978
+	Training Client 46/60
+Epoch 1/1, Loss: 2.1212654978735372, Accuracy: 0.978
+	Training Client 47/60
+Epoch 1/1, Loss: 2.150026211704244, Accuracy: 0.979
+	Training Client 48/60
+Epoch 1/1, Loss: 2.2685495398472995, Accuracy: 0.981
+	Training Client 49/60
+Epoch 1/1, Loss: 1.9210288659669459, Accuracy: 0.987
+	Training Client 50/60
+Epoch 1/1, Loss: 3.094022571516689, Accuracy: 0.976
+	Training Client 51/60
+Epoch 1/1, Loss: 2.220209575491026, Accuracy: 0.979
+	Training Client 52/60
+Epoch 1/1, Loss: 3.352820906206034, Accuracy: 0.964
+	Training Client 53/60
+Epoch 1/1, Loss: 2.467045832425356, Accuracy: 0.971
+	Training Client 54/60
+Epoch 1/1, Loss: 2.735197850270197, Accuracy: 0.98
+	Training Client 55/60
+Epoch 1/1, Loss: 1.3713568095699884, Accuracy: 0.986
+	Training Client 56/60
+Epoch 1/1, Loss: 15.083237931132317, Accuracy: 0.871
+	Training Client 57/60
+Epoch 1/1, Loss: 2.1261216771090403, Accuracy: 0.983
+	Training Client 58/60
+Epoch 1/1, Loss: 3.3670534786069766, Accuracy: 0.958
+	Training Client 59/60
+Epoch 1/1, Loss: 2.131182749988511, Accuracy: 0.978
+	Training Client 60/60
+Epoch 1/1, Loss: 1.4753528633737005, Accuracy: 0.983
+Global Epoch 25, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 25, Client 4: False Drift Detected.
+Global Epoch 25, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 25, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 25, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 25, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 25, Client 15: False Drift Detected.
+Global Epoch 25, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 25, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 25, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 25, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 25, Client 44: False Drift Detected.
+Global Epoch 25, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 26/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.7890601489925757, Accuracy: 0.981
+	Training Client 2/60
+Epoch 1/1, Loss: 3.4300986679736525, Accuracy: 0.977
+	Training Client 3/60
+Epoch 1/1, Loss: 49.26700276136398, Accuracy: 0.561
+	Training Client 4/60
+Epoch 1/1, Loss: 3.097204938530922, Accuracy: 0.965
+	Training Client 5/60
+Epoch 1/1, Loss: 2.1762849140213802, Accuracy: 0.98
+	Training Client 6/60
+Epoch 1/1, Loss: 2.524200830142945, Accuracy: 0.972
+	Training Client 7/60
+Epoch 1/1, Loss: 45.94318211078644, Accuracy: 0.596
+	Training Client 8/60
+Epoch 1/1, Loss: 1.753701901237946, Accuracy: 0.988
+	Training Client 9/60
+Epoch 1/1, Loss: 3.0921861951355822, Accuracy: 0.974
+	Training Client 10/60
+Epoch 1/1, Loss: 46.53369891643524, Accuracy: 0.59
+	Training Client 11/60
+Epoch 1/1, Loss: 18.58648670464754, Accuracy: 0.83
+	Training Client 12/60
+Epoch 1/1, Loss: 4.380298065720126, Accuracy: 0.943
+	Training Client 13/60
+Epoch 1/1, Loss: 1.5549497117754072, Accuracy: 0.987
+	Training Client 14/60
+Epoch 1/1, Loss: 46.62936067581177, Accuracy: 0.587
+	Training Client 15/60
+Epoch 1/1, Loss: 3.3693918203935027, Accuracy: 0.968
+	Training Client 16/60
+Epoch 1/1, Loss: 46.472635209560394, Accuracy: 0.589
+	Training Client 17/60
+Epoch 1/1, Loss: 2.326565109193325, Accuracy: 0.981
+	Training Client 18/60
+Epoch 1/1, Loss: 1.5094167533097789, Accuracy: 0.987
+	Training Client 19/60
+Epoch 1/1, Loss: 17.518821239471436, Accuracy: 0.86
+	Training Client 20/60
+Epoch 1/1, Loss: 1.3906702903914265, Accuracy: 0.987
+	Training Client 21/60
+Epoch 1/1, Loss: 5.563090342795476, Accuracy: 0.944
+	Training Client 22/60
+Epoch 1/1, Loss: 2.8196167033165693, Accuracy: 0.978
+	Training Client 23/60
+Epoch 1/1, Loss: 2.940749416826293, Accuracy: 0.971
+	Training Client 24/60
+Epoch 1/1, Loss: 2.145343173237052, Accuracy: 0.98
+	Training Client 25/60
+Epoch 1/1, Loss: 2.276942845695885, Accuracy: 0.982
+	Training Client 26/60
+Epoch 1/1, Loss: 2.210544606903568, Accuracy: 0.977
+	Training Client 27/60
+Epoch 1/1, Loss: 2.0496001196443103, Accuracy: 0.983
+	Training Client 28/60
+Epoch 1/1, Loss: 45.546954452991486, Accuracy: 0.598
+	Training Client 29/60
+Epoch 1/1, Loss: 1.823749786010012, Accuracy: 0.984
+	Training Client 30/60
+Epoch 1/1, Loss: 2.087100951874163, Accuracy: 0.98
+	Training Client 31/60
+Epoch 1/1, Loss: 2.836249810468871, Accuracy: 0.964
+	Training Client 32/60
+Epoch 1/1, Loss: 1.6678299449267797, Accuracy: 0.982
+	Training Client 33/60
+Epoch 1/1, Loss: 2.1563782712910324, Accuracy: 0.979
+	Training Client 34/60
+Epoch 1/1, Loss: 1.833925671846373, Accuracy: 0.982
+	Training Client 35/60
+Epoch 1/1, Loss: 1.8025714439427247, Accuracy: 0.987
+	Training Client 36/60
+Epoch 1/1, Loss: 1.5730331617232878, Accuracy: 0.982
+	Training Client 37/60
+Epoch 1/1, Loss: 1.8845873678801581, Accuracy: 0.982
+	Training Client 38/60
+Epoch 1/1, Loss: 2.7100135749205947, Accuracy: 0.972
+	Training Client 39/60
+Epoch 1/1, Loss: 1.7295922385237645, Accuracy: 0.983
+	Training Client 40/60
+Epoch 1/1, Loss: 1.8437372394255362, Accuracy: 0.976
+	Training Client 41/60
+Epoch 1/1, Loss: 2.2156618094304577, Accuracy: 0.975
+	Training Client 42/60
+Epoch 1/1, Loss: 15.24903815984726, Accuracy: 0.89
+	Training Client 43/60
+Epoch 1/1, Loss: 1.4428165003773756, Accuracy: 0.983
+	Training Client 44/60
+Epoch 1/1, Loss: 3.938908088253811, Accuracy: 0.953
+	Training Client 45/60
+Epoch 1/1, Loss: 2.4935337400529534, Accuracy: 0.978
+	Training Client 46/60
+Epoch 1/1, Loss: 1.9477073598536663, Accuracy: 0.981
+	Training Client 47/60
+Epoch 1/1, Loss: 1.9317655280174222, Accuracy: 0.983
+	Training Client 48/60
+Epoch 1/1, Loss: 2.5334460558951832, Accuracy: 0.983
+	Training Client 49/60
+Epoch 1/1, Loss: 1.7309346316033043, Accuracy: 0.983
+	Training Client 50/60
+Epoch 1/1, Loss: 2.8253688850963954, Accuracy: 0.977
+	Training Client 51/60
+Epoch 1/1, Loss: 2.6009329655207694, Accuracy: 0.975
+	Training Client 52/60
+Epoch 1/1, Loss: 2.739465375430882, Accuracy: 0.972
+	Training Client 53/60
+Epoch 1/1, Loss: 2.0079296154144686, Accuracy: 0.976
+	Training Client 54/60
+Epoch 1/1, Loss: 2.6025904291309416, Accuracy: 0.978
+	Training Client 55/60
+Epoch 1/1, Loss: 1.9097548219142482, Accuracy: 0.981
+	Training Client 56/60
+Epoch 1/1, Loss: 12.339786529541016, Accuracy: 0.873
+	Training Client 57/60
+Epoch 1/1, Loss: 2.4922845070250332, Accuracy: 0.983
+	Training Client 58/60
+Epoch 1/1, Loss: 3.366924960660981, Accuracy: 0.967
+	Training Client 59/60
+Epoch 1/1, Loss: 1.9740830129012465, Accuracy: 0.979
+	Training Client 60/60
+Epoch 1/1, Loss: 1.391164499509614, Accuracy: 0.985
+Global Epoch 26, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 26, Client 4: False Drift Detected.
+Global Epoch 26, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 26, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 26, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 26, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 26, Client 15: False Drift Detected.
+Global Epoch 26, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 26, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 26, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 26, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 26, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 27/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.831055102054961, Accuracy: 0.983
+	Training Client 2/60
+Epoch 1/1, Loss: 2.3050105994334444, Accuracy: 0.979
+	Training Client 3/60
+Epoch 1/1, Loss: 47.65803351998329, Accuracy: 0.559
+	Training Client 4/60
+Epoch 1/1, Loss: 2.982160130981356, Accuracy: 0.969
+	Training Client 5/60
+Epoch 1/1, Loss: 2.4065009200421628, Accuracy: 0.98
+	Training Client 6/60
+Epoch 1/1, Loss: 1.9854418656323105, Accuracy: 0.983
+	Training Client 7/60
+Epoch 1/1, Loss: 50.611341536045074, Accuracy: 0.549
+	Training Client 8/60
+Epoch 1/1, Loss: 1.7614432235714048, Accuracy: 0.981
+	Training Client 9/60
+Epoch 1/1, Loss: 2.4381447411724366, Accuracy: 0.979
+	Training Client 10/60
+Epoch 1/1, Loss: 53.58269888162613, Accuracy: 0.523
+	Training Client 11/60
+Epoch 1/1, Loss: 16.65340466797352, Accuracy: 0.844
+	Training Client 12/60
+Epoch 1/1, Loss: 4.122277346206829, Accuracy: 0.94
+	Training Client 13/60
+Epoch 1/1, Loss: 1.1301525515445974, Accuracy: 0.986
+	Training Client 14/60
+Epoch 1/1, Loss: 49.420528411865234, Accuracy: 0.565
+	Training Client 15/60
+Epoch 1/1, Loss: 3.0550902866525576, Accuracy: 0.961
+	Training Client 16/60
+Epoch 1/1, Loss: 53.954409807920456, Accuracy: 0.527
+	Training Client 17/60
+Epoch 1/1, Loss: 2.423286394448951, Accuracy: 0.979
+	Training Client 18/60
+Epoch 1/1, Loss: 1.3430258264997974, Accuracy: 0.986
+	Training Client 19/60
+Epoch 1/1, Loss: 15.472537212073803, Accuracy: 0.865
+	Training Client 20/60
+Epoch 1/1, Loss: 1.3319307602650952, Accuracy: 0.984
+	Training Client 21/60
+Epoch 1/1, Loss: 4.840991357341409, Accuracy: 0.951
+	Training Client 22/60
+Epoch 1/1, Loss: 2.387108657450881, Accuracy: 0.981
+	Training Client 23/60
+Epoch 1/1, Loss: 3.0393893196014687, Accuracy: 0.976
+	Training Client 24/60
+Epoch 1/1, Loss: 2.0987540448550135, Accuracy: 0.978
+	Training Client 25/60
+Epoch 1/1, Loss: 3.3947040516650304, Accuracy: 0.981
+	Training Client 26/60
+Epoch 1/1, Loss: 1.779919165011961, Accuracy: 0.984
+	Training Client 27/60
+Epoch 1/1, Loss: 1.8088924189796671, Accuracy: 0.985
+	Training Client 28/60
+Epoch 1/1, Loss: 52.70585238933563, Accuracy: 0.537
+	Training Client 29/60
+Epoch 1/1, Loss: 1.980086196679622, Accuracy: 0.979
+	Training Client 30/60
+Epoch 1/1, Loss: 1.9548432999290526, Accuracy: 0.98
+	Training Client 31/60
+Epoch 1/1, Loss: 2.7218813565559685, Accuracy: 0.968
+	Training Client 32/60
+Epoch 1/1, Loss: 1.4632905374164693, Accuracy: 0.986
+	Training Client 33/60
+Epoch 1/1, Loss: 2.1569644942646846, Accuracy: 0.973
+	Training Client 34/60
+Epoch 1/1, Loss: 1.4774841864127666, Accuracy: 0.981
+	Training Client 35/60
+Epoch 1/1, Loss: 1.3320631176466122, Accuracy: 0.988
+	Training Client 36/60
+Epoch 1/1, Loss: 1.3010662926826626, Accuracy: 0.986
+	Training Client 37/60
+Epoch 1/1, Loss: 2.0748125165700912, Accuracy: 0.982
+	Training Client 38/60
+Epoch 1/1, Loss: 2.491570991463959, Accuracy: 0.975
+	Training Client 39/60
+Epoch 1/1, Loss: 1.5178240075638314, Accuracy: 0.984
+	Training Client 40/60
+Epoch 1/1, Loss: 2.2648881699424237, Accuracy: 0.977
+	Training Client 41/60
+Epoch 1/1, Loss: 1.8371092103188857, Accuracy: 0.983
+	Training Client 42/60
+Epoch 1/1, Loss: 14.598979864269495, Accuracy: 0.887
+	Training Client 43/60
+Epoch 1/1, Loss: 1.3825847205007449, Accuracy: 0.987
+	Training Client 44/60
+Epoch 1/1, Loss: 4.093016599421389, Accuracy: 0.948
+	Training Client 45/60
+Epoch 1/1, Loss: 1.9230471244081855, Accuracy: 0.984
+	Training Client 46/60
+Epoch 1/1, Loss: 1.8640585843240842, Accuracy: 0.982
+	Training Client 47/60
+Epoch 1/1, Loss: 1.91143686149735, Accuracy: 0.986
+	Training Client 48/60
+Epoch 1/1, Loss: 2.1935790687566623, Accuracy: 0.982
+	Training Client 49/60
+Epoch 1/1, Loss: 1.9406648735457566, Accuracy: 0.982
+	Training Client 50/60
+Epoch 1/1, Loss: 2.989814276341349, Accuracy: 0.975
+	Training Client 51/60
+Epoch 1/1, Loss: 2.6512927649891935, Accuracy: 0.977
+	Training Client 52/60
+Epoch 1/1, Loss: 3.1385084171779454, Accuracy: 0.969
+	Training Client 53/60
+Epoch 1/1, Loss: 2.3355534601723775, Accuracy: 0.98
+	Training Client 54/60
+Epoch 1/1, Loss: 2.55329304211773, Accuracy: 0.978
+	Training Client 55/60
+Epoch 1/1, Loss: 1.4250850358512253, Accuracy: 0.984
+	Training Client 56/60
+Epoch 1/1, Loss: 14.487234570086002, Accuracy: 0.879
+	Training Client 57/60
+Epoch 1/1, Loss: 2.3375975051894784, Accuracy: 0.981
+	Training Client 58/60
+Epoch 1/1, Loss: 3.1089095930801705, Accuracy: 0.96
+	Training Client 59/60
+Epoch 1/1, Loss: 2.1497599242720753, Accuracy: 0.977
+	Training Client 60/60
+Epoch 1/1, Loss: 1.817591249360703, Accuracy: 0.98
+Global Epoch 27, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 27, Client 4: False Drift Detected.
+Global Epoch 27, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 27, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 27, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 27, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 27, Client 15: False Drift Detected.
+Global Epoch 27, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 27, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 27, Client 25: False Drift Detected.
+Global Epoch 27, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 27, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 27, Client 44: False Drift Detected.
+Global Epoch 27, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 28/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.6074613535311073, Accuracy: 0.987
+	Training Client 2/60
+Epoch 1/1, Loss: 3.3232589534600265, Accuracy: 0.977
+	Training Client 3/60
+Epoch 1/1, Loss: 51.12714123725891, Accuracy: 0.561
+	Training Client 4/60
+Epoch 1/1, Loss: 2.8522542777936906, Accuracy: 0.974
+	Training Client 5/60
+Epoch 1/1, Loss: 2.384919236821588, Accuracy: 0.977
+	Training Client 6/60
+Epoch 1/1, Loss: 2.309741010540165, Accuracy: 0.975
+	Training Client 7/60
+Epoch 1/1, Loss: 51.90517121553421, Accuracy: 0.532
+	Training Client 8/60
+Epoch 1/1, Loss: 1.8456966273952276, Accuracy: 0.986
+	Training Client 9/60
+Epoch 1/1, Loss: 2.982617799556465, Accuracy: 0.972
+	Training Client 10/60
+Epoch 1/1, Loss: 51.82416790723801, Accuracy: 0.539
+	Training Client 11/60
+Epoch 1/1, Loss: 15.805973462760448, Accuracy: 0.86
+	Training Client 12/60
+Epoch 1/1, Loss: 4.258450265973806, Accuracy: 0.952
+	Training Client 13/60
+Epoch 1/1, Loss: 1.3364928211813094, Accuracy: 0.985
+	Training Client 14/60
+Epoch 1/1, Loss: 53.156856298446655, Accuracy: 0.529
+	Training Client 15/60
+Epoch 1/1, Loss: 2.513772515754681, Accuracy: 0.968
+	Training Client 16/60
+Epoch 1/1, Loss: 55.39695030450821, Accuracy: 0.529
+	Training Client 17/60
+Epoch 1/1, Loss: 2.353375065140426, Accuracy: 0.979
+	Training Client 18/60
+Epoch 1/1, Loss: 1.1854133095257566, Accuracy: 0.987
+	Training Client 19/60
+Epoch 1/1, Loss: 13.99308829009533, Accuracy: 0.867
+	Training Client 20/60
+Epoch 1/1, Loss: 1.3382208972470835, Accuracy: 0.986
+	Training Client 21/60
+Epoch 1/1, Loss: 4.774450438562781, Accuracy: 0.954
+	Training Client 22/60
+Epoch 1/1, Loss: 1.924766007810831, Accuracy: 0.98
+	Training Client 23/60
+Epoch 1/1, Loss: 2.654540599323809, Accuracy: 0.972
+	Training Client 24/60
+Epoch 1/1, Loss: 1.9389692833647132, Accuracy: 0.985
+	Training Client 25/60
+Epoch 1/1, Loss: 2.4138791442965157, Accuracy: 0.977
+	Training Client 26/60
+Epoch 1/1, Loss: 1.9535186706343666, Accuracy: 0.987
+	Training Client 27/60
+Epoch 1/1, Loss: 2.369699576549465, Accuracy: 0.98
+	Training Client 28/60
+Epoch 1/1, Loss: 53.21956330537796, Accuracy: 0.536
+	Training Client 29/60
+Epoch 1/1, Loss: 1.5835537004750222, Accuracy: 0.985
+	Training Client 30/60
+Epoch 1/1, Loss: 1.992134747637465, Accuracy: 0.982
+	Training Client 31/60
+Epoch 1/1, Loss: 2.703274832223542, Accuracy: 0.969
+	Training Client 32/60
+Epoch 1/1, Loss: 1.53349846979836, Accuracy: 0.984
+	Training Client 33/60
+Epoch 1/1, Loss: 2.2282753322506323, Accuracy: 0.978
+	Training Client 34/60
+Epoch 1/1, Loss: 1.8244337881915271, Accuracy: 0.984
+	Training Client 35/60
+Epoch 1/1, Loss: 1.1234926891047508, Accuracy: 0.991
+	Training Client 36/60
+Epoch 1/1, Loss: 1.7562663911376148, Accuracy: 0.982
+	Training Client 37/60
+Epoch 1/1, Loss: 1.7641562252538279, Accuracy: 0.98
+	Training Client 38/60
+Epoch 1/1, Loss: 2.128297279065009, Accuracy: 0.975
+	Training Client 39/60
+Epoch 1/1, Loss: 1.2957547427504323, Accuracy: 0.988
+	Training Client 40/60
+Epoch 1/1, Loss: 1.9396008908224758, Accuracy: 0.982
+	Training Client 41/60
+Epoch 1/1, Loss: 1.9191237832419574, Accuracy: 0.982
+	Training Client 42/60
+Epoch 1/1, Loss: 15.815548361511901, Accuracy: 0.88
+	Training Client 43/60
+Epoch 1/1, Loss: 1.2314674339140765, Accuracy: 0.988
+	Training Client 44/60
+Epoch 1/1, Loss: 4.263944388832897, Accuracy: 0.948
+	Training Client 45/60
+Epoch 1/1, Loss: 3.066514589707367, Accuracy: 0.971
+	Training Client 46/60
+Epoch 1/1, Loss: 1.771796154906042, Accuracy: 0.981
+	Training Client 47/60
+Epoch 1/1, Loss: 2.074019114021212, Accuracy: 0.982
+	Training Client 48/60
+Epoch 1/1, Loss: 2.100729494501138, Accuracy: 0.986
+	Training Client 49/60
+Epoch 1/1, Loss: 1.8922608665452572, Accuracy: 0.985
+	Training Client 50/60
+Epoch 1/1, Loss: 2.9980616668472067, Accuracy: 0.975
+	Training Client 51/60
+Epoch 1/1, Loss: 1.990812553660362, Accuracy: 0.981
+	Training Client 52/60
+Epoch 1/1, Loss: 3.1103933036793023, Accuracy: 0.965
+	Training Client 53/60
+Epoch 1/1, Loss: 1.7895859377458692, Accuracy: 0.982
+	Training Client 54/60
+Epoch 1/1, Loss: 2.405923475045711, Accuracy: 0.98
+	Training Client 55/60
+Epoch 1/1, Loss: 1.2921400733757764, Accuracy: 0.987
+	Training Client 56/60
+Epoch 1/1, Loss: 15.667625166475773, Accuracy: 0.877
+	Training Client 57/60
+Epoch 1/1, Loss: 2.4061516117071733, Accuracy: 0.983
+	Training Client 58/60
+Epoch 1/1, Loss: 3.203379590646364, Accuracy: 0.954
+	Training Client 59/60
+Epoch 1/1, Loss: 2.6038693180307746, Accuracy: 0.971
+	Training Client 60/60
+Epoch 1/1, Loss: 1.523733710637316, Accuracy: 0.988
+Global Epoch 28, Client 2: False Drift Detected.
+Global Epoch 28, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 28, Client 4: False Drift Detected.
+Global Epoch 28, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 28, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 28, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 28, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 28, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 28, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 28, Client 27: False Drift Detected.
+Global Epoch 28, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 28, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 28, Client 44: False Drift Detected.
+Global Epoch 28, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 29/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.4934602457797155, Accuracy: 0.987
+	Training Client 2/60
+Epoch 1/1, Loss: 2.86214499612106, Accuracy: 0.974
+	Training Client 3/60
+Epoch 1/1, Loss: 57.80205726623535, Accuracy: 0.483
+	Training Client 4/60
+Epoch 1/1, Loss: 2.902744436636567, Accuracy: 0.966
+	Training Client 5/60
+Epoch 1/1, Loss: 1.851057962863706, Accuracy: 0.982
+	Training Client 6/60
+Epoch 1/1, Loss: 2.0908284343313426, Accuracy: 0.983
+	Training Client 7/60
+Epoch 1/1, Loss: 55.61544293165207, Accuracy: 0.49
+	Training Client 8/60
+Epoch 1/1, Loss: 1.359136245911941, Accuracy: 0.987
+	Training Client 9/60
+Epoch 1/1, Loss: 2.5843601332162507, Accuracy: 0.979
+	Training Client 10/60
+Epoch 1/1, Loss: 56.06531900167465, Accuracy: 0.487
+	Training Client 11/60
+Epoch 1/1, Loss: 15.299196355044842, Accuracy: 0.847
+	Training Client 12/60
+Epoch 1/1, Loss: 4.155502696870826, Accuracy: 0.959
+	Training Client 13/60
+Epoch 1/1, Loss: 1.2534009306764347, Accuracy: 0.986
+	Training Client 14/60
+Epoch 1/1, Loss: 57.137660562992096, Accuracy: 0.504
+	Training Client 15/60
+Epoch 1/1, Loss: 2.5104233948513865, Accuracy: 0.972
+	Training Client 16/60
+Epoch 1/1, Loss: 55.63036906719208, Accuracy: 0.508
+	Training Client 17/60
+Epoch 1/1, Loss: 2.4646810948470375, Accuracy: 0.982
+	Training Client 18/60
+Epoch 1/1, Loss: 1.3509096205234528, Accuracy: 0.987
+	Training Client 19/60
+Epoch 1/1, Loss: 19.13517488539219, Accuracy: 0.86
+	Training Client 20/60
+Epoch 1/1, Loss: 1.2378513247240335, Accuracy: 0.988
+	Training Client 21/60
+Epoch 1/1, Loss: 5.126552722416818, Accuracy: 0.957
+	Training Client 22/60
+Epoch 1/1, Loss: 2.3067395279649645, Accuracy: 0.976
+	Training Client 23/60
+Epoch 1/1, Loss: 2.7164734806865454, Accuracy: 0.977
+	Training Client 24/60
+Epoch 1/1, Loss: 1.9593636556528509, Accuracy: 0.983
+	Training Client 25/60
+Epoch 1/1, Loss: 2.2901094297412783, Accuracy: 0.98
+	Training Client 26/60
+Epoch 1/1, Loss: 1.5652383791166358, Accuracy: 0.985
+	Training Client 27/60
+Epoch 1/1, Loss: 1.6841660869831685, Accuracy: 0.984
+	Training Client 28/60
+Epoch 1/1, Loss: 55.543187379837036, Accuracy: 0.509
+	Training Client 29/60
+Epoch 1/1, Loss: 1.6804002387216315, Accuracy: 0.981
+	Training Client 30/60
+Epoch 1/1, Loss: 2.105506995896576, Accuracy: 0.981
+	Training Client 31/60
+Epoch 1/1, Loss: 2.941704906639643, Accuracy: 0.972
+	Training Client 32/60
+Epoch 1/1, Loss: 1.5965798182878643, Accuracy: 0.981
+	Training Client 33/60
+Epoch 1/1, Loss: 2.1295482937712222, Accuracy: 0.98
+	Training Client 34/60
+Epoch 1/1, Loss: 1.4093758350645658, Accuracy: 0.981
+	Training Client 35/60
+Epoch 1/1, Loss: 1.3029411708121188, Accuracy: 0.99
+	Training Client 36/60
+Epoch 1/1, Loss: 1.5731018985970877, Accuracy: 0.983
+	Training Client 37/60
+Epoch 1/1, Loss: 2.0047282270388678, Accuracy: 0.982
+	Training Client 38/60
+Epoch 1/1, Loss: 2.4549710217979737, Accuracy: 0.974
+	Training Client 39/60
+Epoch 1/1, Loss: 1.4888420491479337, Accuracy: 0.984
+	Training Client 40/60
+Epoch 1/1, Loss: 1.614768105209805, Accuracy: 0.982
+	Training Client 41/60
+Epoch 1/1, Loss: 1.8537838587653823, Accuracy: 0.981
+	Training Client 42/60
+Epoch 1/1, Loss: 15.69343587756157, Accuracy: 0.879
+	Training Client 43/60
+Epoch 1/1, Loss: 1.5951664063031785, Accuracy: 0.984
+	Training Client 44/60
+Epoch 1/1, Loss: 3.972465113271028, Accuracy: 0.95
+	Training Client 45/60
+Epoch 1/1, Loss: 2.2449620271800086, Accuracy: 0.979
+	Training Client 46/60
+Epoch 1/1, Loss: 2.035394769918639, Accuracy: 0.981
+	Training Client 47/60
+Epoch 1/1, Loss: 1.7078458379837684, Accuracy: 0.982
+	Training Client 48/60
+Epoch 1/1, Loss: 2.1145111169898883, Accuracy: 0.978
+	Training Client 49/60
+Epoch 1/1, Loss: 1.5492627089843154, Accuracy: 0.987
+	Training Client 50/60
+Epoch 1/1, Loss: 3.2516424652421847, Accuracy: 0.975
+	Training Client 51/60
+Epoch 1/1, Loss: 2.2693504254566506, Accuracy: 0.983
+	Training Client 52/60
+Epoch 1/1, Loss: 2.4060129509307444, Accuracy: 0.968
+	Training Client 53/60
+Epoch 1/1, Loss: 2.1915110936388373, Accuracy: 0.981
+	Training Client 54/60
+Epoch 1/1, Loss: 2.448594045243226, Accuracy: 0.98
+	Training Client 55/60
+Epoch 1/1, Loss: 1.1738889964763075, Accuracy: 0.988
+	Training Client 56/60
+Epoch 1/1, Loss: 14.067066168412566, Accuracy: 0.876
+	Training Client 57/60
+Epoch 1/1, Loss: 2.3487196913920343, Accuracy: 0.982
+	Training Client 58/60
+Epoch 1/1, Loss: 3.180920689512277, Accuracy: 0.952
+	Training Client 59/60
+Epoch 1/1, Loss: 2.1518707817886025, Accuracy: 0.975
+	Training Client 60/60
+Epoch 1/1, Loss: 1.3553830587479752, Accuracy: 0.989
+Global Epoch 29, Client 3: True Drift Detected, Drift Type: Gradual .
+Global Epoch 29, Client 4: False Drift Detected.
+Global Epoch 29, Client 7: True Drift Detected, Drift Type: Gradual .
+Global Epoch 29, Client 10: True Drift Detected, Drift Type: Gradual .
+Global Epoch 29, Client 11: True Drift Detected, Drift Type: Sudden .
+Global Epoch 29, Client 14: True Drift Detected, Drift Type: Gradual .
+Global Epoch 29, Client 16: True Drift Detected, Drift Type: Gradual .
+Global Epoch 29, Client 19: True Drift Detected, Drift Type: Sudden .
+Global Epoch 29, Client 28: True Drift Detected, Drift Type: Gradual .
+Global Epoch 29, Client 42: True Drift Detected, Drift Type: Sudden .
+Global Epoch 29, Client 56: True Drift Detected, Drift Type: Sudden .
+	Aggregating client models
+Global Epoch 30/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 2.0397893926128745, Accuracy: 0.98
+	Training Client 2/60
+Epoch 1/1, Loss: 2.2262264927267097, Accuracy: 0.979
+	Training Client 3/60
+Epoch 1/1, Loss: 54.51313441991806, Accuracy: 0.522
+	Training Client 4/60
+Epoch 1/1, Loss: 3.1117481775581837, Accuracy: 0.97
+	Training Client 5/60
+Epoch 1/1, Loss: 2.288007745752111, Accuracy: 0.979
+	Training Client 6/60
+Epoch 1/1, Loss: 2.1286773129832, Accuracy: 0.982
+	Training Client 7/60
+Epoch 1/1, Loss: 57.97987616062164, Accuracy: 0.485
+	Training Client 8/60
+Epoch 1/1, Loss: 1.421187871019356, Accuracy: 0.987
+	Training Client 9/60
+Epoch 1/1, Loss: 2.284422526397975, Accuracy: 0.98
+	Training Client 10/60
+Epoch 1/1, Loss: 57.10953497886658, Accuracy: 0.495
+	Training Client 11/60
+Epoch 1/1, Loss: 16.34705440700054, Accuracy: 0.862
+	Training Client 12/60
+Epoch 1/1, Loss: 4.162404601462185, Accuracy: 0.944
+	Training Client 13/60
+Epoch 1/1, Loss: 1.139577691166778, Accuracy: 0.991
+	Training Client 14/60
+Epoch 1/1, Loss: 56.44970375299454, Accuracy: 0.506
+	Training Client 15/60
+Epoch 1/1, Loss: 2.2230331175451283, Accuracy: 0.97
+	Training Client 16/60
+Epoch 1/1, Loss: 58.06288385391235, Accuracy: 0.478
+	Training Client 17/60
+Epoch 1/1, Loss: 2.10849818886345, Accuracy: 0.983
+	Training Client 18/60
+Epoch 1/1, Loss: 1.2194630776066333, Accuracy: 0.985
+	Training Client 19/60
+Epoch 1/1, Loss: 16.34820483624935, Accuracy: 0.867
+	Training Client 20/60
+Epoch 1/1, Loss: 1.66528394917259, Accuracy: 0.991
+	Training Client 21/60
+Epoch 1/1, Loss: 5.420666731894016, Accuracy: 0.955
+	Training Client 22/60
+Epoch 1/1, Loss: 2.4678735685301945, Accuracy: 0.977
+	Training Client 23/60
+Epoch 1/1, Loss: 2.458874428528361, Accuracy: 0.973
+	Training Client 24/60
+Epoch 1/1, Loss: 1.9736923836171627, Accuracy: 0.986
+	Training Client 25/60
+Epoch 1/1, Loss: 2.1628222372964956, Accuracy: 0.981
+	Training Client 26/60
+Epoch 1/1, Loss: 1.7163214111933485, Accuracy: 0.988
+	Training Client 27/60
+Epoch 1/1, Loss: 1.8810941265546717, Accuracy: 0.981
+	Training Client 28/60
+Epoch 1/1, Loss: 56.42361858487129, Accuracy: 0.501
+	Training Client 29/60
+Epoch 1/1, Loss: 1.3466980970697477, Accuracy: 0.987
+	Training Client 30/60
+Epoch 1/1, Loss: 2.2557123218794004, Accuracy: 0.978
+	Training Client 31/60
+Epoch 1/1, Loss: 2.742658989620395, Accuracy: 0.972
+	Training Client 32/60
+Epoch 1/1, Loss: 1.2434903192624915, Accuracy: 0.985
+	Training Client 33/60
+Epoch 1/1, Loss: 2.1713824920007028, Accuracy: 0.981
+	Training Client 34/60
+Epoch 1/1, Loss: 2.033002397045493, Accuracy: 0.975
+	Training Client 35/60
+Epoch 1/1, Loss: 1.5768326997058466, Accuracy: 0.987
+	Training Client 36/60
+Epoch 1/1, Loss: 1.3108450977888424, Accuracy: 0.986
+	Training Client 37/60
+Epoch 1/1, Loss: 1.739725330058718, Accuracy: 0.986
+	Training Client 38/60
+Epoch 1/1, Loss: 2.7105317363748327, Accuracy: 0.973
+	Training Client 39/60
+Epoch 1/1, Loss: 1.4876734284625854, Accuracy: 0.986
+	Training Client 40/60
+Epoch 1/1, Loss: 2.0390131984604523, Accuracy: 0.975
+	Training Client 41/60
+Epoch 1/1, Loss: 1.7061517919646576, Accuracy: 0.985
+	Training Client 42/60
+Epoch 1/1, Loss: 12.318503938615322, Accuracy: 0.896
+	Training Client 43/60
+Epoch 1/1, Loss: 1.3286730635591084, Accuracy: 0.984
+	Training Client 44/60
+Epoch 1/1, Loss: 3.7855210113339126, Accuracy: 0.958
+	Training Client 45/60
+Epoch 1/1, Loss: 2.8887759631033987, Accuracy: 0.97
+	Training Client 46/60
+Epoch 1/1, Loss: 2.066367019666359, Accuracy: 0.978
+	Training Client 47/60
+Epoch 1/1, Loss: 1.7364761964417994, Accuracy: 0.981
+	Training Client 48/60
+Epoch 1/1, Loss: 2.472298284585122, Accuracy: 0.98
+	Training Client 49/60
+Epoch 1/1, Loss: 1.3657624442712404, Accuracy: 0.989
+	Training Client 50/60
+Epoch 1/1, Loss: 3.1896245008101687, Accuracy: 0.974
+	Training Client 51/60
+Epoch 1/1, Loss: 2.0469364762102487, Accuracy: 0.973
+	Training Client 52/60
+Epoch 1/1, Loss: 2.752143294317648, Accuracy: 0.976
+	Training Client 53/60
+Epoch 1/1, Loss: 2.327130862278864, Accuracy: 0.978
+	Training Client 54/60
+Epoch 1/1, Loss: 2.5004079461214133, Accuracy: 0.982
+	Training Client 55/60
+Epoch 1/1, Loss: 1.2107304822420701, Accuracy: 0.983
+	Training Client 56/60
+Epoch 1/1, Loss: 12.511728916317225, Accuracy: 0.877
+	Training Client 57/60
+Epoch 1/1, Loss: 2.373179815011099, Accuracy: 0.975
+	Training Client 58/60
+Epoch 1/1, Loss: 2.6331474384642206, Accuracy: 0.966
+	Training Client 59/60
+Epoch 1/1, Loss: 2.189473192906007, Accuracy: 0.979
+	Training Client 60/60
+Epoch 1/1, Loss: 1.0123387749772519, Accuracy: 0.99
+	Aggregating client models
+Global Epoch 31/40
+Applying rotation drift to specific clients
+	Training Client 1/60
+Epoch 1/1, Loss: 1.748304309498053, Accuracy: 0.983
+	Training Client 2/60
+Epoch 1/1, Loss: 2.560358847898897, Accuracy: 0.981
+	Training Client 3/60
+Epoch 1/1, Loss: 54.64400237798691, Accuracy: 0.511
+	Training Client 4/60
+Epoch 1/1, Loss: 3.151575027965009, Accuracy: 0.968
+	Training Client 5/60
+Epoch 1/1, Loss: 2.069516251096502, Accuracy: 0.982
+	Training Client 6/60
+Epoch 1/1, Loss: 1.8590309572173283, Accuracy: 0.985
+	Training Client 7/60
+Epoch 1/1, Loss: 50.08575618267059, Accuracy: 0.538
+	Training Client 8/60
+Epoch 1/1, Loss: 1.9562962616691948, Accuracy: 0.984
+	Training Client 9/60
+Epoch 1/1, Loss: 2.5296269377722638, Accuracy: 0.979
+	Training Client 10/60
+Epoch 1/1, Loss: 54.313165962696075, Accuracy: 0.504
+	Training Client 11/60
+Epoch 1/1, Loss: 15.019921563565731, Accuracy: 0.858
+	Training Client 12/60
+Epoch 1/1, Loss: 3.5512222736142576, Accuracy: 0.948
+	Training Client 13/60
+Epoch 1/1, Loss: 1.3295165287563577, Accuracy: 0.984
+	Training Client 14/60
+Epoch 1/1, Loss: 57.58248329162598, Accuracy: 0.481
+	Training Client 15/60
+Epoch 1/1, Loss: 2.6895812150323763, Accuracy: 0.97
+	Training Client 16/60
+Epoch 1/1, Loss: 55.952012956142426, Accuracy: 0.516
+	Training Client 17/60
+Epoch 1/1, Loss: 2.071717261802405, Accuracy: 0.98
+	Training Client 18/60
+Epoch 1/1, Loss: 1.5909149275394157, Accuracy: 0.988
+	Training Client 19/60
+Epoch 1/1, Loss: 14.430404521524906, Accuracy: 0.858
+	Training Client 20/60
+Epoch 1/1, Loss: 1.4200079835022734, Accuracy: 0.983
+	Training Client 21/60
+Epoch 1/1, Loss: 5.300393972545862, Accuracy: 0.946
+	Training Client 22/60
+Epoch 1/1, Loss: 1.8112776081543416, Accuracy: 0.981
+	Training Client 23/60
+Epoch 1/1, Loss: 2.65677724260604, Accuracy: 0.974
+	Training Client 24/60
+Epoch 1/1, Loss: 1.793592074420303, Accuracy: 0.984
+	Training Client 25/60
+Epoch 1/1, Loss: 2.17483341624029, Accuracy: 0.977
+	Training Client 26/60
+Epoch 1/1, Loss: 1.486851997091435, Accuracy: 0.987
+	Training Client 27/60
+Epoch 1/1, Loss: 2.007122683804482, Accuracy: 0.981
+	Training Client 28/60
+Epoch 1/1, Loss: 52.04232943058014, Accuracy: 0.52
+	Training Client 29/60
+Epoch 1/1, Loss: 1.601404036860913, Accuracy: 0.984
+	Training Client 30/60
+Epoch 1/1, Loss: 1.9702480998821557, Accuracy: 0.977
+	Training Client 31/60
+Epoch 1/1, Loss: 2.634707645396702, Accuracy: 0.974
+	Training Client 32/60
+Epoch 1/1, Loss: 1.428795080024429, Accuracy: 0.988
+	Training Client 33/60
+Epoch 1/1, Loss: 2.3239611889002845, Accuracy: 0.976
+	Training Client 34/60
+Epoch 1/1, Loss: 1.9041097679291852, Accuracy: 0.979
+	Training Client 35/60
+Epoch 1/1, Loss: 1.3838180039310828, Accuracy: 0.987
+	Training Client 36/60
+Epoch 1/1, Loss: 1.295083272852935, Accuracy: 0.983
+	Training Client 37/60
+Epoch 1/1, Loss: 1.9251286106882617, Accuracy: 0.981
+	Training Client 38/60
+Epoch 1/1, Loss: 2.004488204824156, Accuracy: 0.978
+	Training Client 39/60
+Epoch 1/1, Loss: 1.4098267885610767, Accuracy: 0.982
+	Training Client 40/60
+Epoch 1/1, Loss: 2.1278996328474022, Accuracy: 0.984
+	Training Client 41/60
+Epoch 1/1, Loss: 2.032288172689732, Accuracy: 0.98
+	Training Client 42/60
+Epoch 1/1, Loss: 15.825454119592905, Accuracy: 0.852
+	Training Client 43/60
+Epoch 1/1, Loss: 1.7720731200097362, Accuracy: 0.988
+	Training Client 44/60
+Epoch 1/1, Loss: 4.095062700100243, Accuracy: 0.954
+	Training Client 45/60
+Epoch 1/1, Loss: 1.8383929929696023, Accuracy: 0.988
+	Training Client 46/60
+Epoch 1/1, Loss: 2.5141510504763573, Accuracy: 0.976
+	Training Client 47/60
+Epoch 1/1, Loss: 2.034648066619411, Accuracy: 0.98
+	Training Client 48/60
+Epoch 1/1, Loss: 2.1404339271830395, Accuracy: 0.985
+	Training Client 49/60
+Epoch 1/1, Loss: 1.7380718329222873, Accuracy: 0.985
+	Training Client 50/60
+Epoch 1/1, Loss: 3.2450063745491207, Accuracy: 0.976
+	Training Client 51/60
+Epoch 1/1, Loss: 2.031879493035376, Accuracy: 0.979
+	Training Client 52/60
+Epoch 1/1, Loss: 2.484803155530244, Accuracy: 0.972
+	Training Client 53/60
+Epoch 1/1, Loss: 1.846752972342074, Accuracy: 0.982
+	Training Client 54/60
+Epoch 1/1, Loss: 2.2186338746978436, Accuracy: 0.984
+	Training Client 55/60
+Epoch 1/1, Loss: 1.1254063092637807, Accuracy: 0.989
+	Training Client 56/60
+Epoch 1/1, Loss: 13.103033883497119, Accuracy: 0.891
+	Training Client 57/60
+Epoch 1/1, Loss: 2.838031150691677, Accuracy: 0.973
+	Training Client 58/60
+Epoch 1/1, Loss: 2.9546258315822342, Accuracy: 0.964
+	Training Client 59/60
+Epoch 1/1, Loss: 1.8213937296532094, Accuracy: 0.987
+	Training Client 60/60
+Epoch 1/1, Loss: 1.5514411690091947, Accuracy: 0.986
+	Aggregating client models
+Global Epoch 32/40
+	Training Client 1/60
+Epoch 1/1, Loss: 1.546094155695755, Accuracy: 0.984
+	Training Client 2/60
+Epoch 1/1, Loss: 2.2292216802597977, Accuracy: 0.978
+	Training Client 3/60
+Epoch 1/1, Loss: 53.15297496318817, Accuracy: 0.516
+	Training Client 4/60
+Epoch 1/1, Loss: 3.0893897062633187, Accuracy: 0.966
+	Training Client 5/60
+Epoch 1/1, Loss: 1.9941050069755875, Accuracy: 0.984
+	Training Client 6/60
+Epoch 1/1, Loss: 1.662347597652115, Accuracy: 0.985
+	Training Client 7/60
+Epoch 1/1, Loss: 46.95309445261955, Accuracy: 0.55
+	Training Client 8/60
+Epoch 1/1, Loss: 1.6344146340852603, Accuracy: 0.989
+	Training Client 9/60
+Epoch 1/1, Loss: 2.293130171718076, Accuracy: 0.983
+	Training Client 10/60
+Epoch 1/1, Loss: 50.8514586687088, Accuracy: 0.534
+	Training Client 11/60
+Epoch 1/1, Loss: 16.45349273085594, Accuracy: 0.849
+	Training Client 12/60
+Epoch 1/1, Loss: 3.7044732156209648, Accuracy: 0.942
+	Training Client 13/60
+Epoch 1/1, Loss: 1.347615223890898, Accuracy: 0.987
+	Training Client 14/60
+Epoch 1/1, Loss: 54.25480616092682, Accuracy: 0.51
+	Training Client 15/60
+Epoch 1/1, Loss: 2.7533072694786824, Accuracy: 0.969
+	Training Client 16/60
+Epoch 1/1, Loss: 50.79585599899292, Accuracy: 0.546
+	Training Client 17/60
+Epoch 1/1, Loss: 2.1244052301626652, Accuracy: 0.983
+	Training Client 18/60
+Epoch 1/1, Loss: 1.2512170849076938, Accuracy: 0.988
+	Training Client 19/60
+Epoch 1/1, Loss: 14.280858300626278, Accuracy: 0.863
+	Training Client 20/60
+Epoch 1/1, Loss: 1.896790002239868, Accuracy: 0.987
+	Training Client 21/60
+Epoch 1/1, Loss: 5.210594949312508, Accuracy: 0.951
+	Training Client 22/60
+Epoch 1/1, Loss: 1.9425642932765186, Accuracy: 0.982
+	Training Client 23/60
+Epoch 1/1, Loss: 2.671957560320152, Accuracy: 0.982
+	Training Client 24/60
+Epoch 1/1, Loss: 2.1410401011817157, Accuracy: 0.982
+	Training Client 25/60
+Epoch 1/1, Loss: 2.3884279950143537, Accuracy: 0.981
+	Training Client 26/60
+Epoch 1/1, Loss: 1.940811386464702, Accuracy: 0.982
+	Training Client 27/60
+Epoch 1/1, Loss: 1.8994921363482717, Accuracy: 0.985
+	Training Client 28/60
+Epoch 1/1, Loss: 50.524293303489685, Accuracy: 0.528
+	Training Client 29/60
+Epoch 1/1, Loss: 1.543246233370155, Accuracy: 0.983
+	Training Client 30/60
+Epoch 1/1, Loss: 2.231311360534164, Accuracy: 0.981
+	Training Client 31/60
+Epoch 1/1, Loss: 3.162657415799913, Accuracy: 0.969
+	Training Client 32/60
+Epoch 1/1, Loss: 1.7287414601887576, Accuracy: 0.984
+	Training Client 33/60
+Epoch 1/1, Loss: 1.7810486327216495, Accuracy: 0.984
+	Training Client 34/60
+Epoch 1/1, Loss: 1.3435046868398786, Accuracy: 0.982
+	Training Client 35/60
+Epoch 1/1, Loss: 1.68076853283128, Accuracy: 0.986
+	Training Client 36/60
+Epoch 1/1, Loss: 1.52066471944363, Accuracy: 0.983
+	Training Client 37/60
+Epoch 1/1, Loss: 1.6938667104113847, Accuracy: 0.985
+	Training Client 38/60
+Epoch 1/1, Loss: 2.0800715396471787, Accuracy: 0.978
+	Training Client 39/60
+Epoch 1/1, Loss: 1.5017304675129708, Accuracy: 0.982
+	Training Client 40/60
+Epoch 1/1, Loss: 2.0149707323289476, Accuracy: 0.985
+	Training Client 41/60
+Epoch 1/1, Loss: 1.8496693389024585, Accuracy: 0.982
+	Training Client 42/60
+Epoch 1/1, Loss: 12.535216212272644, Accuracy: 0.89
+	Training Client 43/60
+Epoch 1/1, Loss: 1.6198149697156623, Accuracy: 0.984
+	Training Client 44/60
+Epoch 1/1, Loss: 4.00880022905767, Accuracy: 0.956
+	Training Client 45/60
+Epoch 1/1, Loss: 2.096371577354148, Accuracy: 0.976
+	Training Client 46/60
+Epoch 1/1, Loss: 1.9996629205415957, Accuracy: 0.984
+	Training Client 47/60
+Epoch 1/1, Loss: 1.856594029115513, Accuracy: 0.988
+	Training Client 48/60
+Epoch 1/1, Loss: 2.11200320169155, Accuracy: 0.984
+	Training Client 49/60
+Epoch 1/1, Loss: 1.8526125503121875, Accuracy: 0.984
+	Training Client 50/60
+Epoch 1/1, Loss: 2.956765613052994, Accuracy: 0.973
+	Training Client 51/60
+Epoch 1/1, Loss: 2.0567771162022837, Accuracy: 0.977
+	Training Client 52/60
+Epoch 1/1, Loss: 2.5649291770532727, Accuracy: 0.973
+	Training Client 53/60
+Epoch 1/1, Loss: 1.8447357611730695, Accuracy: 0.987
+	Training Client 54/60
+Epoch 1/1, Loss: 2.2982523473910987, Accuracy: 0.984
+	Training Client 55/60
+Epoch 1/1, Loss: 1.2297514818928903, Accuracy: 0.983
+	Training Client 56/60
+Epoch 1/1, Loss: 13.114351563155651, Accuracy: 0.873
+	Training Client 57/60
+Epoch 1/1, Loss: 2.7278875685296953, Accuracy: 0.976
+	Training Client 58/60
+Epoch 1/1, Loss: 2.64924430398969, Accuracy: 0.969
+	Training Client 59/60
+Epoch 1/1, Loss: 2.0063704941421747, Accuracy: 0.977
+	Training Client 60/60
+Epoch 1/1, Loss: 1.177199427744199, Accuracy: 0.987
+	Aggregating client models
+Global Epoch 33/40
+	Training Client 1/60
+Epoch 1/1, Loss: 1.626657273096498, Accuracy: 0.986
+	Training Client 2/60
+Epoch 1/1, Loss: 2.590790866233874, Accuracy: 0.974
+	Training Client 3/60
+Epoch 1/1, Loss: 47.690833270549774, Accuracy: 0.562
+	Training Client 4/60
+Epoch 1/1, Loss: 2.9600338200107217, Accuracy: 0.972
+	Training Client 5/60
+Epoch 1/1, Loss: 2.118854410771746, Accuracy: 0.982
+	Training Client 6/60
+Epoch 1/1, Loss: 2.0982365013915114, Accuracy: 0.984
+	Training Client 7/60
+Epoch 1/1, Loss: 45.11919051408768, Accuracy: 0.569
+	Training Client 8/60
+Epoch 1/1, Loss: 1.6825907827005722, Accuracy: 0.987
+	Training Client 9/60
+Epoch 1/1, Loss: 2.366940052481368, Accuracy: 0.983
+	Training Client 10/60
+Epoch 1/1, Loss: 47.609868943691254, Accuracy: 0.578
+	Training Client 11/60
+Epoch 1/1, Loss: 15.07121354341507, Accuracy: 0.853
+	Training Client 12/60
+Epoch 1/1, Loss: 3.756224788259715, Accuracy: 0.951
+	Training Client 13/60
+Epoch 1/1, Loss: 1.432063481217483, Accuracy: 0.988
+	Training Client 14/60
+Epoch 1/1, Loss: 47.21363592147827, Accuracy: 0.559
+	Training Client 15/60
+Epoch 1/1, Loss: 2.428974777014446, Accuracy: 0.968
+	Training Client 16/60
+Epoch 1/1, Loss: 49.21699506044388, Accuracy: 0.556
+	Training Client 17/60
+Epoch 1/1, Loss: 2.258051171549596, Accuracy: 0.98
+	Training Client 18/60
+Epoch 1/1, Loss: 2.298586205637548, Accuracy: 0.985
+	Training Client 19/60
+Epoch 1/1, Loss: 15.663117416203022, Accuracy: 0.863
+	Training Client 20/60
+Epoch 1/1, Loss: 1.641815792187117, Accuracy: 0.987
+	Training Client 21/60
+Epoch 1/1, Loss: 4.920381021685898, Accuracy: 0.951
+	Training Client 22/60
+Epoch 1/1, Loss: 2.072873639233876, Accuracy: 0.979
+	Training Client 23/60
+Epoch 1/1, Loss: 2.705237311543897, Accuracy: 0.978
+	Training Client 24/60
+Epoch 1/1, Loss: 1.7774067353457212, Accuracy: 0.985
+	Training Client 25/60
+Epoch 1/1, Loss: 2.2652812922606245, Accuracy: 0.979
+	Training Client 26/60
+Epoch 1/1, Loss: 1.902340134998667, Accuracy: 0.983
+	Training Client 27/60
+Epoch 1/1, Loss: 1.6761669569823425, Accuracy: 0.981
+	Training Client 28/60
+Epoch 1/1, Loss: 47.8222159743309, Accuracy: 0.561
+	Training Client 29/60
+Epoch 1/1, Loss: 1.3914898603543406, Accuracy: 0.986
+	Training Client 30/60
+Epoch 1/1, Loss: 1.9055105792940594, Accuracy: 0.983
+	Training Client 31/60
+Epoch 1/1, Loss: 2.700426580653584, Accuracy: 0.964
+	Training Client 32/60
+Epoch 1/1, Loss: 1.6234338580543408, Accuracy: 0.982
+	Training Client 33/60
+Epoch 1/1, Loss: 1.9525877575360937, Accuracy: 0.983
+	Training Client 34/60
+Epoch 1/1, Loss: 1.5778828711918322, Accuracy: 0.986
+	Training Client 35/60
+Epoch 1/1, Loss: 1.36236975050997, Accuracy: 0.991
+	Training Client 36/60
+Epoch 1/1, Loss: 1.1445343302330002, Accuracy: 0.992
+	Training Client 37/60
+Epoch 1/1, Loss: 1.6169993026269367, Accuracy: 0.986
+	Training Client 38/60
+Epoch 1/1, Loss: 1.9842045044133556, Accuracy: 0.984
+	Training Client 39/60
+Epoch 1/1, Loss: 1.5476515417249175, Accuracy: 0.983
+	Training Client 40/60
+Epoch 1/1, Loss: 1.8544879268592922, Accuracy: 0.983
+	Training Client 41/60
+Epoch 1/1, Loss: 1.757212640310172, Accuracy: 0.981
+	Training Client 42/60
+Epoch 1/1, Loss: 13.297985009849072, Accuracy: 0.879
+	Training Client 43/60
+Epoch 1/1, Loss: 1.199273185164202, Accuracy: 0.989
+	Training Client 44/60
+Epoch 1/1, Loss: 4.462963962898357, Accuracy: 0.942
+	Training Client 45/60
+Epoch 1/1, Loss: 2.140395626309328, Accuracy: 0.981
+	Training Client 46/60
+Epoch 1/1, Loss: 2.0145208820467815, Accuracy: 0.975
+	Training Client 47/60
+Epoch 1/1, Loss: 2.558748149778694, Accuracy: 0.985
+	Training Client 48/60
+Epoch 1/1, Loss: 2.1299005708424374, Accuracy: 0.985
+	Training Client 49/60
+Epoch 1/1, Loss: 2.0034284352732357, Accuracy: 0.979
+	Training Client 50/60
+Epoch 1/1, Loss: 3.4397321366705, Accuracy: 0.97
+	Training Client 51/60
+Epoch 1/1, Loss: 2.3185999687120784, Accuracy: 0.978
+	Training Client 52/60
+Epoch 1/1, Loss: 2.4248010099108797, Accuracy: 0.975
+	Training Client 53/60
+Epoch 1/1, Loss: 2.23838391379104, Accuracy: 0.979
+	Training Client 54/60
+Epoch 1/1, Loss: 2.0540177448710892, Accuracy: 0.985
+	Training Client 55/60
+Epoch 1/1, Loss: 1.5607616729103029, Accuracy: 0.978
+	Training Client 56/60
+Epoch 1/1, Loss: 15.621494144201279, Accuracy: 0.874
+	Training Client 57/60
+Epoch 1/1, Loss: 2.341923264262732, Accuracy: 0.984
+	Training Client 58/60
+Epoch 1/1, Loss: 3.1419444516068324, Accuracy: 0.951
+	Training Client 59/60
+Epoch 1/1, Loss: 1.7223429417063016, Accuracy: 0.985
+	Training Client 60/60
+Epoch 1/1, Loss: 1.305971099413, Accuracy: 0.99
+	Aggregating client models
+Global Epoch 34/40
+	Training Client 1/60
+Epoch 1/1, Loss: 1.9869074603775516, Accuracy: 0.986
+	Training Client 2/60
+Epoch 1/1, Loss: 2.318684000405483, Accuracy: 0.978
+	Training Client 3/60
+Epoch 1/1, Loss: 46.61749333143234, Accuracy: 0.571
+	Training Client 4/60
+Epoch 1/1, Loss: 3.1523692244663835, Accuracy: 0.972
+	Training Client 5/60
+Epoch 1/1, Loss: 1.6908589056693017, Accuracy: 0.987
+	Training Client 6/60
+Epoch 1/1, Loss: 1.7448916657012887, Accuracy: 0.981
+	Training Client 7/60
+Epoch 1/1, Loss: 44.90288704633713, Accuracy: 0.58
+	Training Client 8/60
+Epoch 1/1, Loss: 1.6283997115097009, Accuracy: 0.986
+	Training Client 9/60
+Epoch 1/1, Loss: 2.208411135885399, Accuracy: 0.982
+	Training Client 10/60
+Epoch 1/1, Loss: 44.42645052075386, Accuracy: 0.595
+	Training Client 11/60
+Epoch 1/1, Loss: 14.808414869010448, Accuracy: 0.846
+	Training Client 12/60
+Epoch 1/1, Loss: 3.412354262196459, Accuracy: 0.957
+	Training Client 13/60
+Epoch 1/1, Loss: 1.0104432053558412, Accuracy: 0.993
+	Training Client 14/60
+Epoch 1/1, Loss: 46.675517141819, Accuracy: 0.573
+	Training Client 15/60
+Epoch 1/1, Loss: 2.4204593892063713, Accuracy: 0.97
+	Training Client 16/60
+Epoch 1/1, Loss: 46.370683670043945, Accuracy: 0.576
+	Training Client 17/60
+Epoch 1/1, Loss: 2.1547610896232072, Accuracy: 0.983
+	Training Client 18/60
+Epoch 1/1, Loss: 1.288140188466059, Accuracy: 0.989
+	Training Client 19/60
+Epoch 1/1, Loss: 15.711745765060186, Accuracy: 0.865
+	Training Client 20/60
+Epoch 1/1, Loss: 1.4288850650409586, Accuracy: 0.988
+	Training Client 21/60
+Epoch 1/1, Loss: 5.042279970366508, Accuracy: 0.941
+	Training Client 22/60
+Epoch 1/1, Loss: 2.111017766146688, Accuracy: 0.974
+	Training Client 23/60
+Epoch 1/1, Loss: 2.3082536082947627, Accuracy: 0.98
+	Training Client 24/60
+Epoch 1/1, Loss: 2.1342067849473096, Accuracy: 0.979
+	Training Client 25/60
+Epoch 1/1, Loss: 2.095498595308527, Accuracy: 0.978
+	Training Client 26/60
+Epoch 1/1, Loss: 1.8691832708427683, Accuracy: 0.983
+	Training Client 27/60
+Epoch 1/1, Loss: 1.5524579931807239, Accuracy: 0.984
+	Training Client 28/60
+Epoch 1/1, Loss: 44.89580303430557, Accuracy: 0.594
+	Training Client 29/60
+Epoch 1/1, Loss: 1.546093390250462, Accuracy: 0.984
+	Training Client 30/60
+Epoch 1/1, Loss: 1.587841854779981, Accuracy: 0.983
+	Training Client 31/60
+Epoch 1/1, Loss: 2.7014435980236158, Accuracy: 0.974
+	Training Client 32/60
+Epoch 1/1, Loss: 1.3862168220512103, Accuracy: 0.985
+	Training Client 33/60
+Epoch 1/1, Loss: 2.2116371796582825, Accuracy: 0.978
+	Training Client 34/60
+Epoch 1/1, Loss: 1.4064176431566011, Accuracy: 0.984
+	Training Client 35/60
+Epoch 1/1, Loss: 1.2535006396356039, Accuracy: 0.992
+	Training Client 36/60
+Epoch 1/1, Loss: 1.6619531087344512, Accuracy: 0.986
+	Training Client 37/60
+Epoch 1/1, Loss: 1.6619531087344512, Accuracy: 0.986
+	Training Client 37/60
