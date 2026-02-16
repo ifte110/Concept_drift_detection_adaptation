@@ -62,7 +62,7 @@ Concept_drift_detection_adaptation/
 ├── archive/                 # Older versions
 │
 ├── thesis presentation.pdf  # thesis presentation
-├── 
+├── paper
 ├── readme.txt               # Basic repo description
 └── LICENSE
 
