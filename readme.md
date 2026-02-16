@@ -55,7 +55,7 @@ Improve model performance after drift by adapting global or local models.
 Concept_drift_detection_adaptation/
 │
 ├── Adaptation/              # Adaptation strategy experiments
-├── Final/                   # Final experiment versions for thesis work
+├── Final/                   # Final experiment versions from thesis work
 ├── Loss Method Eval/        # Loss-based detection evaluation
 ├── Other Experiments/       # Additional experiments from the thesis work
 ├── Plots/                   # Generated plots and results
