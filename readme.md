@@ -185,14 +185,14 @@ Python 3.8+
 
 Common libraries:
 
-''''
+```
 torch
 numpy
 matplotlib
 pandas
 scikit-learn
 jupyter
-'''
+```
 
 Run notebooks inside folders like:
 ```
